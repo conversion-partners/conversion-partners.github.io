@@ -1,9 +1,48 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Conversion Partners</title>
+<meta charset="UTF-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<title>CSS Only Navigation Menu</title>
+<link href="css/core.css" rel="stylesheet" />
+<link href="css/font.css" rel="stylesheet" />
+<link href="css/layout.css" rel="stylesheet" />
+<link href="css/breakpoints/media-queries.css" rel="stylesheet" />
+<link href="css/menu.css" rel="stylesheet" />
+<link href="css/table.css" rel="stylesheet" />
+<link href="css/form.css" rel="stylesheet" />
+<link href="css/skin.css" rel="stylesheet" />
 </head>
 <body>
-Conversion Partners is up!
+	<main>
+	<header>
+    <img src="images/header.png">
+	</header>
+	 <nav>
+    <label for="show-menu" class="show-menu">Show Menu</label> <input type="checkbox" id="show-menu">
+    <ul id="menu">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About </a>
+        <ul class="hidden">
+          <li><a href="#">Who We Are</a></li>
+          <li><a href="#">What We Do</a></li>
+        </ul></li>
+      <li><a href="#">Portfolio </a>
+        <ul class="hidden">
+          <li><a href="#">Photography</a></li>
+          <li><a href="#">Web &amp; User Interface Design</a></li>
+          <li><a href="#">Illustration</a></li>
+        </ul></li>
+      <li><a href="#">News</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+	<article id="main-article">
+	    <img src="images/main.png">
+	</article>
+
+	</main>
 </body>
 </html>

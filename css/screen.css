@@ -42,8 +42,11 @@ ol { margin-left: 36px; }
 */
 
 
-#video-controls { width: 333px; }
-#video-controls a { color: #ddd; text-decoration: underline; }
+#video-controls { width: 593px;
+left: 7px;
+position: relative;
+display: block;}
+#video-controls a { color: #ddd; text-decoration: none; }
 
 
 /*

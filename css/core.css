@@ -114,6 +114,11 @@ aside ol {
   PAGE/SECTION SPECIFIC
   ____________________________
 */
+menu {
+	float: right;
+	margin-top: -17px;
+}
+
 nav {
 	max-width: 593px;
 	left: 10px;
@@ -137,7 +142,7 @@ nav a {
 */
 article {
 	color: #333;
-padding: 10px 10px;
+	padding: 10px 10px;
 	margin: 24px 0;
 }
 

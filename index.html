@@ -10,212 +10,214 @@
 @charset "UTF-8";
 
 * {
-  margin: 0px;
-  padding: 0px;
+	margin: 0px;
+	padding: 0px;
 }
 
 html {
-  font-size: 62.5%;
-  font-family: Helvetica, Arial, sans-serif;
+	font-size: 62.5%;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 body {
-  background: #333;
-  color: #333;
+	background: #333;
+	color: #333;
 }
 
 p, h1, h2, h3, h4, h5, h6, ul {
-  margin: 25px 0;
+	margin: 25px 0;
 }
 
 a {
-  font-size: 1.6rem;
-  color: #ccc;
-  text-decoration: underline;
+	font-size: 1.6rem;
+	color: #ccc;
+	text-decoration: underline;
 }
 
 a:hover {
-  color: #fb2b2b;
+	color: #fb2b2b;
 }
 
 h1, h2 {
-  font-size: 2.6rem;
-  line-height: 2.8rem;
-  font-weight: normal;
-  letter-spacing: -1px;
-  color: #333;
+	font-size: 2.6rem;
+	line-height: 2.8rem;
+	font-weight: normal;
+	letter-spacing: -1px;
+	color: #333;
 }
 
 h3 {
-  font-size: 1.8rem;
-  font-weight: normal;
-  margin: 8px 0;
+	font-size: 1.8rem;
+	font-weight: normal;
+	margin: 8px 0;
 }
 
 h4 {
-  font-size: 1.4rem;
-  font-weight: normal;
-  margin: 0;
+	font-size: 1.4rem;
+	font-weight: normal;
+	margin: 0;
 }
 
 h5 {
-  font-size: 1.2rem;
-  font-weight: normal;
-  margin: 0;
+	font-size: 1.2rem;
+	font-weight: normal;
+	margin: 0;
 }
 
 p {
-  font-size: 1.7rem;
+	font-size: 1.7rem;
 }
 
 ul {
-  font-size: 1.6rem;
-  margin-left: 20px;
+	font-size: 1.6rem;
+	margin-left: 20px;
 }
 
 ol {
-  font-size: 1.6rem;
-  margin-left: 36px;
+	font-size: 1.6rem;
+	margin-left: 36px;
 }
 
 main {
-  max-width: 100%;
-  float: left;
-  overflow: hidden;
+	max-width: 100%;
+	float: left;
+	overflow: hidden;
 }
 
 main>p, main>div {
-  margin-left: 7px;
+	margin-left: 7px;
 }
 
 header {
-  max-width: 28rem;
-  margin-left: 0px;
+	max-width: 28rem;
+	margin-left: 0px;
 }
 
-
 header>a>img {
-  width: 28rem;
+	width: 28rem;
 }
 
 article {
-  color: #333;
-  padding: 15px 15px;
+	color: #333;
+	padding: 15px 15px;
 }
 
 aside {
-  width: 280px;
-  float: left;
+	width: 280px;
+	float: left;
 }
 
 aside ol {
-  margin: 12px 0 12px 22px;
-}
-
-menu {
-  float: right;
-  margin-top: -17px;
-  display: none;
+	margin: 12px 0 12px 22px;
 }
 
 nav {
-  max-width: 26rem;
-  position: relative;
-  display: block;
-  color: #CDCDCD;
-  _padding: 4px 12px;
-  margin: 24px 0;
-  background-color: #474747;
-  top: -50px;
+	max-width: 26rem;
+	position: relative;
+	display: block;
+	color: #CDCDCD;
+	_padding: 4px 12px;
+	margin: 24px 0;
+	background-color: #474747;
+	top: -50px;
 }
 
 nav>ul {
-  list-style: none;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+	list-style: none;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
 }
 
 nav>ul>li {
-  padding: 1rem;
+	padding: 1rem;
 }
 
 nav a {
-  color: #ddd;
-  text-decoration: none;
+	color: #ddd;
+	text-decoration: none;
 }
 
 #wrapper {
-  max-width: 96rem;
-  margin: 0 auto;
-  padding: 48px 10px 72px;
-  background-color: #fff
+	max-width: 96rem;
+	margin: 0 auto;
+	padding: 48px 10px 72px;
+	background-color: #fff
 }
 
 #modal {
-  position: fixed;
-  height: 100%;
-  width: 100%;
-  background-color: rgba(0, 0, 0, 0.80);
-  z-index: 99;
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.80);
+	z-index: 99;
 }
 
 #logo-text {
-  position: relative;
-  top: -84px;
-  left: 18px;
-  font-size: 2.6rem;
+	position: relative;
+	top: -84px;
+	left: 18px;
+	font-size: 2.6rem;
 }
+
+#background {
+	display: inline;
+	list-style-type: none;
+	float: right;
+	margin-top: -17px;
+	display: none;
+}
+
 #terms {
-  margin-left: 0px;
+	margin-left: 0px;
 }
 
 @media all and (min-width: 600px) {
-  menu {
-    display: block;
-  }
-  nav {
-    max-width: 100%;
-    top: -10px;
-  }
-  nav>ul>li {
-    display: inline;
-    list-style-type: none;
-    padding-right: 20px;
-  }
-  main {
-    max-width: 65rem;
-  }
-  #wrapper {
-    max-width: 66rem;
-  }
-  #terms {
-    margin-left: -325px;
-  }
+	#background {
+		display: block;
+	}
+	nav {
+		max-width: 100%;
+		top: -10px;
+	}
+	nav>ul>li {
+		display: inline;
+		list-style-type: none;
+		padding-right: 20px;
+	}
+	main {
+		max-width: 65rem;
+	}
+	#wrapper {
+		max-width: 66rem;
+	}
+	#terms {
+		margin-left: -325px;
+	}
 }
 
 @media all and (min-width: 1060px) {
-  menu {
-    display: block;
-  }
-  nav {
-    max-width: 100%;
-    top: -10px;
-  }
-  nav>ul>li {
-    display: inline;
-    list-style-type: none;
-    padding-right: 20px;
-  }
-  aside {
-    float: right;
-  }
-  #wrapper {
-    max-width: 96rem;
-    padding: 48px 50px 72px;
-  }
-  #terms {
-    margin-left: -325px;
-  }
+	#background {
+		display: block;
+	}
+	nav {
+		max-width: 100%;
+		top: -10px;
+	}
+	nav>ul>li {
+		display: inline;
+		list-style-type: none;
+		padding-right: 20px;
+	}
+	aside {
+		float: right;
+	}
+	#wrapper {
+		max-width: 96rem;
+		padding: 48px 50px 72px;
+	}
+	#terms {
+		margin-left: -325px;
+	}
 }
 </style>
 </head>
@@ -223,10 +225,9 @@ nav a {
 	<div id="modal"></div>
 	<div id="wrapper">
 
-		<ul>
-			<li> <a href="#" class="tubular-play">Play &nbsp;|</a></li>
-			<li> <a href="#" class="tubular-pause">Pause</a></li>
-		</ul>
+		<p id="background">
+			<a href="#" class="tubular-play">Play</a>&nbsp;|&nbsp;<a href="#" class="tubular-pause">Pause</a>
+		</p>
 
 		<main> <header>
 			<a href="http://conversion.partners"><img src="http://conversion.partners/media/logo.png"
@@ -346,8 +347,7 @@ nav a {
 					<li>Java 8</li>
 				</ul>
 				<p>
-					<br>
-					<a href="http://opensource.org/licenses/BSD-3-Clause">Register for Updates</a>.
+					<br> <a href="http://opensource.org/licenses/BSD-3-Clause">Register for Updates</a>.
 				</p>
 			</article>
 		</aside>

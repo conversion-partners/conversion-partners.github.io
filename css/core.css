@@ -159,3 +159,52 @@ nav a {
 #terms {
 	margin-left: 0px;
 }
+
+@media all and (min-width: 600px) {
+	menu {
+		display: block;
+	}
+	nav {
+		max-width: 100%;
+		top: -10px;
+	}
+	nav>ul>li {
+		display: inline;
+		list-style-type: none;
+		padding-right: 20px;
+	}
+	main {
+		max-width: 65rem;
+	}
+	#wrapper {
+		max-width: 66rem;
+	}
+	#terms {
+		margin-left: -325px;
+	}
+}
+
+@media all and (min-width: 1060px) {
+	menu {
+		display: block;
+	}
+	nav {
+		max-width: 100%;
+		top: -10px;
+	}
+	nav>ul>li {
+		display: inline;
+		list-style-type: none;
+		padding-right: 20px;
+	}
+	aside {
+		float: right;
+	}
+	#wrapper {
+		max-width: 96rem;
+		padding: 48px 50px 72px;
+	}
+	#terms {
+		margin-left: -325px;
+	}
+}

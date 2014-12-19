@@ -1,0 +1,26 @@
+menu {
+  display:block;
+}
+nav {
+	max-width: 100%;
+	top: -10px;
+}
+nav > ul > li
+{
+display: inline;
+list-style-type: none;
+padding-right: 20px;
+}
+
+aside {
+  float:right;
+}
+
+#wrapper {
+  max-width: 96rem;
+  padding: 48px 50px 72px;
+}
+
+#terms {
+  margin-left: -325px;
+}

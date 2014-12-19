@@ -15,7 +15,7 @@
 }
 
 p, h1, h2, h3, h4, h5, h6, ul {
-	margin: 15px 0;
+	margin: 25px 0;
 }
 
 body {
@@ -74,9 +74,15 @@ ol {
   LAYOUT
   ____________________________
 */
-
 header {
 	margin-left: 5px;
+}
+
+header>h1 {
+	position: relative;
+	top: -84px;
+	left: 18px;
+	font-size: 31px;
 }
 
 #wrapper {
@@ -131,15 +137,8 @@ nav a {
 */
 article {
 	color: #333;
-	padding: 4px 12px;
+padding: 10px 10px;
 	margin: 24px 0;
-}
-
-header > h1 {
-	position: relative;
-	top: -74px;
-	left: 18px;
-	font-size: 31px;
 }
 
 #modal {

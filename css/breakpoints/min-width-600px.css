@@ -1,17 +1,18 @@
 menu {
-  display:block;
+	display: block;
 }
 
 nav {
-  max-width: 100%;
-    top: -10px;
+	max-width: 100%;
+	top: -10px;
 }
-nav > ul > li
-{
-display: inline;
-list-style-type: none;
-padding-right: 20px;
+
+nav>ul>li {
+	display: inline;
+	list-style-type: none;
+	padding-right: 20px;
 }
+
 main {
 	max-width: 65rem;
 }
@@ -21,5 +22,5 @@ main {
 }
 
 #terms {
-  margin-left: -325px;
+	margin-left: -325px;
 }

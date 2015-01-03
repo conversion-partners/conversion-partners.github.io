@@ -147,6 +147,10 @@ nav a {
 	text-decoration: none;
 }
 
+a.language {
+  color: #474747;
+}
+
 #wrapper {
 	position: relative;
 	max-width: 96rem;
@@ -186,7 +190,7 @@ nav a {
 	font-size: 2.7rem;
 }
 
-#background {
+#background-vid {
 	display: inline;
 	list-style-type: none;
 	float: right;
@@ -207,7 +211,7 @@ nav a {
 }
 
 @media all and (min-width: 600px) {
-	#background {
+	#background-vid {
 		display: block;
 	}
 	nav {
@@ -236,7 +240,7 @@ nav a {
 		margin-left: 0px;
 		margin-bottom: -30px;
 	}
-	#background {
+	#background-vid {
 		display: block;
 	}
 	main {
@@ -273,23 +277,27 @@ nav a {
 	<div id="modal"></div>
 	<div id="wrapper">
 
-		<p id="background">
-			<a href="#" class="tubular-play">Play</a>&nbsp;|&nbsp;<a href="#" class="tubular-pause">Pause</a>
+		<p id="background-vid">
+      <a href="/nl" class="language">NL</a>&nbsp;|&nbsp;<a href="/" class="language">EN</a>
+<!--       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="#" class="tubular-play">Play</a>&nbsp;|&nbsp;<a href="#" class="tubular-pause">Pause</a> -->
 		</p>
 
 		<header>
-			<a id="logo-link" href=""> <!-- <img src="http://conversion.partners/media/logo.png" alt="Conversion Partners logo" /> -->
+			<a id="logo-link" href="">
 				<div id="logo-text">
 					<span style="color: #fff; font-weight: bold;">Conversion</span> | Partners
 				</div>
 			</a>
 
+
+
 			<nav>
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="/en/customer-service.html">Customer service</a></li>
 					<li><a href="/en/products.html">Products</a></li>
 					<li><a href="/en/services.html">Services</a></li>
+					<li><a href="/en/pricing.html">Pricing</a></li>
 					<li><a href="/en/contact.html">Contact</a></li>
 				</ul>
 
@@ -305,9 +313,7 @@ nav a {
 
 		<article>
 			<h1>Just One Powerful Method</h1>
-			<img src="media/3-steps.jpg"> <br>
-			<br>
-			<br>
+			<img src="media/3-steps.jpg"> <br> <br> <br>
 			<h2>Test</h2>
 			<p>With a team of professional programmers and data analysts, we have more than 15 years of experience ready to
 				boost your ecommerce performance. With a business driven aproach we ensure that we will operate as a team and that
@@ -424,18 +430,41 @@ nav a {
 			</article>
 
 			<article>
-				<!--  -->
-				<div id="mc_embed_signup">
-				<h3>Download</h3>
-					<p>
-						<a href="https://github.com/core9">Download our high performance <br> code on github
-						</a>
-					</p>
-					<p>
-						Licensed under <a href="http://opensource.org/licenses/BSD-3-Clause">BSD license</a>.
-					</p>
-
-				</div>
+	<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//partners.us9.list-manage.com/subscribe/post?u=440ce976ca5304343cc1d6be1&amp;id=64a05b13b0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+  <h2>Download case study</h2>
+<div class="mc-field-group">
+  <label for="mce-EMAIL">Email Address
+</label>
+  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+  <label for="mce-FNAME">First Name </label>
+  <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+  <label for="mce-LNAME">Last Name </label>
+  <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_440ce976ca5304343cc1d6be1_64a05b13b0" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
 			</article>
 
 		</aside>

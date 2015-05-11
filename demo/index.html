@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Stub Demo - X-Tag</title>
+    <link rel="stylesheet" type="text/css" href="x-tag-components.css"/>
+	<link rel="stylesheet" type="text/css" href="../src/main.css"/>
+
+    <script type="text/javascript" src="x-tag-components.js"></script> 
+    <script type="text/javascript" src="../src/main.js"></script>      
+	<style>
+		html, body {
+		  height: 100%;
+		  padding: 0;
+		  margin: 0;
+		  font-family: Trebuchet MS;
+		  font-size: 18px;
+		}
+
+		x-slidemenu {
+		  background: #ddd;
+		  width: 220px;
+		}
+		
+	</style>
+</head>
+
+<body>
+
+<x-slidemenu id="slidemenu" title="All Categories">
+	<menu>
+	  <li>Clothes
+		<menu title="Clothes">
+		   <li>Shirts</li>
+		   <li>Pants</li>
+		   <li>Hats
+			 <menu title="Hats">
+			   <li>Top Hats</li>
+			   <li>BaseBall Caps</li>
+			   <li>Bollo Hats</li>
+			   <li>Cowboy Hats</li>
+			 </menu>
+		   </li>
+		</menu>
+	  </li>
+	  <li>Food
+		<menu title="Food">
+		  <li>Pizza</li>
+		  <li>Burritos</li>
+		  <li>Sandwiches
+			<menu title="Sandwiches">
+			  <li>Subs</li>
+			  <li>Panini</li>
+			  <li>Pita</li>
+			  <li>Melts</li>
+			</menu>
+		  </li>
+		</menu>
+	  </li>
+	  <li>Phones
+	   <menu title="Phones">
+		  <li>Smartphones</li>
+		  <li>Feature Phones</li>
+	   </menu>
+	  </li>
+	</menu>
+</x-slidemenu>
+
+</body>
+
+</html>

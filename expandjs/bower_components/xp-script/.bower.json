@@ -1,0 +1,39 @@
+{
+  "name": "xp-script",
+  "license": "BSD-3-Clause",
+  "description": "A custom element used to load scripts asynchronously",
+  "homepage": "http://www.expandjs.com/elements/xp-script",
+  "authors": [
+    "Giuliano Rullo <g.rullo@expandjs.com>",
+    "Maurizio Stefàno <m.stefano@expandjs.com>",
+    "Robert Manolea <r.manolea@expandjs.com>"
+  ],
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "xp-script.html"
+  ],
+  "ignore": [
+    "**/.*",
+    "bin",
+    "index.js",
+    "lib",
+    "node_modules",
+    "package.json"
+  ],
+  "dependencies": {
+    "expandjs": "ExpandJS/expandjs",
+    "xp-shared": "ExpandJS/xp-shared",
+    "polymer": "Polymer/polymer#^0.5"
+  },
+  "_release": "6cff04da23",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "6cff04da23bed9902fc4f92335573ddb388816fc"
+  },
+  "_source": "git://github.com/ExpandJS/xp-script.git",
+  "_target": "*",
+  "_originalSource": "ExpandJS/xp-script"
+}

@@ -1,0 +1,209 @@
+<!--
+@license
+Copyright (c) 2015 The ExpandJS authors. All rights reserved.
+This code may only be used under the BSD style license found at https://expandjs.github.io/LICENSE.txt
+The complete set of authors may be found at https://expandjs.github.io/AUTHORS.txt
+The complete set of contributors may be found at https://expandjs.github.io/CONTRIBUTORS.txt
+-->
+
+<!--
+This element is used to manipulate cookies.
+
+@element xp-cookie
+@description Custom element able to manipulate the browser's cookies
+@group functionality
+@homepage http://www.expandjs.com/elements/xp-cookie
+
+@dependency cookies ScottHamper/cookies#~1.2
+@dependency polymer Polymer/polymer#^0.5
+@dependency expandjs ExpandJS/expandjs
+-->
+
+<script src="../cookies/dist/cookies.min.js"></script>
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../expandjs/expandjs.html">
+
+<polymer-element name="xp-cookie" constructor="XPCookieElement" attributes="domain expires loaded name path secure value">
+
+    <template>
+        <style>
+            :host {
+                display: none !important;
+            }
+        </style>
+    </template>
+
+    <script>
+        XPElement({
+
+            /**
+             * Fired when the value changes.
+             *
+             * @event xp-cookie-change
+             * @param {Element} firer
+             * @param {string} name
+             * @param {string} value
+             * @bubbles
+             */
+
+            /**
+             * Fired when the cookie is loaded.
+             *
+             * @event xp-cookie-load
+             * @param {Element} firer
+             * @param {string} name
+             * @param {string} value
+             * @bubbles
+             */
+
+            /*********************************************************************/
+
+            /**
+             * Expires the cookie.
+             *
+             * @method expire
+             * @returns {Element}
+             */
+            expire: function () {
+                var self = this;
+                if (self.name) { Cookies.expire(self.name, {domain: self.domain, path: self.path}); }
+                return self;
+            },
+
+            /**
+             * Sets the cookie's value.
+             *
+             * @method setValue
+             * @param {string} value
+             * @returns {Element}
+             */
+            setValue: function (value) {
+                var self = this;
+                if (self.name) { Cookies.set(self.name, value, {domain: self.domain, expires: XP.toUseful(self.expires), path: self.path, secure: self.secure}); }
+                if (self.name) { XP.delay(function () { XP.invoke(self.instances, 'refresh'); }); }
+                return self;
+            },
+
+            /*********************************************************************/
+
+            /**
+             * Refreshes the element.
+             *
+             * @method refresh
+             * @returns {Element}
+             * @private
+             */
+            refresh: function () {
+                var self = this;
+                self.loaded = true;
+                self.value  = (self.name && Cookies.get(self.name)) || '';
+                return self;
+            },
+
+            /*********************************************************************/
+
+            // OBSERVE
+            observe: {
+                'name': 'refresh'
+            },
+
+            // PUBLISH
+            publish: {
+
+                /**
+                 * The cookie's domain.
+                 *
+                 * @attribute domain
+                 * @type string
+                 * @default location.hostname
+                 */
+                domain: {reflect: true, value: location.hostname},
+
+                /**
+                 * The cookie's expiration date.
+                 *
+                 * @attribute expires
+                 * @type number | string
+                 */
+                expires: {reflect: true, value: null},
+
+                /**
+                 * If set to true, the cookie is loaded.
+                 *
+                 * @attribute loaded
+                 * @type boolean
+                 * @default false
+                 * @readonly
+                 */
+                loaded: {reflect: true, value: false},
+
+                /**
+                 * The cookie's name.
+                 *
+                 * @attribute name
+                 * @type string
+                 * @default ""
+                 */
+                name: {reflect: true, value: ''},
+
+                /**
+                 * The cookie's path.
+                 *
+                 * @attribute path
+                 * @type string
+                 * @default "/"
+                 */
+                path: {reflect: true, value: '/'},
+
+                /**
+                 * If set to true, the cookie will work via https.
+                 *
+                 * @attribute secure
+                 * @type boolean
+                 * @default false
+                 */
+                secure: {reflect: true, value: false},
+
+                /**
+                 * The cookie's value.
+                 *
+                 * @attribute value
+                 * @type string
+                 * @default ""
+                 * @readonly
+                 */
+                value: {reflect: false, value: ''}
+            },
+
+            /**
+             * The list of instances.
+             *
+             * @property instances
+             * @type Array
+             * @default []
+             * @readonly
+             */
+            instances: [],
+
+            /*********************************************************************/
+
+            // OBSERVER
+            loadedChanged: function () {
+                this.fire('xp-cookie-load', {firer: this, name: this.name, value: this.value});
+            },
+
+            // OBSERVER
+            valueChanged: function (pre, post) {
+                this.fire('xp-cookie-change', {firer: this, name: this.name, value: post});
+            },
+
+            /*********************************************************************/
+
+            // LISTENER
+            ready: function () {
+                this.instances.push(this);
+            }
+        });
+    </script>
+
+</polymer-element>

@@ -1,0 +1,38 @@
+{
+  "name": "xp-shared",
+  "license": "BSD-3-Clause",
+  "description": "A custom element used to share data across a an application",
+  "homepage": "http://www.expandjs.com/elements/xp-shared",
+  "authors": [
+    "Giuliano Rullo <g.rullo@expandjs.com>",
+    "Maurizio Stefàno <m.stefano@expandjs.com>",
+    "Robert Manolea <r.manolea@expandjs.com>"
+  ],
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "xp-shared.html"
+  ],
+  "ignore": [
+    "**/.*",
+    "bin",
+    "index.js",
+    "lib",
+    "node_modules",
+    "package.json"
+  ],
+  "dependencies": {
+    "expandjs": "ExpandJS/expandjs",
+    "polymer": "Polymer/polymer#^0.5"
+  },
+  "_release": "89a0d8ce87",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "89a0d8ce87b800025cc433debff647c11548ceef"
+  },
+  "_source": "git://github.com/ExpandJS/xp-shared.git",
+  "_target": "*",
+  "_originalSource": "ExpandJS/xp-shared"
+}

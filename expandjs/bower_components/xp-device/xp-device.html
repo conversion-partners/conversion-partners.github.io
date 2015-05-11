@@ -1,0 +1,138 @@
+<!--
+@license
+Copyright (c) 2015 The ExpandJS authors. All rights reserved.
+This code may only be used under the BSD style license found at https://expandjs.github.io/LICENSE.txt
+The complete set of authors may be found at https://expandjs.github.io/AUTHORS.txt
+The complete set of contributors may be found at https://expandjs.github.io/CONTRIBUTORS.txt
+-->
+
+<!--
+This element is used to know which device the user is using.
+The `device` and `mobile` attributes is set also on the frame's html tag.
+
+@element xp-device
+@description Custom element able to recognize the user's device.
+@group functionality
+@homepage http://www.expandjs.com/elements/xp-device
+
+@dependency polymer Polymer/polymer#^0.5
+@dependency expandjs ExpandJS/expandjs
+@dependency xp-cookie ExpandJS/xp-cookie
+@dependency xp-script ExpandJS/xp-script
+-->
+
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../expandjs/expandjs.html">
+<link rel="import" href="../xp-cookie/xp-cookie.html">
+<link rel="import" href="../xp-script/xp-script.html">
+
+<polymer-element name="xp-device" constructor="XPDeviceElement" attributes="mobile type">
+
+    <template>
+        <style>
+            :host {
+                display: none !important;
+            }
+        </style>
+        <xp-cookie id="xpDeviceCookie" name="XPDevice" expires="01/01/9999" on-xp-cookie-change="{{handleChange}}" on-xp-cookie-load="{{handleCookie}}"></xp-cookie>
+        <xp-script id="xpDeviceScript" on-xp-script-load="{{handleScript}}" on-xp-script-state="{{handleState}}"></xp-script>
+    </template>
+
+    <script>
+        XPElement({
+
+            /**
+             * Fired when the device has been detected.
+             *
+             * @event xp-device-detect
+             * @param {Element} firer
+             * @param {string} type
+             * @param {boolean} mobile
+             * @bubbles
+             */
+
+            /*********************************************************************/
+
+            // PUBLISH
+            publish: {
+
+                /**
+                 * If set to true, the user's device is a mobile one.
+                 *
+                 * @attribute mobile
+                 * @type boolean
+                 * @default false
+                 * @readonly
+                 */
+                mobile: {reflect: true, value: false},
+
+                /**
+                 * The user's device's form factor.
+                 *
+                 * @attribute type
+                 * @type "app" | "desktop" | "feature-phone" | "other-mobile" | "other-non-mobile" | "robot" | "smart-tv" | "smartphone" | "tablet"
+                 * @default ""
+                 * @readonly
+                 */
+                type: {reflect: true, value: ''}
+            },
+
+            /**
+             * The list of instances.
+             *
+             * @property instances
+             * @type Array
+             * @default []
+             * @readonly
+             */
+            instances: [],
+
+            /**
+             * Used internally to avoid multiple detections.
+             *
+             * @property script
+             * @type Object
+             * @default {state: "idle"}
+             * @private
+             */
+            script: {state: 'idle'},
+
+            /*********************************************************************/
+
+            // LISTENER
+            ready: function () {
+                this.instances.push(this);
+            },
+
+            /*********************************************************************/
+
+            // HANDLER
+            handleChange: function (event) {
+                var self = this, json = JSON.parse(event.detail.value);
+                XP.setAttributes(XP.getElement('html'), {device: self.type = json.type, mobile: self.mobile = json.mobile});
+            },
+
+            // HANDLER
+            handleCookie: function (event) {
+                if (!event.detail.value && this.script.state === 'idle') { this.$.xpDeviceScript.src = '//wurfl.io/wurfl.js'; }
+            },
+
+            // HANDLER
+            handleScript: function () {
+                var self = XP.assign(this, {mobile: WURFL.is_mobile, type: XP.kebabCase(WURFL.form_factor)});
+                self.$.xpDeviceCookie.setValue(XP.toJSON({mobile: self.mobile, type: self.type}));
+            },
+
+            // HANDLER
+            handleState: function (event) {
+                this.script.state = event.detail.state;
+            }
+        });
+
+        // Listening
+        Polymer.whenReady(function () {
+            XP.prependChild(XP.getElement('body'), XP.createElement('xp-device'));
+        });
+    </script>
+
+</polymer-element>

@@ -1,0 +1,104 @@
+<!--
+@license
+Copyright (c) 2015 The ExpandJS authors. All rights reserved.
+This code may only be used under the BSD style license found at https://expandjs.github.io/LICENSE.txt
+The complete set of authors may be found at https://expandjs.github.io/AUTHORS.txt
+The complete set of contributors may be found at https://expandjs.github.io/CONTRIBUTORS.txt
+-->
+
+<!--
+This element is used to share data across an application.
+
+@element xp-shared
+@description A custom element used to share data across a an application
+@group functionality
+@homepage http://www.expandjs.com/elements/xp-shared
+
+@dependency polymer Polymer/polymer#^0.5
+@dependency expandjs ExpandJS/expandjs
+-->
+
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../expandjs/expandjs.html">
+
+<polymer-element name="xp-shared" constructor="XPSharedElement" attributes="data">
+
+    <template>
+        <style>
+            :host {
+                display: none !important;
+            }
+        </style>
+    </template>
+
+    <script>
+        XPElement({
+
+            /**
+             * Updates the instance's data.
+             *
+             * @method update
+             * @param {*} data
+             * @returns {Element}
+             */
+            update: function (data) {
+                var self = this;
+                self.updating = data !== self.data;
+                self.data     = data;
+                return self;
+            },
+
+            /*********************************************************************/
+
+            // PUBLISH
+            publish: {
+
+                /**
+                 * The shared data.
+                 *
+                 * @attribute data
+                 * @type Object
+                 * @default {}
+                 */
+                data: {reflect: false, value: {}}
+            },
+
+            /**
+             * The list of instances.
+             *
+             * @property instances
+             * @type Array
+             * @default []
+             * @readonly
+             */
+            instances: [],
+
+            /**
+             * Used to know if the instance is currently updating.
+             *
+             * @property updating
+             * @type boolean
+             * @default false
+             * @readonly
+             */
+            updating: false,
+
+            /*********************************************************************/
+
+            // OBSERVER
+            dataChanged: function (pre, post) {
+                var self = this;
+                if (arguments.length < 2) { return; }
+                if (self.updating) { self.updating = false; } else { XP.invoke(self.instances, 'update', post); }
+            },
+
+            /*********************************************************************/
+
+            // LISTENER
+            ready: function () {
+                this.instances.push(this);
+            }
+        });
+    </script>
+
+</polymer-element>

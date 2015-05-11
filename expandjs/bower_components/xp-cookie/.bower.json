@@ -1,0 +1,39 @@
+{
+  "name": "xp-cookie",
+  "license": "BSD-3-Clause",
+  "description": "Custom element able to manipulate the browser's cookies",
+  "homepage": "http://www.expandjs.com/elements/xp-cookie",
+  "authors": [
+    "Giuliano Rullo <g.rullo@expandjs.com>",
+    "Maurizio Stefàno <m.stefano@expandjs.com>",
+    "Robert Manolea <r.manolea@expandjs.com>"
+  ],
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "xp-cookie.html"
+  ],
+  "ignore": [
+    "**/.*",
+    "bin",
+    "index.js",
+    "lib",
+    "node_modules",
+    "package.json"
+  ],
+  "dependencies": {
+    "expandjs": "ExpandJS/expandjs",
+    "polymer": "Polymer/polymer#^0.5",
+    "cookies": "ScottHamper/cookies#~1.2"
+  },
+  "_release": "55faf8c6ad",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "55faf8c6ad391aa809fb99066564f65c525ac257"
+  },
+  "_source": "git://github.com/ExpandJS/xp-cookie.git",
+  "_target": "*",
+  "_originalSource": "ExpandJS/xp-cookie"
+}

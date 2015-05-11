@@ -1,0 +1,116 @@
+<!--
+@license
+Copyright (c) 2015 The ExpandJS authors. All rights reserved.
+This code may only be used under the BSD style license found at https://expandjs.github.io/LICENSE.txt
+The complete set of authors may be found at https://expandjs.github.io/AUTHORS.txt
+The complete set of contributors may be found at https://expandjs.github.io/CONTRIBUTORS.txt
+-->
+
+<!--
+This element is used to wrap a material demo.
+
+@element mat-demo
+@description A custom element used to display a Material Design demo page
+@group containers
+@homepage http://www.expandjs.com/elements/mat-demo
+
+@dependency polymer Polymer/polymer#^0.5
+@dependency expandjs ExpandJS/expandjs
+@dependency mat-content ExpandJS/mat-content
+@dependency mat-icon-button ExpandJS/mat-icon-button
+@dependency mat-paper ExpandJS/mat-paper
+-->
+
+<link rel="import" href="../polymer/polymer.html">
+<link rel="import" href="../expandjs/expandjs.html">
+<link rel="import" href="../mat-content/mat-content.html">
+<link rel="import" href="../mat-icon-button/mat-icon-button.html">
+<link rel="import" href="../mat-paper/mat-paper.html">
+
+<polymer-element name="mat-demo" constructor="MATDemoElement" attributes="theme">
+
+    <template>
+        <style>
+            :host {
+                display: block;
+                overflow: visible;
+
+                /* FIT */
+                bottom: 0;
+                left: 0;
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+
+            :host ::content .demo-title {
+                margin: 0;
+                padding: 32px 0 16px 0;
+
+                /* TITLE */
+                font-size: 20px;
+                font-weight: 500;
+                letter-spacing: 0.005em;
+                line-height: 24px;
+                text-overflow: ellipsis;
+                white-space: nowrap;
+            }
+
+            :host #matDemoWrapper,
+            :host #matDemoBody {
+                min-height: 100%;
+                text-align: center;
+            }
+
+            :host #matDemoToggle {
+                position: absolute;
+                right: 12px;
+                top: 8px;
+            }
+
+            :host-context([mobile]:not([device="tablet"])) #matDemoToggle {
+                right: 4px;
+                top: 4px;
+            }
+        </style>
+        <mat-paper id="matDemoWrapper" brightness="shell" theme="{{theme}}">
+            <mat-content id="matDemoBody">
+                <content id="content"></content>
+                <mat-icon-button id="matDemoToggle" active="{{theme === 'dark'}}" activeIcon="image:brightness-3" icon="image:brightness-5" on-xp-activate="{{inverse}}"></mat-icon-button>
+            </mat-content>
+        </mat-paper>
+    </template>
+
+    <script>
+        XPElement({
+
+            /**
+             * Inverses the theme.
+             *
+             * @method inverse
+             * @return {Element}
+             */
+            inverse: function () {
+                var self = this;
+                self.theme = self.$.matDemoWrapper.foreground;
+                return self;
+            },
+
+            /*********************************************************************/
+
+            // PUBLISH
+            publish: {
+
+                /**
+                 * The paper's theme, used to apply the default foreground color.
+                 *
+                 * @attribute theme
+                 * @type "dark" | "light"
+                 * @default "light"
+                 */
+                theme: {reflect: true, value: 'light'}
+            }
+        });
+    </script>
+
+</polymer-element>

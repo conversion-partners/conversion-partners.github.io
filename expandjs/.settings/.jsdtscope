@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="lib/object/|lib/operator/|dist/|lib/error/|lib/caster/|lib/constructors/|lib/browser/|lib/function/|lib/dom/|lib/array/|lib/number/|lib/collection/|bin/|lib/string/|lib/|lib/tester/|lib/assert/" kind="src" path=""/>
+	<classpathentry kind="src" path="bin"/>
+	<classpathentry kind="src" path="dist"/>
+	<classpathentry excluding="object/|operator/|error/|caster/|constructors/|browser/|function/|dom/|array/|number/|collection/|string/|tester/|assert/" kind="src" path="lib"/>
+	<classpathentry kind="src" path="lib/array"/>
+	<classpathentry kind="src" path="lib/assert"/>
+	<classpathentry kind="src" path="lib/browser"/>
+	<classpathentry kind="src" path="lib/caster"/>
+	<classpathentry kind="src" path="lib/collection"/>
+	<classpathentry kind="src" path="lib/constructors"/>
+	<classpathentry kind="src" path="lib/dom"/>
+	<classpathentry kind="src" path="lib/error"/>
+	<classpathentry kind="src" path="lib/function"/>
+	<classpathentry kind="src" path="lib/number"/>
+	<classpathentry kind="src" path="lib/object"/>
+	<classpathentry kind="src" path="lib/operator"/>
+	<classpathentry kind="src" path="lib/string"/>
+	<classpathentry kind="src" path="lib/tester"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

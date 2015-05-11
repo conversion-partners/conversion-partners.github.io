@@ -1,0 +1,38 @@
+{
+  "name": "xp-disabled-state",
+  "license": "BSD-3-Clause",
+  "description": "A custom element used to add disabling capabilities to a context element",
+  "homepage": "http://www.expandjs.com/elements/xp-disabled-state",
+  "authors": [
+    "Giuliano Rullo <g.rullo@expandjs.com>",
+    "Maurizio Stefàno <m.stefano@expandjs.com>",
+    "Robert Manolea <r.manolea@expandjs.com>"
+  ],
+  "keywords": [
+    "web-components"
+  ],
+  "main": [
+    "xp-disabled-state.html"
+  ],
+  "ignore": [
+    "**/.*",
+    "bin",
+    "index.js",
+    "lib",
+    "node_modules",
+    "package.json"
+  ],
+  "dependencies": {
+    "expandjs": "ExpandJS/expandjs",
+    "polymer": "Polymer/polymer#^0.5"
+  },
+  "_release": "0b2b948c92",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0b2b948c929c5c4515599ab9d2aab22ad11b4e2b"
+  },
+  "_source": "git://github.com/ExpandJS/xp-disabled-state.git",
+  "_target": "*",
+  "_originalSource": "ExpandJS/xp-disabled-state"
+}

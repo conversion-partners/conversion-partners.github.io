@@ -1,0 +1,3494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafeed>
+	<info>
+		<category><![CDATA[Daily offers]]></category>
+		<sub_category><![CDATA[Daily offers]]></sub_category>
+		<product_count><![CDATA[1330]]></product_count>
+		<last_modified><![CDATA[2017-05-03 10:19:27]]></last_modified>
+		<date_created><![CDATA[2017-05-03 10:21:53]]></date_created>
+		<previous_download><![CDATA[0000-00-00 00:00:00]]></previous_download>
+	</info>
+	<programs>
+		<program>
+			<program_info>
+				<id><![CDATA[3758]]></id>
+				<name><![CDATA[vouchervandaag.nl]]></name>
+				<currency><![CDATA[EUR]]></currency>
+				<currency_symbol><![CDATA[€]]></currency_symbol>
+				<product_count><![CDATA[6]]></product_count>
+				<last_modified></last_modified>
+				<daisycon_unique_id_since><![CDATA[2016-07-06 17:22:36]]></daisycon_unique_id_since>
+				<daisycon_unique_id_modified><![CDATA[true]]></daisycon_unique_id_modified>
+			</program_info>
+			<products>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[4e3ed4481c6c52092f7ea347597ee90f]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[6806bb887299e6d39dc6510aa39aa13f]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-30 00:21:05]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:21:05]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo><![CDATA[https://cdn.vouchervandaag.nl/uploads/partner-images/banner/48.jpg]]></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Kant is ook dit seizoen weer helemaal hot. Niet zo gek, want het staat stijlvol, hip en sexy tegelijk. Deze Lace jurk met kanten details is daarom een echte musthave! De prachtige kanten patronen op dit item zorgen voor een elegante bohemian look. We...]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=3758&li=1482782&pid=4e3ed4481c6c52092f7ea347597ee90f&dl=lace-jurk-jurkje-kant-boho-bohemian&ws=]]></link>
+						<price><![CDATA[12.99]]></price>
+						<price_old><![CDATA[50.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Lace jurk voor een zomerse boho look]]></title>
+						<price_shipping><![CDATA[3.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[74]]></discount_percentage>
+						<discount_amount><![CDATA[37.01]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://cdn.vouchervandaag.nl/uploads/voucher-images/fotos/27254_fullsize.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[51bebee4c1ddbabb84eea62f82287ccf]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[38e0b40b03fe83aee3c82741db1d6946]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-01 00:21:05]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:21:05]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo><![CDATA[https://cdn.vouchervandaag.nl/uploads/partner-images/banner/48.jpg]]></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Ook dit seizoen kun je er niet omheen, de maxi jurk is en blijft HOT! Je zult ze weer overal zien dit jaar. Deze jurk valt lekker oversized, waardoor hij heerlijk soepel langs je lichaam valt. Een ideaal item voor een mooie zomerse dag of naar het st...]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=3758&li=1482782&pid=51bebee4c1ddbabb84eea62f82287ccf&dl=Oversized-summer-dress&ws=]]></link>
+						<price><![CDATA[16.99]]></price>
+						<price_old><![CDATA[50.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Oversized summer dress nu met hoge kortingen]]></title>
+						<price_shipping><![CDATA[3.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[66]]></discount_percentage>
+						<discount_amount><![CDATA[33.01]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://cdn.vouchervandaag.nl/uploads/voucher-images/fotos/27251_fullsize.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[cbdc7f7aa2a65f368f278277fbf3982f]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[ff74ecf809d88689eec4e919741d239e]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:21:05]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo><![CDATA[https://cdn.vouchervandaag.nl/uploads/partner-images/banner/48.jpg]]></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Paradeer als een echte beach babe over het strand deze zomer met het stijlvolle Duo color badpak! Het Duo color ontwerp zorgt voor een figuurcorrigerend effect. Hierdoor zullen eventuele probleemzones een stuk minder opvallen. Voel je voortaan comfor...]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=3758&li=1482782&pid=cbdc7f7aa2a65f368f278277fbf3982f&dl=Duo-color-badpak-slank-shaper-corrigerend&ws=]]></link>
+						<price><![CDATA[14.99]]></price>
+						<price_old><![CDATA[50.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Duo color badpak]]></title>
+						<price_shipping><![CDATA[3.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[70]]></discount_percentage>
+						<discount_amount><![CDATA[35.01]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://cdn.vouchervandaag.nl/uploads/voucher-images/fotos/27389_fullsize.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[f299150b5694b12e223fdb7d46e4a480]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[a62c3ab697ed2f8b0b021661b4f63e13]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2016-12-01 17:36:03]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:21:05]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo><![CDATA[https://cdn.vouchervandaag.nl/uploads/partner-images/banner/48.jpg]]></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Kun jij wel wat hulp gebruiken bij je sportieve doel dat je wilt behalen? Of ben je gewoon benieuwd hoeveel je nou precies beweegt op een dag? Deze Activity tracker helpt je daarbij! Hij heeft onder andere deze functies: hartslagmeter, stappente...]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=3758&li=1482782&pid=f299150b5694b12e223fdb7d46e4a480&dl=Bluetooth-Activity-tracker-monitor-hartslag-beweging-slaap&ws=]]></link>
+						<price><![CDATA[24.99]]></price>
+						<price_old><![CDATA[100.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Bluetooth 4.0 Activity tracker nu in de uitverkoop]]></title>
+						<price_shipping><![CDATA[3.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[75.01]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://cdn.vouchervandaag.nl/uploads/voucher-images/fotos/23258_fullsize.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[569a0c2556c7c14ffa4ed7b882794899]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[a97d4e873b8114429b2b80735c1fa2a2]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-03-22 00:21:06]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:21:05]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo><![CDATA[https://cdn.vouchervandaag.nl/uploads/partner-images/banner/48.jpg]]></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Je kent het vast wel... Je wilt dat ene mooie strapless topje of jurkje met die lage rug aan, maar je hebt geen goede BH voor eronder. Dan zou het toch zonde zijn om je leuke outfit weer terug te moeten hangen in de kast. Met deze onzichtbare plak BH...]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=3758&li=1482782&pid=569a0c2556c7c14ffa4ed7b882794899&dl=plak-bh-push-up&ws=]]></link>
+						<price><![CDATA[8.99]]></price>
+						<price_old><![CDATA[35.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Plak BH met ultiem push-up effect nu met korting]]></title>
+						<price_shipping><![CDATA[1.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[74]]></discount_percentage>
+						<discount_amount><![CDATA[26.01]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://cdn.vouchervandaag.nl/uploads/voucher-images/fotos/26102_fullsize.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[b8348028b6851d44ab0f3a0d2efcddba]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[187cf8dfe229f5c798d60ac7cf5c6981]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:21:05]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo><![CDATA[https://cdn.vouchervandaag.nl/uploads/partner-images/banner/48.jpg]]></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Ready for the summer? Met deze gave ronde strandlakens ben jij helemaal klaar voor de zomer! De ronde handdoeken zijn helemaal trendy en zorgen voor een echte bohemian Ibiza look. Hiermee steel je zeker de show. Je bestelt een rond strandlaken nu voo...]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=3758&li=1482782&pid=b8348028b6851d44ab0f3a0d2efcddba&dl=Rond-strandlaken-ronde-handdoek-badhanddoek&ws=]]></link>
+						<price><![CDATA[19.99]]></price>
+						<price_old><![CDATA[80.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Rond strandlaken nu in de sale]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[60.01]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://cdn.vouchervandaag.nl/uploads/voucher-images/fotos/27338_fullsize.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+			</products>
+		</program>
+		<program>
+			<program_info>
+				<id><![CDATA[5940]]></id>
+				<name><![CDATA[Marktplaats Aanbieding]]></name>
+				<currency><![CDATA[EUR]]></currency>
+				<currency_symbol><![CDATA[€]]></currency_symbol>
+				<product_count><![CDATA[41]]></product_count>
+				<last_modified></last_modified>
+				<daisycon_unique_id_since><![CDATA[2017-03-07 09:46:43]]></daisycon_unique_id_since>
+				<daisycon_unique_id_modified><![CDATA[true]]></daisycon_unique_id_modified>
+			</program_info>
+			<products>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[68731320b301f5663d2c56fdfea17a51]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[9162d570085d2076286ef0b8f3bd5d8c]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-03-29 00:14:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:14:10]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[- Bel handsfree met al jouw contacten in de contactenlijst<br />- Ontvang meldingen van o.a. WhatsApp, Facebook en Twitter (alleen bij Android toestellen)<br />- Vele extra functies, zoals een slaapmonitor, stappenteller, kalender en rekenmachine<br />- Fungeert ook als Bluetooth muziekspeler<br />- Keuze uit zilver of zwart<br />]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords><![CDATA[Top 3 deal]]></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=68731320b301f5663d2c56fdfea17a51&dl=deal%2Fsmartwatch-met-het-uiterlijk-van-een-chronograaf-horloge-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[39.95]]></price>
+						<price_old><![CDATA[149.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Smartwatch met het uiterlijk van een chronograaf horloge]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage></discount_percentage>
+						<discount_amount></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[large]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_StijlvolleRondeSmartwatch.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[68c9c361311a189ff2190e64cd6b431b]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[f2f3610fdfc23cad69638af93c37dad5]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-12 00:16:13]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Maak van je televisie eenvoudig een Smart TV met deze mediaspeler en geniet van films, series, muziek en meer! <ul><li>Maak van een gewone TV een Smart TV!</li><li>Netflix, Facebook, Twitter, Skype, YouTube, het kan allemaal!</li><li>Duizenden apps beschikbaar via de Google Play Store (voorgeïnstalleerd)</li><li>Full HD (1080p) en 3D</li><li>WiFi, dus geen CAT5-kabel nodig (ethernetslot wel aanwezig)</li><li>Android KitKat software met wereldwijd gebruikte Kodi (XBMC) interface</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44840]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=68c9c361311a189ff2190e64cd6b431b&dl=deal%2F4k-ultra-hd-mediaspeler-met-kodi-10%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[59.95]]></price>
+						<price_old><![CDATA[299.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[4K Ultra HD Mediaspeler met Kodi]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[80]]></discount_percentage>
+						<discount_amount><![CDATA[240.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_mediaspeler_V2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[7cd9be69f2fad9b34da94358a20f5790]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[8792ca0576c0a59b0098964e8ace0268]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-14 00:16:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[In Plopsa Coo in de Belgische Ardennen ga je met het hele gezin op avontuur in de vrije natuur! <ul><li>Een fantastisch gezinsuitje middenin de natuur</li><li>Aan de voet van de Watervallen van Coo</li><li>Ontdek het prachtige natuurdecor van de Amblève-vallei</li><li>Verrukkelijke combinatie van natuur &amp; avontuur</li><li>In Plopsa Coo staan tal van evenementen en shows op het programma</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44749]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=7cd9be69f2fad9b34da94358a20f5790&dl=deal%2Fdagentree-ticket-plopsa-coo-be%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[16.25]]></price>
+						<price_old><![CDATA[24.99]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Dagentree ticket Plopsa Coo (BE)]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[34]]></discount_percentage>
+						<discount_amount><![CDATA[8.74]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Plopsa-Coo.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[ca9b3f1585eef776cd8f482d3c7ebfc0]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[eebec5484c4549c0ea7aca45fc24942c]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-24 00:21:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Snurkt u of uw partner veel en luid en hebt u er nog niets tegen gevonden? Deze hoofdband is de oplossing! <ul><li>Nooit meer slapeloze nachten door een snurkende partner!</li><li>Elastische en verstelbare hoofdband tegen snurken</li><li>Uniek gepatenteerd hulpmiddel</li><li>Een groot succes in Amerika</li><li>Draagt comfortabel en knelt niet</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45044]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=ca9b3f1585eef776cd8f482d3c7ebfc0&dl=deal%2Fhoofdband-tegen-snurken-8%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[6.95]]></price>
+						<price_old><![CDATA[19.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Hoofdband tegen snurken]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[65]]></discount_percentage>
+						<discount_amount><![CDATA[13.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Anti-Snurk-Hoofdband.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[9533f31c939ceec41d1e52a2d9636d1e]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[7827218e8ac093b47a04e062a4e8fe7b]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-29 00:17:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Maak van jouw tuin, terras of balkon een bonte bloemenzee! Keuze uit pakketten van 60 of 120 bloeiende zomerplanten <ul><li>Keuze uit een pakket van 60 of 120 planten</li><li>Elk pakket bevat 30 verschillende zomerbloeiers</li><li>Geschikt voor potten, bakken, hangmanden en volle grond</li><li>Bloeiperiode tot en met oktober</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45301]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=9533f31c939ceec41d1e52a2d9636d1e&dl=deal%2F60-of-120-bloeiende-zomerplanten%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[24.95]]></price>
+						<price_old><![CDATA[89.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[60 of 120 bloeiende zomerplanten]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[71]]></discount_percentage>
+						<discount_amount><![CDATA[64.05]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_60-of-120-jonge-zomerplanten.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[956d33df85f5d7e7bfdd54ec8e0ec2a5]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[ec7fa167eedbbbe292a182bd9db1e05b]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-28 00:18:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Steel de show met deze schitterende Swarovski Elements ketting met 7 verschillend gekleurde hangers! <ul><li>Maak elke outfit compleet met deze prachtige ketting!</li><li>7 Swarovski Elements hangers in 7 verschillende kleuren</li><li>Hangers zijn afneembaar</li><li>Ketting is gemaakt van witgoud plated messing</li><li>De set wordt geleverd in een mooi doosje</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45303]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=956d33df85f5d7e7bfdd54ec8e0ec2a5&dl=deal%2Fmooie-swarovski-elements-ketting-met-7-hangers-8%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[19.95]]></price>
+						<price_old><![CDATA[124.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Mooie Swarovski Elements ketting met 7 hangers]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[84]]></discount_percentage>
+						<discount_amount><![CDATA[105.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_454x304_Kettingset_7hangers_V2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[f5dd19311cf3cf9e85b379a1dc31d601]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[5f2b75c06f7bc7e91de4dc84ea683149]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:16:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Algemeen]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[5-pack Pierre Cardin boxershorts van hoge kwaliteit. Keuze uit 2 kleurencombi?s en 4 maten <ul><li>Designerkwaliteit voor een lage prijs</li><li>Hoog draagcomfort met naadloze zijkanten en kruis</li><li>Normale pasvorm met korte pijpen</li><li>Keuze uit assorti zwart/grijs en blauw</li><li>Verkrijgbaar in de maten M, L, XL en XXL </li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45330]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=f5dd19311cf3cf9e85b379a1dc31d601&dl=deal%2F5-pack-pierre-cardin-boxershorts-in-2-kleurencombis-10%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[19.95]]></price>
+						<price_old><![CDATA[79.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[5-pack Pierre Cardin boxershorts in 2 kleurencombi?s]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[60.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_5-pack_PC_boxers.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[03cc410b4e8f64a2a0bcd7a6cbb6544b]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[bbb9ee328fa234259584c0abbde86e3c]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-01 00:16:12]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Deze slimme weegschaal toont jouw gewicht, BMI, vet- en vochtgehalte en spier- en botmassa op jouw telefoon! <ul><li>Slimme weegschaal met lichaamsanalyse</li><li>Meet gewicht, BMI, lichaamsvet, buikvet, lichaamsvocht, spier- en botmassa</li><li>Toont via Bluetooth en een app jouw resultaten op je smartphone</li><li>Geeft aanbevolen dagelijkse calorieën weer</li><li>Draagvermogen tot 180 kg</li><li>Geheugen tot 8 gebruikers</li><li>Keuze uit wit of zwart</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45313]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=03cc410b4e8f64a2a0bcd7a6cbb6544b&dl=deal%2Fbluetooth-weegschaal-met-lichaamsanalyse-in-wit-of-zwart-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[29.95]]></price>
+						<price_old><![CDATA[129.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Bluetooth weegschaal met lichaamsanalyse in wit of zwart]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[76]]></discount_percentage>
+						<discount_amount><![CDATA[100.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_bluetooth-Weegschaal-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[2b7a5ae9e73837b56f7bde3230044ace]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[018121e943708012760aecb311acd272]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:16:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Neem tijdens het autorijden alles op wat er in het verkeer gebeurt met deze handige HD dashcam! <ul><li>Neemt alles op wat er gebeurt in het verkeer</li><li>Heeft een brede blik op de weg</li><li>Legt video?s haarscherp vast in 720p</li><li>Enorm handig in het geval van een verkeersongeval</li><li>Inclusief 2.1A DUO USB lader en een extra lange 3.5 meter USB cable</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45343]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=2b7a5ae9e73837b56f7bde3230044ace&dl=deal%2Fquintezz-hd-dashcam-720p-7%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[14.95]]></price>
+						<price_old><![CDATA[79.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Quintezz HD dashcam 720p]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[81]]></discount_percentage>
+						<discount_amount><![CDATA[65.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Quintezz_HD_Dashcam.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[3e9275e81e7d9b02456eaf1ca3b75175]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[326759dcaaf0ab5dd983f8368ddd32f7]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:16:08]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Algemeen]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Licht van gewicht, superstevig en zeer handzaam: deze tas mag als handbagage mee in elk vliegtuig! <ul><li>Praktische tas voor korte reizen</li><li>Toegestaan in elke vliegtuigcabine</li><li>Exacte afmeting voor bij budget airlines</li><li>Lichtgewicht en ijzersterk</li><li>Met verstelbare schouderriem</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45275]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=3e9275e81e7d9b02456eaf1ca3b75175&dl=deal%2Freistas-geschikt-voor-vliegtuigcabines-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[12.95]]></price>
+						<price_old><![CDATA[44.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Reistas geschikt voor vliegtuigcabines]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[71]]></discount_percentage>
+						<discount_amount><![CDATA[32.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Handtas-cabin-size-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[84d718d0a99fb4e3a0e880bcca21cc90]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[d492fb29cd3b36fe0b0cf365717f571a]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:09:07]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[- Bel handsfree met al jouw contacten in de contactenlijst- Ontvang meldingen van o.a. WhatsApp, Facebook en Twitter (alleen bij Android toestellen)- Vele extra functies, zoals een slaapmonitor, stappenteller, kalender en rekenmachine- Fungeert ook als Bluetooth muziekspeler- Keuze uit zilver of zwart]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords><![CDATA[dagaanbieding]]></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=84d718d0a99fb4e3a0e880bcca21cc90&dl=deal%2Fsmartwatch-met-het-uiterlijk-van-een-chronograaf-horloge-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Dreferral%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[39.95]]></price>
+						<price_old><![CDATA[149.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Smartwatch met het uiterlijk van een chronograaf horloge]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[73]]></discount_percentage>
+						<discount_amount><![CDATA[110.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[large]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_StijlvolleRondeSmartwatch.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[8cb25a8c2e96012f6bdc84ac4953dfa3]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[39ee5dfa0df5af2a9e00b7072eb9690d]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-01 00:16:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Van waaghalzen tot de allerkleinsten, in Plopsaqua De Panne is het waterpret voor jong en oud! <ul><li>Het coolste waterpark van België</li><li>Waterpret voor jong en oud</li><li>Ga op avontuur met alle Plopsa-figuren</li><li>Bevindt zich vlak naast Plopsaland De Panne</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44673]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=8cb25a8c2e96012f6bdc84ac4953dfa3&dl=deal%2Fdagentree-plopsaqua-de-panne-be%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[12.99]]></price>
+						<price_old><![CDATA[19.99]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Dagentree Plopsaqua De Panne (BE)]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[35]]></discount_percentage>
+						<discount_amount><![CDATA[7.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/03/main_1000x670_Plopsaqua-de-Panne-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[57b07ccb1d051f5d36d68eea1cc50752]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[b9efeab8cfc998f06d42cc64457481f8]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-12 00:16:13]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Meer dan 25 magische themattracties bij Plopsa Indoor Coevorden. Zowel binnen- als buitenattracties! <ul><li>Het mooiste indoorpretpark van Nederland</li><li>Ideaal dagje uit als het weer niet meezit</li><li>Meer dan 25 magische thema-attracties</li><li>Ruime buitenzone met leuke attracties</li><li>In Plopsa Indoor Coevorden staan tal van evenementen en shows op het programma</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44724]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=57b07ccb1d051f5d36d68eea1cc50752&dl=deal%2Fdagentree-tickets-plopsa-indoor-coevorden-nl%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[12.99]]></price>
+						<price_old><![CDATA[19.99]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Dagentree tickets Plopsa Indoor Coevorden (NL)]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[35]]></discount_percentage>
+						<discount_amount><![CDATA[7.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Plopsa-Indoor-Coevorden.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[350063ed1d9e4307c5e86b26e5007d85]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[39c3ad2bf729b75e87bf965aedd09cb6]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-13 00:19:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Met meer dan 30 attracties vind je Maya de Bij, Wickie de Viking en al hun vriendjes ook in Duitsland! <ul><li>Hét Plopsa-themapark van Duitsland</li><li>Meer dan 30 attracties voor jong en oud!</li><li>Ontdek de gloednieuwe themazone The Beach</li><li>Maak een ritje op de internationaal bekroonde achtbaan Expedition GeForce</li><li>In Holiday Park staan tal van evenementen en shows op het programma</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44905]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=350063ed1d9e4307c5e86b26e5007d85&dl=deal%2Fdagentree-holiday-park-plopsa-duitsland%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[20.15]]></price>
+						<price_old><![CDATA[30.99]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Dagentree Holiday Park (Plopsa Duitsland)]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[34]]></discount_percentage>
+						<discount_amount><![CDATA[10.84]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Holiday-Park-dagentree-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[807d500fecdd33f07e3e1160fdfe39d2]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[e038c50e0e4cee9e9345d66c9b0326dd]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-16 00:18:11]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Versterk het draadloze internetsignaal in en om het huis tot wel 100 meter met deze Quintezz WiFi repeater! <ul><li>Overal in huis en zelfs buiten snel en stabiel draadloos internet</li><li>Tot wel 100 meter meer bereik!</li><li>300 Mbps snelheid</li><li>Eenvoudig te installeren </li><li>3 jaar garantie</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45009]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=807d500fecdd33f07e3e1160fdfe39d2&dl=deal%2Fquintezz-homeline-wifi-repeater-300-mbps%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[14.95]]></price>
+						<price_old><![CDATA[59.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Quintezz Homeline WiFi Repeater 300 Mbps]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[45.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Quintezz-Wifi-Repeater-300mbps.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[2c5dc65b4078c4140200e03ac3ccf4ac]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[32f75aea21a70774e5a741fd52f9f407]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-23 00:16:14]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Fit met de Saunafit thermische band: verstevigt de huid én voert gifstoffen af! Verkrijgbaar in 4 maten <ul><li>Uw ideale hulp bij het afvallen en fit worden!</li><li>Thermische band versterkt de huid door massage</li><li>Saunaeffect zorgt voor het afvoeren van afvalstoffen</li><li>Ideaal voor tijdens het sporten en andere activiteiten</li><li>Verkrijgbaar in de maten S, M, L en XL</li><li>Met 2 jaar garantie</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45179]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=2c5dc65b4078c4140200e03ac3ccf4ac&dl=deal%2Fsaunafit-thermische-afslankband-15%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[9.95]]></price>
+						<price_old><![CDATA[39.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Saunafit thermische afslankband]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[30.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Saunafit_thermische_band.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[0499163eea2a4901d902ccac94a523d5]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[30b571484396ea3b517ca155b5950192]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-28 00:18:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Strak in pak? Direct resultaat met dit comfortabele, figuurcorrigerende Men?s body shaping ondershirt <ul><li>Direct resultaat! Zie er 5 tot 10 kilo lichter uit</li><li>Stimuleert de bloeddoorstroming en breekt overtollig vet af</li><li>Speciaal gevormd ondershirt dat uw buikspieren corrigeert, ondersteunt en traint</li><li>Vervaardigd van een comfortabele, rekbare en hypo-allergene stof</li><li>Anti-allergie, anti-hydro, Multi-Wave</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45260]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=0499163eea2a4901d902ccac94a523d5&dl=deal%2Ffiguurcorrigerend-ondershirt-voor-mannen-12%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[14.95]]></price>
+						<price_old><![CDATA[34.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Figuurcorrigerend ondershirt voor mannen]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[57]]></discount_percentage>
+						<discount_amount><![CDATA[20.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_454x304_Figuurcorrigerend_ondershirt_heren.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[a34c0930aa6346d0ccd33a0f9b9ff70b]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[e50dbe0f866611843c8d2a125f73244f]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-28 00:18:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Superhandig wanneer je graag de natuur in trekt: compacte verrekijker met nachtzicht. Kies uit 1 of 2 stuks <ul><li>Compact formaat dus makkelijk mee te nemen</li><li>Licht van gewicht</li><li>Met nachtzichtfunctie</li><li>Bereik tot wel 1000 meter</li><li>Keuze ut 1 of 2 stuks</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45154]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=a34c0930aa6346d0ccd33a0f9b9ff70b&dl=deal%2Fcompacte-verrekijker-met-nachtzicht-1-of-2-stuks%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[12.95]]></price>
+						<price_old><![CDATA[29.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Compacte verrekijker met nachtzicht (1 of 2 stuks)]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[56]]></discount_percentage>
+						<discount_amount><![CDATA[17.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_verrekijker_nachtzicht-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[169760303001a5fbab686918b93809d9]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[fe2c28a30c102a9886f3b4ac22f82dfc]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-29 00:17:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Deze sokken zijn ideaal voor mensen met diabetes, gevoelige benen of een verstoorde bloedsomloop! <ul><li>Zeer geschikt voor mensen met diabetes, gevoelige benen of een verstoorde bloedsomloop</li><li>Perfecte pasvorm zonder knellen</li><li>6 paar per verpakking</li><li>Keuze uit marine, zwart of grijs</li><li>Verkrijgbaar in de maten 35-42 en 42-46</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45327]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=169760303001a5fbab686918b93809d9&dl=deal%2F6-paar-naadloze-sokken-die-niet-knellen-7%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[11.95]]></price>
+						<price_old><![CDATA[24.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[6 paar naadloze sokken die niet knellen]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[52]]></discount_percentage>
+						<discount_amount><![CDATA[13.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Apollo_Anti_Press_Sokken.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[e18bf59a777c89c9e61bdeb896c68ff6]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[1a35c4049826ee932bdda0a893ad8542]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-29 00:17:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Bespaar nu op vaatwastabletten met dit megapakket van 500 stuks. Voldoende voor meer dan een jaar! <ul><li>10 kg vaatwastabletten; ca. 500 stuks</li><li>Slechts 5 cent per tablet!</li><li>Professionele A-kwaliteit; wordt ook in de horeca gebruikt</li><li>Geschikt voor alle vaatwassers</li><li>2-laags met 3-dubbele werking: reiniging/glans/ontkalking</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45262]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=e18bf59a777c89c9e61bdeb896c68ff6&dl=deal%2Fsupervoordelig-500-vaatwastabletten-9%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[19.95]]></price>
+						<price_old><![CDATA[79.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Supervoordelig: 500 vaatwastabletten!]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[60.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_454x304_500_vaatwastabletten.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[4486cbd59c36aa9b1a28e22ce7a08b07]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[28f96d7bcb103f8f5bfb0c39b4e70dcd]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-30 00:17:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Zit je veel aan een bureau? Zorg dan dat je comfortabel zit met deze luxe bureaustoel! <ul><li>Zeer luxe bureaustoel</li><li>Ideaal voor directiekamers en vergaderruimtes</li><li>Comfortabele zachte zit met goede ondersteuning</li><li>Kantelbaar en in hoogte verstelbaar</li><li>Verkrijgbaar in bruin of zwart</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44373]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=4486cbd59c36aa9b1a28e22ce7a08b07&dl=deal%2Fzeer-luxe-bureaustoel-in-2-kleuren-10%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[74.95]]></price>
+						<price_old><![CDATA[299.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Zeer luxe bureaustoel in 2 kleuren]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[225.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_bureaustoel_Pharaoh-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[7775770977d47335bf8f6c83536089d4]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[654dd7772d80ce36e809d9307394215f]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-01 00:16:12]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Met deze 10-delige keramische pannenset kook je gezonder zonder olie of vet! Nu met gratis messenset! <ul><li>Koken met Zwitserse topkwaliteit</li><li>Nu met gratis 3-delig non-stick messenset!</li><li>Koken en bakken zonder olie of vet</li><li>Keramische laag koekt niet aan </li><li>Set bestaat uit 3 kookpannen, een sauspan en 2 koekenpannen</li><li>Inclusief 4 bijpassende glazen deksels met stoomventiel </li><li>Vaatwasserbestendig</li><li>Keuze uit zilvergrijs of donkergrijs</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[43789]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=7775770977d47335bf8f6c83536089d4&dl=deal%2F10-delige-keramische-pannenset-met-gratis-messenset-4%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[99.95]]></price>
+						<price_old><![CDATA[599.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[10-delige keramische pannenset met gratis messenset]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[83]]></discount_percentage>
+						<discount_amount><![CDATA[500.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_pannenset_V4.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[020956270283c6a14277b0510abe987f]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[7ce7a246fc1c291e502f3e1e4e883b9d]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:16:08]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Algemeen]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Houd jouw huis of bedrijf live in de gaten via je smartphone of tablet met deze 360 graden fisheye WiFi IP-camera! <ul><li>Waar je ook bent live je woning of bedrijf in de gaten houden</li><li>Werkt eenvoudig via WiFi en een laptop, smartphone of tablet</li><li>Geschikt voor Android en iOS via software</li><li>360 graden rondom monitoren</li><li>Bewegingsdetectie en nachtzicht</li><li>Ondersteunt auto-opname</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45364]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=020956270283c6a14277b0510abe987f&dl=deal%2F360-graden-fisheye-ip-beveiligingscamera-3%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[59.95]]></price>
+						<price_old><![CDATA[219.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[360 graden fisheye IP beveiligingscamera]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[72]]></discount_percentage>
+						<discount_amount><![CDATA[160.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main2_1000x670_360-Fisheye-IP-Camera.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[0665c848d1f5c281380143c883b159b1]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[ade3dde3957677b4abf354f68a2e0ef9]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-03-20 00:14:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:14:10]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[- Waar je ook bent live je woning of bedrijf in de gaten houden<br />- Werkt eenvoudig via WiFi en een laptop, smartphone of tablet<br />- Geschikt voor Android en iOS via software<br />- 360 graden rondom monitoren<br />- Bewegingsdetectie en nachtzicht<br />- Ondersteunt auto-opname<br />]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords><![CDATA[Top 3 deal]]></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=0665c848d1f5c281380143c883b159b1&dl=deal%2F360-graden-fisheye-ip-beveiligingscamera-3%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[59.95]]></price>
+						<price_old><![CDATA[219.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[360 graden fisheye IP beveiligingscamera]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage></discount_percentage>
+						<discount_amount></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[large]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main2_1000x670_360-Fisheye-IP-Camera.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[267669766896d56ebe6475057de9cfdc]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[86fc342778338297b8ceb88c49be5a4f]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-07 00:14:10]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:14:10]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[- Praktische tas voor korte reizen<br />- Toegestaan in elke vliegtuigcabine<br />- Exacte afmeting voor bij budget airlines<br />- Lichtgewicht en ijzersterk<br />- Met verstelbare schouderriem<br />]]></description>
+						<description_short></description_short>
+						<sku></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords><![CDATA[Top 3 deal]]></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=267669766896d56ebe6475057de9cfdc&dl=deal%2Freistas-geschikt-voor-vliegtuigcabines-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[12.95]]></price>
+						<price_old><![CDATA[44.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Reistas geschikt voor vliegtuigcabines]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage></discount_percentage>
+						<discount_amount></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[large]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[https://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Handtas-cabin-size-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[c6469adf02b4ade6c2e213a261100fc1]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[dbfb5856a91c727d1003cd8bbe5b2ce9]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-06 00:16:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Buitengewoon veel binnenpret: Plopsa Indoor Hasselt met binnen- én buitenattracties <ul><li>Weer of geen weer, het ideaal dagje uit!</li><li>Meer dan 25 binnen- en buitenattracties</li><li>Dagelijkse liveshow en Meet &amp; Greets met Plopsa-figuren</li><li>In Plopsa Indoor Hasselt staan tal van evenementen en shows op het programma</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44706]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=c6469adf02b4ade6c2e213a261100fc1&dl=deal%2Fdagentree-plopsa-indoor-hasselt-be%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[12.99]]></price>
+						<price_old><![CDATA[19.99]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Dagentree Plopsa Indoor Hasselt (BE)]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[35]]></discount_percentage>
+						<discount_amount><![CDATA[7.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Plopsa-Indoor-Hasselt.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[cfbc438effede1d6148955df2a3c1938]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[1c81fe71b79967294b4a13a2a8740217]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-27 00:16:06]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Houd insecten buiten met dit zelfsluitende magnetisch muggenscherm van Bug Away! <ul><li>Houdt insecten buiten, haalt frisse lucht binnen</li><li>De schermen passen in vrijwel elke deuropening</li><li>Eenvoudig aan te brengen zonder sporen achter te laten bij verwijdering</li><li>Gemakkelijk schoon te maken</li><li>Keuze uit de kleuren wit en zwart</li><li>Afmetingen: ca. 100 x 210 cm (1 hor bestaat uit 2 delen van 50 cm breed per deel)</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45439]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=cfbc438effede1d6148955df2a3c1938&dl=deal%2Fbug-away-zelfsluitend-magnetisch-muggenscherm-11%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[15.95]]></price>
+						<price_old><![CDATA[59.90]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Bug Away! zelfsluitend magnetisch muggenscherm]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[73]]></discount_percentage>
+						<discount_amount><![CDATA[43.95]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_muggenscherm2-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[d199fc5069335c3ebf903312612779c1]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[7a769d7bc2a57adeb5b5d4848810f1d7]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-20 00:16:10]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Laat de zomer maar komen! Barbecueën was nog nooit zo eenvoudig als met deze luxe gasbarbecues! <ul><li>Robuust design op stevige wielen</li><li>4 of 6 regelbare branders en een zijbrander</li><li>Elektrische ontsteking</li><li>Extra schap en kastruimte onder de grill</li><li>Ingebouwde thermometer</li><li>Verkrijgbaar in zwart, zilver en zwart/zilver</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45162]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=d199fc5069335c3ebf903312612779c1&dl=deal%2Fsolide-gasbarbecue-in-6-uitvoeringen%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[199.95]]></price>
+						<price_old><![CDATA[499.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Solide gasbarbecue in 6 uitvoeringen]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[60]]></discount_percentage>
+						<discount_amount><![CDATA[300.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_BBQ-deal-april-2017.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[86f8c4ece9a54c2c165de9408e3b8587]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[03434b8726aa075b45da46572d52b57e]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-20 00:16:10]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Handige hulpmiddelen om de droger op de wasmachine te zetten of om de wasmachine hoger te plaatsen <ul><li>Bespaar ruimte door de droger op de wasmachine te plaatsen</li><li>Voorkom teveel bukken met een verhoger voor de wasmachine</li><li>Keuze uit een stapelkit en 3 soorten verhogers</li><li>Hulpmiddelen zijn gemaakt van stevig staal</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45168]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=86f8c4ece9a54c2c165de9408e3b8587&dl=deal%2Fwasmachine-stapelkit-en-verhogers%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[39.95]]></price>
+						<price_old><![CDATA[79.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Wasmachine stapelkit en verhogers]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[50]]></discount_percentage>
+						<discount_amount><![CDATA[40.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Wasmachineverhoger.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[005358f6c4e83e7e2fff15cd84d10cc0]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[b1ef94e0a12b5155da1b9a9149a23456]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:16:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Geef jouw ogen rust en verbeter de kijkervaring met deze mood light LED-strips voor achter de TV! <ul><li>Geeft sfeer en rust rondom de tv of monitor</li><li>Verbetert de kijkervaring</li><li>16 voorgeprogrammeerde kleuren</li><li>Diverse effecten, zoals smooth en fade</li><li>Dimbaar en volledig bedienbaar middels de afstandsbediening</li><li>Werkt via de USB-aansluiting van de TV of een USB-stekker </li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45342]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=005358f6c4e83e7e2fff15cd84d10cc0&dl=deal%2Fmood-light-led-strips-voor-achter-de-tv-10%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[9.95]]></price>
+						<price_old><![CDATA[49.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Mood light LED-strips voor achter de TV]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[80]]></discount_percentage>
+						<discount_amount><![CDATA[40.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_0061400001I6S5NAAV-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[cc21a6526f681703a1fba379e9bf30ef]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[d1fc07c593ea52a80cd1dde23222d22d]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-30 00:17:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Met deze inbouwlade voor keukenkastjes heb je meer overzicht en zijn de kastjes minder rommelig! <ul><li>Benut meer ruimte in keukenkastjes</li><li>Per inbouwdeel 2 uitschuiflades</li><li>Maakt kastjes overzichtelijk en minder rommelig</li><li>Past in de meeste onderkastjes; zelfs 2 naast elkaar</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45407]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=cc21a6526f681703a1fba379e9bf30ef&dl=deal%2Finbouwlade-voor-keukenkastjes%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[34.95]]></price>
+						<price_old><![CDATA[69.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Inbouwlade voor keukenkastjes]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[50]]></discount_percentage>
+						<discount_amount><![CDATA[35.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_gootsteenkastrek-1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[205ab6771a42879782deb7a4041e08c1]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[1ec235b23dd9d4703b37f4929ea7d019]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-30 00:17:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Gezien op TV! Superhandige Go Belt waarmee je noodzakelijke spulletjes dicht tegen je lichaam kunt dragen! <ul><li>Ideaal voor het bij je dragen van meest noodzakelijke dingen</li><li>Geeft bewegingsvrijheid en houdt je handen vrij</li><li>Comfortabel, licht en extra elastisch</li><li>Twee zeer elastische vakjes met rits </li><li>Goed te verbergen onder kleding</li><li>Verstelbaar van 60 tot 125 cm</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45428]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=205ab6771a42879782deb7a4041e08c1&dl=deal%2Fbekend-van-tv-go-belt%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[12.95]]></price>
+						<price_old><![CDATA[22.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Bekend van TV: Go Belt]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[43]]></discount_percentage>
+						<discount_amount><![CDATA[10.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_go_belt.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[e1d0b3620a690dd1df8a28c6b6379ed3]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[9d573841afab06c9c4b32d5ecb782506]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-01 00:16:12]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Alles in huis zonder reinigingsmiddelen vlekkeloos en hygiënisch schoon met de 10-in-1 stoomreiniger! <ul><li>Handstoomunit met 10-delige accessoireset</li><li>Reinigt zonder schoonmaakmiddelen</li><li>4 verschillende reinigingsstanden</li><li>Binnen 30 seconden gebruiksklaar</li><li>Weekt de meest hardnekkige vlekken los</li><li>Doodt schimmels, bacteriën en huisstofmijt</li><li>2 of 4 extra microvezel doekjes bij te bestellen</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45265]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=e1d0b3620a690dd1df8a28c6b6379ed3&dl=deal%2F10-in-1-multifunctionele-stoomreiniger-met-accessoires-17%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[49.95]]></price>
+						<price_old><![CDATA[99.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[10-in-1 multifunctionele stoomreiniger met accessoires]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[50]]></discount_percentage>
+						<discount_amount><![CDATA[50.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_454x304_10_1_stoomreiniger.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[7024be86dfb3f3867eea355aa82fbac8]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[446be1a1d50d86ccdb922b99795a4b35]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:16:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Sleep jij ook elke dag heel wat spulletjes met je mee? Doe het dan in een mooie tas zoals deze! <ul><li>Stijlvol Italiaans design</li><li>Met 2 draaghengsels en afneembare schouderhengsel</li><li>Kwalitatief bruin leer i.c.m. kunstleer</li><li>Compact formaat maar ruim genoeg om van alles in mee te nemen</li><li>Tot in de puntjes afgewerkt</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45392]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=7024be86dfb3f3867eea355aa82fbac8&dl=deal%2Fstijlvolle-tas-in-italiaans-design-7%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[34.95]]></price>
+						<price_old><![CDATA[129.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Stijlvolle tas in Italiaans design]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[73]]></discount_percentage>
+						<discount_amount><![CDATA[95.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Stijlvolle-damestas.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[58d758881672417071be9ed2f0a77f57]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[64cd221d78bc6cf03cc21c00a07e5545]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:16:08]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Algemeen]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Bedien je smartphone gewoon vanaf je pols met deze supercoole smartwatch die eruitziet als een chronograaf horloge! <ul><li>Bel handsfree met al jouw contacten in de contactenlijst</li><li>Ontvang meldingen van o.a. WhatsApp, Facebook en Twitter (alleen bij Android toestellen)</li><li>Vele extra functies, zoals een slaapmonitor, stappenteller, kalender en rekenmachine</li><li>Fungeert ook als Bluetooth muziekspeler</li><li>Keuze uit zilver of zwart</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45365]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=58d758881672417071be9ed2f0a77f57&dl=deal%2Fsmartwatch-met-het-uiterlijk-van-een-chronograaf-horloge-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[39.95]]></price>
+						<price_old><![CDATA[149.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Smartwatch met het uiterlijk van een chronograaf horloge]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[73]]></discount_percentage>
+						<discount_amount><![CDATA[110.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_StijlvolleRondeSmartwatch.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[84324af9b911662fc39129acb64ed7aa]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[717faaab938ccd8f9766cf5358cee65b]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-04 00:16:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Superleuk uitje voor jong en oud naar het meest bezochte pretpark van België: Plopsaland De Panne <ul><li>NIEUW: Heidiland!</li><li>Meer dan 50 attracties voor jong en oud</li><li>Ontdek de magie van Studio 100</li><li>Het meest bezochte pretpark van België</li><li>In Plopsaland De Panne staan tal van evenementen en shows op het programma</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44549]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=84324af9b911662fc39129acb64ed7aa&dl=deal%2Fdagentree-plopsaland-de-panne-be%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[23.40]]></price>
+						<price_old><![CDATA[35.99]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Dagentree Plopsaland De Panne (BE)]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[34]]></discount_percentage>
+						<discount_amount><![CDATA[12.59]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/03/main_1000x670_Plopsaland_De_Panne-2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[8418e8d236c4f125d08a8b4a8a51e359]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[31ce27c0708b27583c49c66856e2be6d]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-13 00:19:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Zorg in het donker voor goede buitenverlichting met deze set solar buitenlampen! <ul><li>Werkt op zonne-energie, dus geen kabels nodig</li><li>Ideaal om snel en gemakkelijk buitenverlichting aan te brengen</li><li>Werkt tot wel 8 uur lang op een volle batterij</li><li>Lampen werken op basis van schemerschakeling</li><li>Met luxe, weerbestendige RVS behuizing</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44852]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=8418e8d236c4f125d08a8b4a8a51e359&dl=deal%2F3-rvs-buitenlampen-op-zonne-energie-8%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[19.95]]></price>
+						<price_old><![CDATA[89.85]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[3 RVS buitenlampen op zonne-energie]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[77]]></discount_percentage>
+						<discount_amount><![CDATA[69.90]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_RVS_Solar_lampen_Triple.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[2fc8a4098ad3398cb0a0939f2c92cab2]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[895682b5b62a212a4278eb5ee40d2ae9]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-13 00:19:09]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Sinji Indoor Smart WiFi-camera met babyfoon en infrarood <ul><li>Overal live jouw woning of bedrijf in de gaten houden</li><li>Werkt eenvoudig via WiFi en smartphone of tablet</li><li>Met gratis app voor alle Android en iOS apparaten</li><li>Ook geschikt als Baby monitor vanwege 2 way audio</li><li>Ingebouwde microfoon en speaker voor videobellen</li><li>Met infrarood voor beelden in het donker</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[44569]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=2fc8a4098ad3398cb0a0939f2c92cab2&dl=deal%2Fsinji-indoor-smart-wifi-camera-met-babyfoon-8%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[39.95]]></price>
+						<price_old><![CDATA[149.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Sinji Indoor Smart WiFi-camera met babyfoon]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[73]]></discount_percentage>
+						<discount_amount><![CDATA[110.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Sinji_smart_wifi_camera_V3.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[57af6bb6451c77b6ff5fcc9dcc311242]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[05b240ab80ea42922cc3de8b27a4ba4a]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-28 00:18:08]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Elimineer onkruid in de tuin met deze snoerloze onkruidbrander. Optioneel met een gasfles erbij! <ul><li>Elimineer onkruid in tuin, terras of oprit!</li><li>Verwarmingsvermogen: 800 tot 1300 °C</li><li>Geen chemische bestrijdingsmiddelen meer nodig</li><li>Snoerloos en lichtgewicht</li><li>Optioneel gasfles bij te bestellen</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45409]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=57af6bb6451c77b6ff5fcc9dcc311242&dl=deal%2Fsnoerloze-onkruidbrander-8%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[14.95]]></price>
+						<price_old><![CDATA[39.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Snoerloze onkruidbrander]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[62]]></discount_percentage>
+						<discount_amount><![CDATA[25.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_454x304_onkruidbrander-4.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[3be0aa9eff18bb6af024f7844a896660]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[4d48414bfd9018e66f6e52af8e3a1ac4]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-01 00:16:12]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:16:08]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Huis en Tuin]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[4-pack zwarte anatomisch gevormde herenslips met hoog draagcomfort. <ul><li>Comfortabele herenslips die de lichaamsvormen mooi laten uitkomen</li><li>Extra ruimte aan de voorkant, voor een gevuld effect</li><li>Vormt zich naar de contouren van jouw lichaam</li><li>4 stuks per maat</li></ul>]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45312]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=3be0aa9eff18bb6af024f7844a896660&dl=deal%2F4-pack-zwarte-anatomisch-gevormde-herenslips-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[11.95]]></price>
+						<price_old><![CDATA[29.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[4-pack zwarte anatomisch gevormde herenslips]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[60]]></discount_percentage>
+						<discount_amount><![CDATA[18.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_Herenslip-per-set-van-4.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[56cd67d3a4770cf264ecd7f77ff8eac4]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[ccd00a981b99fa3422f99cefd2208234]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:16:08]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category><![CDATA[Algemeen]]></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Nooit meer zadelpijn met het Proline fietszadel met gelvulling Royal Gel vullingGeschikt voor iedere fietsZeer comfortabelLichtgewicht en duurzaamIdeaal voor lange en korte afstanden]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[45396]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=5940&li=1482788&pid=56cd67d3a4770cf264ecd7f77ff8eac4&dl=deal%2Ftopkwaliteit-fietszadel-met-gelvulling-tegen-zadelpijnexcerpt-de-oplossing-tegen-zadelpijn-proline-fietszadel-met-comfortabele-gelvulling-past-op-iedere-fiets-2%2F%3Futm_source%3Daffiliate%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon%26show_popup%3Dno&ws=]]></link>
+						<price><![CDATA[17.95]]></price>
+						<price_old><![CDATA[49.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Topkwaliteit fietszadel met gelvulling tegen zadelpijnExcerpt: Dé oplossing tegen zadelpijn: Proline fietszadel met comfortabele gelvulling, past op iedere fiets!]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[64]]></discount_percentage>
+						<discount_amount><![CDATA[32.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://aanbieding.marktplaats.com/wp-content/uploads/2017/04/main_1000x670_gel-zadel.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+			</products>
+		</program>
+		<program>
+			<program_info>
+				<id><![CDATA[6104]]></id>
+				<name><![CDATA[Speurders Aanbiedingen]]></name>
+				<currency><![CDATA[EUR]]></currency>
+				<currency_symbol><![CDATA[€]]></currency_symbol>
+				<product_count><![CDATA[13]]></product_count>
+				<last_modified></last_modified>
+				<daisycon_unique_id_since><![CDATA[2015-12-16 12:56:25]]></daisycon_unique_id_since>
+				<daisycon_unique_id_modified><![CDATA[true]]></daisycon_unique_id_modified>
+			</program_info>
+			<products>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[3c1a74ae3001eaffdbe77f6dd8d0cb9e]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[423863a8a86ef9c935941b59196bcb25]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-30 00:19:10]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[strong>Originele Apple Accessoires
+Iedereen kent het wel; oordopjes en oplaadkabels die je bij je iPhone krijgt zijn van het ene op het andere moment verdwenen. Nieuwe kopen kost altijd belachelijk veel geld, dus kom je met van die goedkope dingetjes aan. Niet dus! Wij bieden originele Apple oordopjes en Apple lightning kabels aan voor een spotprijs! Originele Apple kwaliteit in huis voor minder geld. Je hebt al een Apple lightning kabel voor maar ?8,95 ipv ?29,95 en een set Apple oordopjes voor maar ?12,95 ipv ?35.
+
+Je hebt de keuze uit de volgende opties:
+
+Oplaadkabel
+Optie 1: 1 Apple oplaadkabel van 1 meter voor ?8,95 ipv ?29,95
+Optie 2: 1 Apple oplaadkabel van 2 meter voor ?10,95 ipv ?35
+Optie 3: 2 Apple oplaadkabels van 1 meter voor ?15,95 ipv ?49,95
+Optie 4: 2 Apple oplaadkabels van 2 meter voor ?19,95 ipv ?64,95
+Apple Oordopjes
+Optie 5: 1 paar Apple Oordopjes voor ?12,95 ipv ?35
+Optie 6: 2 paar Apple Oordopjes voor ?23,95 ipv ?70
+Combinatiebundel: Extra voordelig!
+Optie 7: 1x Apple Oplaadkabel 2 meter én 1 paar Apple Oordopjes voor ?23,90 ipv ?45,95
+Optie 8: 2x Apple Oplaadkabels 2 meter én 2 paar Apple Oordopjes voor ?43,90 ipv ?140
+Optie 9: 3x Apple oplaadkabels 2 meter én 3 paar Apple Oordopjes voor ?65,85 ipv ?210
+Compatible met de volgende iPhones, iPads en iPods:
+iPhone-modellen:
+iPhone 5
+iPhone 5c
+iPhone 5s
+iPhone 6
+iPhone 6 Plus
+iPhone 6s
+iPhone 6s Plus
+iPad-modellen:
+iPad met Retina-display
+iPad mini
+iPad mini 2
+iPad Air
+iPad Air 2
+iPad mini 3
+iPad mini 4
+iPad Pro
+iPod modellen:
+iPod nano 7e generatie
+iPod touch 5e generatie 32 GB/64 GB
+iPod touch 5e generatie 16 GB
+iPod touch 6e generatie
+Originele Apple accessoires!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12336]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[117]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=3c1a74ae3001eaffdbe77f6dd8d0cb9e&dl=originele-apple-accessoires-300417.html&ws=]]></link>
+						<price><![CDATA[8.95]]></price>
+						<price_old><![CDATA[29.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Originele Apple Accessoires]]></title>
+						<price_shipping><![CDATA[2.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-04-30 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[70]]></discount_percentage>
+						<discount_amount><![CDATA[21.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/a/p/apple_oortjes_en_kabel_januari_2017_hoofdafbeelding_1_1_2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[5b7556ff0c01c89691b8797193e47822]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[1c75b337ea01e00f4756adc188558c00]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Rise and Shine Tandenbleekpoeder
+Zou jij ook graag een parelwitte glimlach willen hebben net als sommige beroemdheden? Een Hollywood smile krijg je ook met het Rise and Shine tandenbleekpoeder. Met dit poeder hoef je niet meer naar een kliniek om je tanden te laten bleken, maar doe je het gemakkelijk zelf. Poets je tanden er 3 tot 5 keer per week mee voor de beste resultaten. Na enkele poetsbeurten zie je al verschil. Het is 100% natuurlijk, dus zonder giftige ingrediënten, fluoride of bleekmiddel. Daarnaast is het ook veilig voor je tandglazuur. Vanaf ?5,95 ipv ?15,95 heb jij straks een oogverblindende glimlach!
+
+Je kan kiezen uit de volgende opties:
+Optie 1: 50 gram Rise and Shine Tandenbleekpoeder voor slechts ?5,95 ipv ?15,95
+Optie 2: 100 gram Rise and Shine Tandenbleekpoeder voor slechts ?9,95 ipv ?31,90
+Hoe werkt het?
+Infinitive Rise and Shine is een 100% natuurlijk whitening poeder voor de tanden. Het is veilig voor je tandglazuur en heeft een frisse mintsmaak. Zodra Rise and Shine met je speeksel in aanraking komt, weekt het aanslag en vlekken aan het tandoppervlak los. Het resultaat bij regelmatig gebruik mag er zijn: mooie, natuurlijk witte tanden.
+
+Hoe gebruik ik Rise and Shine?
+Dip een schone, natte tandenborstel in het zwarte Rise and Shine poeder. Poets 2 minuten met lichte circulaire bewegingen. Houd je lippen op elkaar tijdens het poetsen. Spuug vervolgens voorzichtig de substantie uit en spoel grondig na. Gebruik Rise and Shine dagelijks voor optimaal resultaat.
+
+Don?t forget to smile!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12351]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[192]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=5b7556ff0c01c89691b8797193e47822&dl=rise-and-shine-tandenbleekpoeder-020517.html&ws=]]></link>
+						<price><![CDATA[5.95]]></price>
+						<price_old><![CDATA[15.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Tandenbleekpoeder]]></title>
+						<price_shipping><![CDATA[2.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-02 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[63]]></discount_percentage>
+						<discount_amount><![CDATA[10.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/t/a/tandenbleekpoeder_hoofdafbeelding.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[de3cc76d53d38d418c6a9423af36bcda]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[c7327055d7cbf8118d92f30e98ed5a44]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-01 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Stijlvolle Crossbody Damestas
+Tassen heb je nooit genoeg! Een compacte crossbody tas als deze is helemaal onmisbaar in je tassenverzameling. Met drie verschillende vakken is er genoeg ruimte voor je make-up, zonnebril, mobiele telefoon en andere kleine voorwerpen. Dankzij de verstelbare schouderriem draag je ?m gemakkelijk over je schouder of kruislings over je lichaam. Nu in cognac, zwart of bruin voor slechts ?14,95 ipv ?59,95.
+
+Specificaties
+ Afmeting: 24 x 22 x 2 cm
+Gewicht: 240 gram
+Kleuren: Cognac, zwart en bruin
+Materiaal: Leder en gedeeltelijk PU-leder
+Sluitbaar met een druk/draaiknoop en rits
+Voor welke kleur ga jij?]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12342]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[169]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=de3cc76d53d38d418c6a9423af36bcda&dl=crossbody-damestas-010517.html&ws=]]></link>
+						<price><![CDATA[14.95]]></price>
+						<price_old><![CDATA[59.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Stijlvolle Crossbody Damestas]]></title>
+						<price_shipping><![CDATA[2.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-01 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[45.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/c/r/crossbody_april_hoofd.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[9ee66788c4409409471d26bdb7b608ce]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[677b756cfe1ab62d67b275cb703e8bd3]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Hoverboard
+De allernieuwste manier van je voortbewegen? Via een hoverboard natuurlijk! Dit volledig elektrische board is gemaakt om je snel, efficiënt en op een leuke manier te verplaatsen. Wanneer je het goed onder de knie hebt kun je er zelfs trucjes op doen en een snelheid van 12 km per uur halen. Het is 100% veilig en geschikt voor jong en oud. Voor slechts ?179,95 rijd jij rond op die supermoderne board in zwart, wit of goud.
+
+Stabiel onderweg
+Rond touren op een hoverboard is lang niet zo moeilijk als het misschien lijkt. Een balanssysteem zorgt er namelijk voor dat je altijd stabiel staat. Daarbij kun je 360° draaien op de plaats, zonder naar voor of achter te bewegen. De led-lampen aan de voorkant verlichten de weg en status indicatoren in het midden laten je de accustatus zien. Je kunt een flinke trip maken met dit hoverboard, want pas na 15 tot 18 kilometer moet het hoverboard opnieuw opgeladen wordt, wat zo?n 3 uur duurt.
+
+Samsung batterijen
+De meeste hoverboards bevatten goedkope batterijen met enkele bedrading waardoor complicaties kunnen optreden. Bij dit hoverboard is dat anders. Z?n prestaties worden verzorgd door Samsung batterijen, welke volgens de Europese normen geproduceerd zijn en 100% veilig.
+
+LET OP! Houd er rekening mee dat het ministerie heeft bepaald dat de hoverboard onder de categorie ?bijzondere bromfiets? valt. Je mag met je hoverboard vooralsnog niet op de stoep en openbare weg.
+
+Specificaties
+Materiaal: ABS plastic
+Gewicht: L/B/H 582x185x180mm
+Weight: 10kg
+Effect: 350w x 2
+Weight range:  25kg ? 120 kg
+Tire: 16,cm
+Battery: Samsung Lithium battery 36v/ 4.4ah = 300-350 charging cyclus
+Charging time: 2-3 hours
+Running time : Up to 1 hour per charge
+Distance: About 15-18km per charge
+Max speed: 12km/h
+Max angle: 15%
+Pedal height: 120mm
+Chassis height: 25mm
+LED light: situated next to the wheels
+Included: battery,  charging cable
+
+Daar ga je!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12362]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[19]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=9ee66788c4409409471d26bdb7b608ce&dl=hoverboard-020517.html&ws=]]></link>
+						<price><![CDATA[179.95]]></price>
+						<price_old><![CDATA[599.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Hoverboard met Samsung Batterij]]></title>
+						<price_shipping><![CDATA[6.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-02 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[70]]></discount_percentage>
+						<discount_amount><![CDATA[419.05]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/h/o/hoverboard_geenzilver.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[533a0230ffe07e5c51bad54bf8d1a3de]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[a7dc202be939c5ba81b72662918195f3]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:19:06]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Pierre Cardin Polo
+Je kunt een echt sportieve kerel er in uittekenen; korte mouwen, knoopjes bovenin en een nette kraag. Het poloshirt, ook wel polo genoemd. Ben jij ook zo gek op deze fijn zittende shirts? Sla dan een nieuwe zomervoorraad in en ga voor de kwalitatieve polo?s van Pierre Cardin. Voor ?14,95 ipv ?69,95 komt er een exemplaar in zwart, navy, antraciet, lichtblauw, lichtgrijs, wit of rood naar je toe. Wat een keus!
+
+Topkwaliteit
+De polo?s zijn gemaakt van 100% katoen en hebben een perfecte pasvorm. De verstevigde zijsplitjes onder aan het shirt zorgen voor meer bewegingsvrijheid. Verkrijgbaar in de maten S t/m XXL.
+
+Kleuren
+Zwart
+Navy
+Antraciet
+Lichtblauw
+Lichtgrijs
+Wit
+Rood
+Sporty!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12329]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[196]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=533a0230ffe07e5c51bad54bf8d1a3de&dl=pierre-cardin-polo-030517.html&ws=]]></link>
+						<price><![CDATA[14.95]]></price>
+						<price_old><![CDATA[69.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Pierre Cardin Polo]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-03 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[79]]></discount_percentage>
+						<discount_amount><![CDATA[55.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/p/i/pierre_cardin_polo_april_hoofd.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[54874b46247904350c57aa326b825041]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[388b76a5f7907fee9513fa08becf71b6]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-30 00:19:10]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Micro SD-kaarten
+Niets irritanter dan de melding ?geheugen vol? als je net lekker muziek aan het downloaden bent, een nieuwe app wilt installeren of aan de slag wilt met je camera. Gelukkig heb je daar geen last meer van met één van deze micro SD-kaarten. Ze vergroten niet alleen het geheugen, maar zijn ook heel handig om snel bestanden over te zetten naar een computer. De meegeleverde SD-adapter past in een SD-ingang die op de meeste computers zit. Je koopt nu een micro SD-kaart vanaf ?3,95 ipv ?19,95. Hebben!
+
+Specificaties
+Class 10; minimale snelheid 10MB/s (=80 Megabit per sec)
+Met adapter om er een SD-kaart van te maken
+Opslagruimte
+
+1x 8GB Micro SD-kaart voor ?3,95 ipv ?19,95
+2x 8GB Micro SD-kaart voor ?7,75 ipv ?39,95
+1x 16 GB Micro SD-kaart voor ?5,95 ipv ?24,95
+2x 16GB Micro SD-kaart voor ?10,95 ipv ?49,95
+1x 32GB Micro SD-kaart voor ?10,95 ipv ?29,95
+2x 32GB Micro SD-kaart voor ?19,95 ipv ?59,95
+1x 64GB Micro SD-kaart voor ?19,95 ipv ?49,95
+2x 64GB Micro SD-kaart voor ?37,95 ipv ?99,95
+1x 128GB Micro SD-kaart voor ?29,95 ipv ?69,95
+2x 128GB Micro SD-kaart voor ?54,95 ipv ?139,95
+
+Een deal om te onthouden!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12327]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[135]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=54874b46247904350c57aa326b825041&dl=micro-sd-kaarten-300417.html&ws=]]></link>
+						<price><![CDATA[3.95]]></price>
+						<price_old><![CDATA[19.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Micro SD-kaarten]]></title>
+						<price_shipping><![CDATA[2.50]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-04-30 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[80]]></discount_percentage>
+						<discount_amount><![CDATA[16.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/m/i/microsdkaart_februari_hoofdafbeelding_2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[97fe19e48cb6d520cebc965801eecc3a]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[6d0913f2c7afa0bb0fdadaf58c090e65]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Complete Luxe Boxspring Stockholm
+Een goede, regelmatige nachtrust is onmisbaar voor een uitgerust gevoel overdag. Een nachtje in dromenland zorgt ervoor dat je je de volgende dag energiek en alert voelt en dat komt je productiviteit ten goede. Investeer in een goede nacht slaap met deze Stockholm boxspringcombinatie in zwart, antraciet of lichtgrijs. De combinatie van een goede boxspring en een ondersteunend matras laten je lekker uitgerust weer wakker worden. De set is helemaal compleet met een hoofdbord, medium matras en een topdekmatras.
+
+Je hebt de keuze uit de volgende afmetingen:
+Boxspring 140 x 200 cm voor slechts ?379 ipv ?1299
+Boxspring 160 x 200 cm voor slechts ?409 ipv ?1499
+Boxspring 180 x 200 cm voor slechts ?429 ipv ?1699
+
+Bonell-matras
+De Stockholm boxspring wordt geleverd met twee medium matrassen en een topdekmatras van 4 cm. Koop je de boxspring met maat 140 x 200 cm? Dan krijg je één groot matras geleverd.
+Het bonell-matras is 17 cm hoog en opgebouwd uit dubbel conische vijfslagsveren. Het matras bestaat uit 107 veren per m2, met een draaddikte van 2,2 mm. De ventilatie van een bonell-matras is heel erg goed, wat zorgt voor een heerlijke nachtrust. De buitenrand van de matrassen is in dezelfde stof gestoffeerd als de onderboxen en het hoofdbord.
+
+Medium of stevig matras
+Model Stockholm wordt standaard geleverd met medium matrassen. Weeg je meer dan 82 kilo? Dan is het verstandig om tegen een kleine meerprijs voor een stevig matras te kiezen.
+
+Een stevig matras (dit is één groot matras) voor de boxspring in de maat 140 cm, heb je al voor slechts ?24,95 extra!
+Eén van de twee matrassen stevig (de andere blijft medium) bij een boxspring in de maat 160 cm of 180 cm, heb je al voor slechts ?24,95 extra!
+Beiden matrassen stevig bij een boxspring in de maat 160 cm of 180 cm heb je al voor slechts ?49,95 extra!
+Hocker
+Maak je set compleet met een hocker in dezelfde stof en kleur als de boxspring. Deze is 45,5 x 45,5 x 45,5 cm groot.
+1 hocker voor ?49,95
+2 hockers voor ?89,95
+Specificaties
+
+2 harde onderboxen
+12 zilverkleurige blokpoten
+2 bonell-matrassen (bij 140 x 200 cm is dit één groot matras)
+Strak gestoffeerd hoofdbord
+Totale hoogte vloer inclusief standaardtopper: 55 cm
+Totale dikte bonell-matras: 17 cm
+Hoogte hoofdbord: 96 cm
+Dikte hoofdbord: 6 cm
+Breedte hoofdbord: Aan beide kanten 3 cm breder dan de boxspring
+Dikte topdekmatras: 4 cm
+Welterusten!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12328]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[55]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=97fe19e48cb6d520cebc965801eecc3a&dl=complete-luxe-boxspring-stockholm-020517.html&ws=]]></link>
+						<price><![CDATA[379.00]]></price>
+						<price_old><![CDATA[1299.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Boxspring Stockholm]]></title>
+						<price_shipping><![CDATA[49.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-02 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[71]]></discount_percentage>
+						<discount_amount><![CDATA[377.70]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/b/o/boxspring_stockholm_hoofd_v2_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[b7f0d24d93780556f156152233a7564a]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[7be7a9207d1c538130e50a3770e284a1]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:19:06]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Refurbished iPhone 6/s
+Iedere keer wanneer je denkt dat het niet beter kan, flikt Apple het weer; een nóg betere iPhone. De meest gewilde telefoon ter wereld heeft nu een mooie design met afgeronde hoeken en is voorzien van een 4.7-inch Retina-scherm. Hardware en software werken perfect samen en zorgen ervoor dat jij je telefoon gemakkelijk en supersnel kunt bedienen. Enige nadeel van deze pracht smartphone? De prijs! Daarom hebben wij een deal voor je gemaakt met een refurbished iPhone 6 of iPhone 6s in space grey met 16GB of 64GB vanaf ?319,95 ipv ?639. De smartphones worden geleverd met 1 jaar garantie en (niet originele) accessoires.
+
+Verschillende modellen
+iPhone 6 16GB ?319,95 ipv ?639
+iPhone 6 64GB ?389,95 ipv ?739
+iPhone 6s 16GB ?419,95 ipv ?679
+iPhone 6s 64GB ?479,95 ipv ?759
+iPhone 6 of iPhone 6s?
+De Iphone 6s lijkt op het eerste gezicht behoorlijk op de iPhone 6. Zo heeft ook deze variant een 4.7-inch Retina-scherm en vingerafdruksensor. Het verschil zit ?m in de binnenkant. Zo is de iPhone 6s uitgerust met Apple?s nieuwe A9-processor die tot 70% betere CPU-prestaties en zelfs tot 90% betere GPU-prestaties levert dan zijn voorganger. Daarnaast is de vingerafdruksensor sneller geworden en heeft de camera ook een flinke upgrade gekregen. De hoofdcamera maakt nu 12-megapixelfoto?s en filmt zelfs in haarscherp 4K. De frontcamera heeft nu 5 megapixels en gebruikt het Retina-scherm als flits voor de allermooiste selfies.
+
+Refurbished iPhones
+De Refurbished iPhone 6/s is een streng gereviseerde, tweedehands iPhone. Een iPhone in deze staat is een normaal gebruikte iPhone die alleen lichte oppervlakkige gebruikssporen heeft. De toestellen zijn volledig getest, gereinigd, gecontroleerd en geconfigureerd. Na deze controle wordt alle mogelijke vuil en data professioneel verwijderd. Daarnaast is de Refurbished iPhone 6 voorzien van 1 jaar garantie.
+
+Specificaties iPhone 6
+
+Type simkaart: Nano-SIM
+Opslaggeheugen: 16GB of 64GB
+RAM: 1GB DDR 3
+Besturingsprogramma: iOS 10
+Afmetingen: 67.1 x 138.3 x 7.1 mm
+Batterij: 1810 mAh Li-Po
+Gewicht: 129 gram
+Standby: 250 uur
+Spreektijd: 14 uur
+Display: 4.7-inch Retina-scherm
+Chipset / CPU: Apple A8 64 bit Chipset. Dual-core 1.3 GHz Cyclone (ARM v8-based) CPU + M7 Motion co-CPU
+Camera: 8 MP met autofocus en dual LED flash
+Voorzijde camera: 1,2 MP
+Video-opname: 1080 p HD (@60 fps), of 720 p HD (@240fps) opname met de hoofdcamera, 720 p HD (@30fps) met de webcam
+Bluetooth: Versie 4.0
+WiFi: 802.11 a/b/g/n, dual-band, Wi-Fi hotspot
+GPS: Ja (a)GPS + GLONASS
+Sensoren: Versnellingsmeter, Fingerprint ID sensor, Gyroscoop, Nabijheidssensor, Omgevingslichtsensor
+Specificaties iPhone 6s
+
+Type simkaart: Nano-SIM
+Opslaggeheugen: 16GB of 64GB
+RAM: 2GB DDR 3
+Besturingsprogramma: iOS 10
+Afmetingen: 67.1 x 138.3 x 7.1 mm
+Batterij: 1715 mAh
+Gewicht: 143 gram
+Standby: 240 uur
+Spreektijd: 14 uur
+Display: 4.7-inch Retina
+Camera: 12 MP met autofocus en dual LED flash
+Voorzijde camera: 5 MP
+Video-opname: 1080 p HD (@60 fps), of 720 p HD (@240fps) opname met de hoofdcamera, 720 p HD (@30fps) met de webcam
+Bluetooth: Versie 4.2
+WiFi: 802.11 a/b/g/n, dual-band, Wi-Fi hotspot
+GPS: Ja (a)GPS + GLONASS
+Sensoren: Versnellingsmeter, Fingerprint ID sensor, Gyroscoop, Nabijheidssensor, Omgevingslichtsensor
+Goeie deal!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12371]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[46]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=b7f0d24d93780556f156152233a7564a&dl=iphone-6s-030517.html&ws=]]></link>
+						<price><![CDATA[319.95]]></price>
+						<price_old><![CDATA[639.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Refurbished iPhone 6/s]]></title>
+						<price_shipping><![CDATA[6.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-03 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[50]]></discount_percentage>
+						<discount_amount><![CDATA[319.05]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/i/p/iphone_6s_mei_hoofd_v2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[145d11c07a58d96e8c97a4681b6bd3f9]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[d892f971bf1a125ede90bb09faa20dd7]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:19:06]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Schaduwdoek
+Stelt je voor; het is hartje zomer, dertig graden en jij vertoeft heerlijk in de schaduw op je terras. Last van een parasolstandaard die de doorloop belemmerd heb je niet, want dit hoogwaardige driehoekige schaduwdoek hangt gewoon aan de meegeleverde touwen en riemen. Dat is nog eens handig. Je hebt nu al een zonnedoek van 3,6 x 3,6 x 3,6 meter voor ?14,95 ipv ?69,95!
+
+Drie keer bescherming
+Het doek biedt schaduw, houdt 90 procent van de zonnewarmte tegen en beschermt je ook tegen UV-straling. Met 3,6 x 3,6 x 3,6 meter is hij precies groot genoeg om op te hangen boven je (dak)terras, balkon, of campingplekje. Ook bij een zwembad, zandbak of het strand kan dit een handige én mobiele manier zijn om een koel plekje te creëren.
+
+Het driehoekige doek is verkrijgbaar in de kleuren beige/wit, bruin en antraciet.
+ 
+Verkoeling en gezelligheid!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12366]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[196]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=145d11c07a58d96e8c97a4681b6bd3f9&dl=schaduwdoek-030517.html&ws=]]></link>
+						<price><![CDATA[14.95]]></price>
+						<price_old><![CDATA[69.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Schaduwdoek]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-03 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[79]]></discount_percentage>
+						<discount_amount><![CDATA[55.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/s/c/schaduwdoek_maart_hoofd_2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[5aa8068f7526faeed3729bf56c9f9bef]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[b634b3c5a305625a414161a34cd24db0]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-30 00:19:10]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[HP Elitebook 840 G1
+De absolute elite onder de laptops; De HP Elitebook 840 G1 ultra high-end laptop met zeer krachtige processor én SSD! Met deze laptop van de zakelijke elite serie van HP heb je absolute topkwaliteit in huis die bekend staat om de extreme degelijkheid en betrouwbaarheid. Behalve de kwaliteit ervaar je met deze laptop ongekende snelheid.
+
+Razendsnel opstarten dankzij de 180GB SSD en topprestaties door de extreem snelle 4e generatie Intel Core i5-4300u processor met 16GB DDR3 geheugen. Deze hardware verzekert je van een laptop die sublieme prestaties levert, maar weinig energie verbruikt. Ook is deze laptop compleet met touchscreen. Je ontvangt de laptop voor slechts ?499,95 ipv ?1799.
+
+Extra optie
+Naast de laptop heb je ook de mogelijkheid om extra accessoires aan te schaffen.
+Muis voor slechts ?4,49
+Usb-stick (8GB) voor slechts ?5,95
+Tas voor slechts ?13,95
+Bundelprijs (muis, usb-stick en tas) voor slechts ?22,95
+Intel Core i5 processor
+Deze 4e generatie Intel Core i5 processor levert extreme prestaties geschikt voor het echte zware werk. Ook heeft deze processor een geïntegreerde grafische chip voor nog betere grafische prestaties. Dankzij de slimme techniek in deze processor is deze processor niet alleen heel snel, maar ook heel energiezuinig. Ideaal geschikt voor bijvoorbeeld games en films.
+
+180GB SSD
+Een SSD is veel sneller dan een 'normale' harde schijf. Ten opzichte van een conventionele schijf heeft een SSD geen draaiende onderdelen en is daardoor veel sneller in bijvoorbeeld het opstarten van de laptop en verbruikt ook veel minder stroom. Dus betere prestaties en minder energieverbruik.
+
+Refurbished laptops
+Deze HP laptops zijn refurbished. Dat betekent dat deze laptops optisch en technisch in perfecte conditie zijn. Uiterst zorgvuldig gecontroleerd en voorzien van de laatste stuurprogramma?s en updates. Mogelijk zijn er lichte gebruikerssporen aanwezig. De laptops worden geleverd met 12 maanden garantie (3 maanden garantie op de batterij).
+
+Specificaties
+Intel Core i5-4300u
+16GB DDR3 geheugen
+180GB SDD
+Intel HD Graphics
+14.1 inch HD+ LED
+Touchscreen
+Cardreader
+WiFi (802.11 AC)
+Gigabit LAN
+USB 3.0
+Bluetooth
+3.5mm (koptelefoon)
+Fingerprintreader
+VGA
+Displayport
+Webcam
+Windows 8 Pro 64-bit
+Inclusief oplader
+1 jaar garantie (incl. 3 maanden op de batterij)
+Afmeting beeldscherm (touch): 33.89 x 23.7 x 2.25 cm
+Gewicht: 1,6 kg
+
+Wat een krachtpatser!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12333]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[169]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=5aa8068f7526faeed3729bf56c9f9bef&dl=hpelitebook840g1-300417.html&ws=]]></link>
+						<price><![CDATA[499.95]]></price>
+						<price_old><![CDATA[1799.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[HP Elitebook 840 G1]]></title>
+						<price_shipping><![CDATA[6.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-04-30 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[72]]></discount_percentage>
+						<discount_amount><![CDATA[498.15]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/h/p/hp_elitebook_1_1_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[2e5756ebc9d9bd4aaab58cb716e62fa6]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[eb655431392e54b4ea234eb389935fd2]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-01 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Larson Oslo Matras
+Of je optimale nachtrust pakt wordt grotendeels bepaald door jouw matras. Een goed matras is erg belangrijk, je spendeert er tenslotte een derde van jouw leven op. Dit matras is het topmodel binnen het Larson assortiment. Hij is opgebouwd uit 3 foamlagen die ondersteund worden met pocketveren. De eerste laag is 4 cm dik en bestaat uit het unieke Gel-Infused Foam?, dit werkt druk verlagend en is daarom onder meer een uitkomst voor mensen met lichamelijke klachten. Voor maar ?229 ipv ?659 lig je al op een van deze heerlijke matrassen.
+
+Drie foamlagen
+De bovenste laag is gemaakt van Gel-Infused Foam?. Dit zorgt ervoor dat de druk beter over het matras verspreid wordt dan bij een normaal (memory) foam matras. Daarnaast zorgt het voor een beter ventilering. Samen met de toplaag zorgt de centerlaag ervoor dat het matras zich optimaal aan jouw lichaamsvorm aanpast. De centerlaag is gemaakt van 3,5 cm dik memoryfoam. De onderlaag maakt het matras helemaal af. Het is 5,5 cm dik en is gemaakt van super soft foam. Dit zorgt voor de perfecte overgang van foam naar pocketveren. Door de combinatie van de foamlagen en de pocketveren ervaar je een unieke slaapsensatie! De Larson Pocketsprings? vomen de basis van dit matras. Ze zijn 15 cm hoog, 2.1 mm dik en zijn gedraaid met 5 slagen.
+
+Afwerking
+Een dikke rand van schuim vormt de afwerking van dit matras. De innovatieve 3D stof bevordert de goede ventilatie van het matras waardoor deze optimaal. Is.
+
+Beschikbare maten en prijzen
+70x200 cm: ?229 ipv ?659
+80x200 cm: ?239 ipv ?689
+80x210 cm: ?259 ipv ?789
+90x200 cm: ?259 ipv ?749
+90x210 cm: ?279 ipv ?769
+140x200 cm: ?339 ipv ?989
+160x200 cm: ?389 ipv ?1139
+160x210 cm: ?409 ipv ?1199
+160x220 cm: ?419 ipv ?1229
+180x200 cm: ?429 ipv ?1259
+180x210 cm: ?449 ipv ?1319
+180x220 cm: ?459 ipv ?1349
+Specificaties matras
+Toplaag: 4 cm Gel-Infused Memory Foam?
+Centerlaag: 3,5 cm Memory Foam
+Onderlaag: 5,5 cm Super Soft PU Foam
+Springs: 300st./m2, 2.1mm dik, 5 slags, 15cm hoge Larson Pocketveren?
+Dikte matras: 28 cm
+Gewicht: Getest voor personen tot 120 kg
+Geschikt type bedbodem: Boxspring, lattenbodem, spiraalbodem en (elektrische) verstelbare bedbodems
+Voor optimale lichaamsondersteuning!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12346]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[12]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=2e5756ebc9d9bd4aaab58cb716e62fa6&dl=larson-oslo-matras-010517.html&ws=]]></link>
+						<price><![CDATA[229.00]]></price>
+						<price_old><![CDATA[659.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Larson Oslo Matras]]></title>
+						<price_shipping><![CDATA[29.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-01 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[65]]></discount_percentage>
+						<discount_amount><![CDATA[430.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/l/a/larson_matras2_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[004e7fa89099af0c3dbd1b352afdc6e2]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[076f6c1f9962b6691eede4b9e6c0ad75]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-02 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-03 00:19:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Kuipstoel Marieke
+Goede stoelen zijn een must in iedere woonkamer. Daarnaast is het ook nog eens mooi meegenomen als ze er leuk uitzien, zoals deze vrolijke kuipstoeltjes in verschillende kleuren. Niet alleen zit de stoel heel comfortabel, hij ziet er door zijn design ook nog eens heel stijlvol uit. Schuif ?m aan de eettafel of gebruik hem in de woonkamer of studeerkamer. Ook leuk: combineer de verschillende kleuren stoelen met elkaar. Zo ziet je interieur in één keer giga vrolijk uit! De stoel is te verkrijgen in de kleuren zwart, wit, grijs, oranje, rood, lila en blauw. Nu voor maar ?39,95 ipv ?189,95. Bestelling per minimaal twee stuks in dezelfde kleur.
+
+Specificaties
+Worden geleverd als eenvoudig bouwpakket
+52 x 48,5 x 45 x 82 cm (d x b x h)
+Kunststof kuip
+PU-lederen bekleding
+Verkrijgbaar in  zwart, wit, grijs, oranje, rood, lila en blauw
+Per twee verpakt
+
+Wat een leuk ding!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12323]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[33]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=004e7fa89099af0c3dbd1b352afdc6e2&dl=kuipstoel-marieke-020517.html&ws=]]></link>
+						<price><![CDATA[39.95]]></price>
+						<price_old><![CDATA[189.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Kuipstoel Marieke]]></title>
+						<price_shipping><![CDATA[9.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-02 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[79]]></discount_percentage>
+						<discount_amount><![CDATA[150.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/m/a/mariekekuipstoeltjes_januari_hoofdnieuw_1_1_2.jpeg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[2859af433d1f7ea2356120c89ee7b74f]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[15d7fded006b9663f3107355ca6ecdfd]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-03 00:19:06]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Royalty Line Cycloonstofzuiger 1400W
+Ben jij al begonnen aan de grote voorjaarsschoonmaak? Deze gebruiksvriendelijke cycloonstofzuiger van Royalty Line helpt je daar maar al te graag mee. Anders dan andere stofzuigers gaat dit hulpmiddel niet alleen vuil op de grond te lijf, maar wordt ook stof dat in de lucht erboven zweeft opgezogen. Het filtersysteem, bestaande uit een centrale filter en verschillende cilinderfilters, blaast vrijwel zuivere lucht terug in de omgeving. Voor een fris huis! Nu voor maar ?49,95 ipv ?159,95.
+
+Bij stofallergieën
+De filters van de Royalty Line cycloonstofzuiger zorgen voor een blijvende zuigkracht en een schonere lucht in de woonkamer. Deze stofzuiger is dus geen overbodige luxe voor mensen met stofallergieën. Een fijne oplossing voor zichtbaar én onzichtbaar vuil in huis.
+
+Specificaties
+
+Merk: Royalty Line
+5 liter stofcapaciteit
+Maximaal vermogen van 1400 watt
+Hoge zuigkracht zonder vermogensverlies
+Viervoudige filter
+Cycloon filtersysteem met centrale filter en cilinderfilters
+Zuigkrachtregelaar achterop de stofzuiger
+Automatisch oprolbaar snoer
+
+Aan de slag!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12347]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[196]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=2859af433d1f7ea2356120c89ee7b74f&dl=royaltylinecycloonstofzuiger-030517.html&ws=]]></link>
+						<price><![CDATA[49.95]]></price>
+						<price_old><![CDATA[159.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Royalty Line Cycloonstofzuiger 1400W]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-03 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-03 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[69]]></discount_percentage>
+						<discount_amount><![CDATA[110.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/r/o/royalty_line_cycloonstofzuiger_mei_hoofd.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+			</products>
+		</program>
+	</programs>
+</datafeed>

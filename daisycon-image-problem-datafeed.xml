@@ -1,0 +1,3934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafeed>
+	<info>
+		<category><![CDATA[Daily offers]]></category>
+		<sub_category><![CDATA[Daily offers]]></sub_category>
+		<product_count><![CDATA[1395]]></product_count>
+		<last_modified><![CDATA[2017-05-25 04:33:21]]></last_modified>
+		<date_created><![CDATA[2017-05-25 05:13:49]]></date_created>
+		<previous_download><![CDATA[0000-00-00 00:00:00]]></previous_download>
+	</info>
+	<programs>
+		<program>
+<program_info>
+<id>
+<![CDATA[ 8799 ]]>
+</id>
+<name>
+<![CDATA[ Televisiewinkel.nl ]]>
+</name>
+<currency>
+<![CDATA[ EUR ]]>
+</currency>
+<currency_symbol>
+<![CDATA[ € ]]>
+</currency_symbol>
+<product_count>
+<![CDATA[ 35 ]]>
+</product_count>
+<last_modified/>
+<daisycon_unique_id_since>
+<![CDATA[ 2016-10-03 15:00:32 ]]>
+</daisycon_unique_id_since>
+<daisycon_unique_id_modified>
+<![CDATA[ true ]]>
+</daisycon_unique_id_modified>
+</program_info>
+<products>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 2108bd1fa71f086d0145b79661c20756 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 2ee437c042017fc5a560de3fbd306fcf ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2016-12-01 17:46:02 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ led-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Salora 43LED9102CS: 43"Full HD LED Smart TV De Salora 43LED9102CS is een Smart TV met alle mogelijkheden die je je kunt  wensen, voor een zeer aantrekkelijke prijs. De slimme functies van de Salora  43LED9102CS bieden je toegang tot apps als Facebook, Twitter, YouTube en Netflix,  die je simpel vanaf je smartphone of tablet bedient met de te downloaden Smart  Remote App. Zo geniet jij van het gemak van interactieve televisie, gewoon vanaf  de apparatuur waarover jij al beschikt. Daarbij heb je met de verschillende  poorten de mogelijkheid om je eigen content te bekijken - denk aan je eigen  films en video&#39;s, je favoriete muziek en je mooiste foto&#39;s - en randapparatuur  aan te sluiten. Zo gebruik je het CI+-slot voor interactieve televisie van Ziggo  of UPC zodat je niet meer hoeft te rommelen met een externe mediabox, en gebruik  je de HDMI-, USB- en scartpoorten van de Salora 43LED9102CS voor al je overige hardware en opslagmedia. De Salora 43LED9102CS biedt je op deze manier toegang tot alle interne en externe  content die je kunt bedenken, eenvoudigweg te bedienen vanuit je luie stoel. De Salora 43LED9102CS is ook beschikbaar in  een witte uitvoering.       Full HD LED 43" (109 cm) 100 Hz BPR Energieklasse: A+ Eco Standby < 0,05 W Smart TV met Smart Remote App         Standaard geleverd met (o.a.) Netflix, YouTube, Facebook en  Twitter CI+-slot 2x HDMI 1.4, 1x USB 2.0 DLNA-compatibel VESA-wandmontage: 400 x 400  Kleur: Zwart                   Slanke schoonheid De Salora 43LED9102CS laat op 43" een prachtige Full  HD-beeldkwaliteit zien. De 100 Hz BPR zorgt er in combinatie met dit  scherpe beeld voor dat details subliem overkomen, de beelden  vloeiend in elkaar overlopen en jij kunt genieten van de meest  realistische kijkbeleving. Het slanke design met de smalle rand  zorgt er bovendien voor dat jij tijdens het kijken nooit meer  afgeleid hoeft te worden, en dat je zelfs als de televisie uit staat  geniet van dit pronkstuk in je interieur.            De slimmere televisie Met de functies van deze Smart TV kun jij zorgeloos met je  televisie op internet surfen, gewoon vanaf de bank. Met de Smart  Remote App bedien je de Salora 43LED9102CS vanaf je smartphone of tablet,  en je hebt direct bij aansluiten toegang tot diverse apps, zoals  YouTube, Facebook en Netflix. Overige apps download je  natuurlijk in een handomdraai.                          Sluit alles aan Al je randapparatuur sluit je gemakkelijk aan op je Salora  43LED9102CS. Je eigen video&#39;s, muziek en foto&#39;s kijk je via de  USB-poort, CI+ zorgt dat je digitale kabeltelevisie van Ziggo en UPC  kunt kijken, en met de HDMI-poort gebruik je de televisie als  monitor voor je computer.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1829495 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=2108bd1fa71f086d0145b79661c20756&dl=product%2F1829495%2Fsalora-43led9102cs.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 299.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 449.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Salora 43LED9102CS ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-07-15 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-07-18 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 33 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 150.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Salora ]]>
+</brand>
+<ean>
+<![CDATA[ 8718868990433 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=db33f8c1-a51a-463a-8fca-ca4dc5b4adb3
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 220896572f7b5e8c433dd76f0cd37d43 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 039ff437e6181c904f0d45944126b31c ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 43PUS6101: 43" 4K Smart LED-TV De Philips 43PUS6101 is een prachtig vormgegeven slanke 4K Smart LED-TV.  Dankzij de hoge resolutie van 4K Ultra HD-LED heeft deze Smart TV meer dan acht miljoen pixels om jou altijd zeer levendige beelden te tonen! De pixels worden ook altijd geüpscaled d
+]]>
+<![CDATA[
+ankzij de Pixel Plus Ultra HD-engine, ongeacht de bron, alles wordt altijd met de hoogst mogelijke kwaliteit getoond. De Philips 43PUS6101 heeft een zeer overzichtelijke Smart omgeving met intuïtieve bediening.  Jij geniet altijd optimaal van deze tv, of hij nu aan of uit is, hij is prachtig om te zien en toont jou altijd de prachtigste beelden!          4K Ultra HD-LED 43" (109 cm) 800 PPI 16W Sound  Energieklasse A+ Dual Core processor Ingebouwde Wi-Fi Pixel Plus Ultra HD MultiRoom Client         Simply Share Miracast gecertificeerd Geheugen: 16GB (uitbreidbaar) 4x HDMI 3x USB Gewicht incl. voet: 9,7 kg Afmetingen incl. voet (B x H x D): 96,8 x 57,6 x 7,7 cm     Uitleg van Philips termen                    Zeer strak design  Wanneer je de Philips 43PUS6101 in jouw woonkamer zet geniet je direct van het strakke design. Deze televisie is ongelofelijk gestroomlijnd, elegant en nauwkeurig.  Dankzij het Ultra Slim-silhouet is deze tv een verrijking voor jouw interieur.              Vier keer zoveel pixels De Philips 43PUS6101 heeft maar liefst vier keer zoveel pixels als een Full HD televisie! Dat betekent dat deze tv meer dan acht miljoen pixels heeft en de beelden er altijd optimaal laat uitzien.  Ongeacht de originele content, alle beelden worden met de unieke Ultra Resolutie Upscaling-technologie verbeterd en met de hoogste kwaliteit getoond.                              Altijd haarscherp beeld Je ervaart de 4K Ultra-HD-scherpte optimaal dankzij de Pixel Plus Ultra HD-engine in de Philips 43PUS6101. Deze motor optimaliseert de beeldkwaliteit voor extreem vloeiende beelden met zeer veel details en diepte. Je ziet geen verschil meer tussen online streamen, DVD kijken of vanaf jouw tv provider kijken!  Alles beelden hebben zeer helder wit en diep zwart voor extra levendigheid.              Smart TV  Dankzij de vernieuwde Smart omgeving op de Philips 43PUS6101 is het navigeren tussen de apps ongelofelijk eenvoudig. Je hoeft nooit lang te zoeken naar de juiste app of  instellingen! Je navigeert vanaf jouw smartphone of tablet en speelt af via de televisie!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830530 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=220896572f7b5e8c433dd76f0cd37d43&dl=product%2F1830530%2Fphilips-43pus6101.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 415.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 549.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 43PUS6101 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-04-14 11:59:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-04-18 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 24 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 134.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863008515 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=fcbc0d4f-a552-4088-9d7b-431bfb292963
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ a9ae250f5fd68643880677fed5421933 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 41441dd47c81b97f7db83593319c9912 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 49PUS7101/12: Ongelofelijke kleuren op 49"  Achter het indrukwekkende 49" scherm van de Philips 49PUS7101 gaat meer schuil dan je zou denken. Perfecte pixels brengen in samenwerking met HDR Plus en Micro Dimming Pro technologie alles tot leven in jouw huiskamer. Met een uitbreidbaar geh
+]]>
+<![CDATA[
+eugen heeft deze Android TV voldoende plek voor al jouw favoriete apps. Die je dan weer beleeft op het 4K Ultra HD scherm van deze 49PUS7101.  De belevenis gaat verder dan enkel perfect beeld, met de driezijdige Ambilight LED verlichting wordt de ruimte om de televisie heen bij de beleving betrokken.  Als jij klaar bent voor de meest gedetailleerd en levensechte beelden tot nu toe, dan ben je klaar voor de Philips 49PUS7101/12!          4K Ultra HD-LED 49" (124 cm) 2000 PPI 30W Sound  Energieklasse A Android TV Quad Core processor Ingebouwde Wi-Fi Ambilight 3 Pixel Precise Ultra HD         Perfect Natural Motion HDR Plus  Premium Color Micro Dimming Pro Geheugen: 16GB (uitbreidbaar) 4x HDMI 3x USB Gewicht incl. voet: 14,9 kg Afmetingen incl. voet (B x H x D):   109,3 x 70,9 x 20,3 cm                   Trillingsvrije haarscherpe beelden  Alleen de beste beelden zijn goed genoeg. Met de speciaal ontwikkelde Perfect Natural Motion technologie worden zelfs de meest minimale trillingen omgezet in vloeiende beelden. Razendsnelle acties verlopen soepel en worden levensecht weergegeven. De Philips 49PUS7101/12 heeft hiernaast ook HDR Plus én Micro Dimming Pro technologie die alle beelden voorzien van diep contrast en levendige kleuren.                Pixelprecisie Met dit 49" 4K Ultra HD scherm bereikt Philips een nieuw niveau van beeldkwaliteit. De Philips 49PUS7101/12 is voorzien van een Pixel Precise Ultra HD scherm die alle beelden omzet tot Ultra HD kwaliteit. Met de Premium Color techniek worden de kleuren op precies het juiste niveau verzadigd wat resulteert in briljante beelden. Je vergeet dat je naar een scherm kijkt!                               Vergroot de beleving met Ambilight  Ervaar licht en tv kijken als nooit tevoren met de driezijdige Ambilight op de Philips 49PUS7101! Met intelligente LED's aan de achterzijde van het scherm worden de kleuren van het scherm real-time in de omgeving geprojecteerd.  Door een extra dimensie toe te voegen aan films, games en zelfs muziek verandert Ambilight jouw manier van tv kijken.                Slimme Android TV Leun achterover, relax en geniet van alle entertainment die deze Android TV jou biedt. Met de snelle Quad Core processor blader jij razendsnel tussen alle Android Apps. Speel films af via Netflix, speel games met zelf gedownloade apps of beluister jouw favoriete afspeellijsten op Spotify.  Hoe vaker jij de Philips 49PUS7101/12 laat weten wat jouw voorkeuren zijn, hoe specifieker jouw persoonlijke aanbevelingen worden. Laat deze 49" Smart TV jou kennen en ontdek alle mogelijkheden!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830535 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=a9ae250f5fd68643880677fed5421933&dl=product%2F1830535%2Fphilips-49pus7101.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 869.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1299.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 49PUS7101 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2014-07-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2014-07-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 33 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 430.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863008225 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=09bfe8d1-1d98-4dcb-adad-737a64cb7748
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 8e0ff44fc98dfb9760ac4a45e9b853bb ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ a9e12c7e5cf3a48303cc367144a82891 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ audio ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung HW-J355: Soundbar met geweldig 2.1-surroundgeluid De Samsung HW-J355 is een soundbar die er voor zorgt dat jij altijd het mooiste geluid uit je televisie haalt. Door deze soundbar via bluetooth te koppelen aan een Samsung televisie heb je ook geen draden meer nodig waardoor het mooie design van je nieuwe soundbar helemaal tot zijn recht komt. Je bedient beide apparaten heel simpel van de afstandsbediening van je televisie. Let op: dit is alleen mogelijk met een aantal Samsung televisies.              Soundbar 2.1-kanaals 120W Dolby Digital Speelt MP3, WAV en WMA bestanden        Bluetooth USB-host Night Mode   Uitleg van Soundbar termen               TV Sound Connect De Samsung HW-J355 is heel eenvoudig via bluetooth aan bepaalde Samsung televisies te koppelen. Hierdoor heb je geen onnodige draden en ontsieringen meer in je woonkamer, waardoor het strakke ontwerp van de J355 en je Smart TV je huiskamer nog meer stijl geeft. Met deze soundbar is niet alleen het geluid mooi.            Samsung Audio Remote app De HW-355 bedien je heel gemakkelijk met de Samsung Audio Remote-app. Hiermee heb jij controle over alle belangrijke functies op de soundbar vanuit de palm van je hand. Zo stel je het volume eenvoudig in, ze je de sondbar aan en uit en kun je kiezen uit een breed assoortiment van geluidseffecten die het beste passen bij datgene wat je op je televisie aan het bekijken bent.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1823098 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=8e0ff44fc98dfb9760ac4a45e9b853bb&dl=product%2F1823098%2Fsamsung-hw-j355.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 111.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 229.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung HW-J355 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-01-20 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-01-23 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 51 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 118.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806086717601 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=21434302-702f-4b8f-8aa4-a06f0f2dcd0c
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 83968811af94f62bb530decccd6ffa8c ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 05f3fc2345096ba349ef282978afb17b ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-03-18 00:15:14 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ soundbar ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung HW-K360: Draadloos soundsysteem Met de Samsung HW-K360 heb je prachtig bioscoopgeluid in jouw woonkamer. Deze soundbar geeft een prachtig surround sound zonder kabels, en ook  het aansluiten op je TV is draadloos dankzij SoundConnect. Alle TV's vanaf 2012 die Bluetooth ondersteunen kunnen draadloos verbonden worden.  De subwoofer kun je overal in je woonkamer plaatsen en geeft een geweldig bassgeluid.  Jouw favoriete film bekijk je veel intenser met de Samsung HW-K360!        Soundbar  Vermogen soundbar: 130 W  Draadloze subwoofer  Bluetooth  2.1 kanaals             Aansluitingen: USB  Virtual Surround Sound  Gewicht soundbar: 1,5 kg  Gewicht subwoofer: 2,9 kg  Afmetingen soundbar (B x H x D): 90,75 x 5,4 x 7,1 cm                   Eenvoudig te bedienen De Samsung HW-K360 is eenvoudig te bedienen door middel van de Bluetooth functie. Met een app op je mobiele telefoon bedien je de soundbar zonder dat je van de bank hoeft te komen. Stream muziek op je tablet of telefoon en je hoort jouw favoriete nummer met perfect  geluid.              Draadloos  Met de Wireless Surround kit breid je je geluidssysteem heel  makkelijk uit. Je kunt de luidsprekers plaatsen waar je wilt en  je hebt geen gedoe meer met geluidskabels door de hele kamer, zo  creëer je het perfecte Surround Sound                           Handige App  Samsung ontwikkelde een handige app waarmee je de HW-K360 eenvoudig kunt bedienen, ook al ben je in een andere kamer. Regel al jouw geluid met  deze handige tool en speel jouw favoriete playlist af en geniet van helder en krachtig geluid.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1835073 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=83968811af94f62bb530decccd6ffa8c&dl=product%2F1835073%2Fsamsung-hw-k360.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 119.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 299.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung HW-K360 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-06-23 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-06-26 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 60 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 180.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088229652 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=e69cb73b-ae24-4cf6-bf0c-2e5fce6f5b8f
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 88cf3d17d00d0c4c2594c213d7f363ad ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ e0399a679041ef98fb34b93b350a70fa ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-03-31 12:15:19 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-27 18:15:11 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ led-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE40J5200: Een Full HD Smart TV met scala aan mogelijkheden  De Samsung UE40J5200 is een Smart TV met vele mogelijkheden. Kijk jouw  favoriete film of televisieprogramma in Full HD via Netflix of kijk wat er  plaatselijk voor leuks te doen is. Sluit jouw multimedia-apparaten aan via USB  of HDMI of bekijk en speel jouw bestanden direct af vanaf je USB-stick. Met de  Mobiel naar TV- mirroring kun jij tevens direct vanaf jouw smartphone foto&#39;s,  video&#39;s en filmpjes streamen en bekijken. De Wide Color Enhancer Plus  technologie maakt er een extra bijzondere kijkervaring van met de heldere  kleuren, het diepe contrast en de scherpe details. De Dolby Digital Plus en  Virtual Surround maken de geluidservaring compleet.               Full HD LED  tv 40" (102 cm) PQI 200 Wide Color  Enhancer (Plus) Dolby  Digital Plus Virtual  Surround  Energieklasse A+ Smart TV met  apps CI+                    ConnectShare Game Modus Ingebouwde  Wi-Fi 1x USB 2x HDMI Auto Power  Off   Afmetingen incl.  voet (B x H x D):  92,3 x 55,5 x  17 cm  Gewicht incl.  voet: 6,7 kg   Uitleg van Samsung termen                                     Smart TV met apps  De  Samsung UE40J5200 biedt jou een  rijkdom aan mogelijkheden door  middel van populaire wereldwijde  apps zoals Netflix, Youtube,  en Skype. Ook de Nederlandse apps als  Videoland, Thuisbezorgd,  Telegraaf en de Schiphol app worden niet vergeten.  Zo haal je het maximale uit jouw Samsung Smart TV!                         Full HD  Met een resolutie  twee keer  zo hoog als standaard HD worden  de beelden op jouw 40J5200 nog  spectaculairder! Rijke kleuren  en scherpe details vullen het  beeldscherm en zorgen voor een  levensechte kijkervaring. Bekijk niet alleen jouw films, beleef ze!                                                     Snelle overdracht van  digitale data  Met de twee HDMI-aansluitingen  op jouw Samsung UE40J5200 maak  jij een compleet  entertainmentcentrum in jouw  kamer. Vanaf verschillende  devices zet jij gemakkelijk en  snel jouw multimediabestanden  over en speel je ze af.  Met al jouw vrienden en familie bekijk je in één keer al jouw vakantiefoto's en video's.                         Levensechte kleuren en  details  Beleef met  jouw UE40J5200 serie de wereld  met details en kleuren zoals ze  er in het écht uitzien. Met de Wide Color Enhancer Plus technologie  van Samsung is de kwaliteit  van het beeld nog beter, zodat  jij een optimale kijkervaring  hebt. Met diepe kleuren en hoog contrast is geeft deze televisie alle beelden levensecht weer!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1828794 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=88cf3d17d00d0c4c2594c213d7f363ad&dl=product%2F1828794%2Fsamsung-ue40j5200.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 379.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 599.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE40J5200 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-03-31 11:59:40 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-04-03 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 36 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 220.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088083087 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=0e905ebc-d258-4220-a34a-998cd7b93b03
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 16bac23ed17385491e8055938cacbcb0 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ ef9830d546cf0799e7783b551caaa811 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-19 12:15:10 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 49PUS7502/12: 49" 4K UHD TV   De Philips 49PUS7502/12 is een TV die dankzij de 4K UHD kwaliteit prachtige beelden laat zien. Geniet van intense kleuren, niet alleen op het beeldscherm maar ook rondom de TV dankzij  Ambilight. Dankzij een geïntegreerde SoundBar met woofer heb je pracht
+]]>
+<![CDATA[
+ig geluid en wordt jouw filmbeleving nog intenser. Als er een keertje niets op de TV is schakel je snel over op de  Smart Hub en kies je uit de content jouw favoriete film of serie. Dankzij zijn ultraslanke design past hij mooi in elke woonkamer, of je hem nou op de kast zet of aan de muur hangt.            4K Ultra HD 49" (124 cm)  Ambilight Quad-Core processor Energieklasse A  Smart TV Ingebouwde wifi           P5 Perfect Picture Engine Premium Color	 HDR Premium  Aansluitingen: 4x HDMI, 2x USB, CI+  Gewicht: 17,4 kg Afmetingen (B x H x D): 110 x 72,4 x 22,5 cm    Uitleg van Philips termen                    Ambilight  Ambilight zorgt ervoor dat de kleuren van het beeldscherm van de 49PUS7502/12 nog een stuk doorlopen op de muur. Hierdoor lijkt het beeld  breder en groter, en het geeft een warme sfeer in jouw huiskamer.             4K resolutie  De PUS7502/12 heeft 4K Ultra HD resolutie.  Dit houdt in dat de resolutie vier kier zo hoog is als bij Full HD.  Waar je ook kijkt, alles ziet er beter uit dankzij de levensechte kleuren en hoge lichtopbrengst.                             49" Smart TV De PUS7502 is een Smart TV die jou ervan verzekerd dat je genoeg entertainment tot je beschikking hebt. De Google Play Store en de Philips app-gallery  hebben een grote collectie online films en series. Je schakelt snel naar jouw favoriete app of game, en al jouw voorkeuren kunnen opgeslagen worden.               P5 Perfect Picture Engine  P5 Perfect Picture Engine is een technologie die beeldkwaliteit  optimaliseert aan de hand van een geavanceerd algoritme. De aanzienlijk hogere  verwerkingskracht van de P5 engine zorgt ervoor dat de beeldkwaliteit 50% beter is. Je ziet donkerder zwart, helder wit en alle kleuren die ertussen liggen.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837253 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=16bac23ed17385491e8055938cacbcb0&dl=product%2F1837253%2Fphilips-49pus7502.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 999.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 49PUS7502 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2014-07-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2014-07-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 999.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863011560 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=2a7b2db7-c82d-40cf-b36d-cccd13af59a0
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ aabe01703d0407addbbda95a60251356 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 96ad6ce52d1af6c022ca266e891f4afe ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-16 12:15:10 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 49PUS6412/12: 49" Ultraslanke 4K LED-TV  De Philips 49PUS6412 is functioneel en heeft een mooi design. De 49PUS6412 brengt je entertainment tot leven met een  spectaculaire 4K Ultra HD-resolutie.  En dankzij Android TV zijn jouw  entertainmentmogelijkheden vrijwel eindeloos. Deze  televisie is voorzien van HDR Plus en DTS-HD, zodat jij scènes kan zien en kan  horen zoals ze bedoeld zijn. De Ambilight van de Philips  49PUS6412 veranderen je manier waarop je tv kijkt voorgoed.          4K Ultra HD-LED TV 49" (123cm)  Quad Core-processor Pixel Plus Ultra HD Smart-TV HDR Plus DTS-HD Ultra-resolutie          Natural Motion Micro Dimming Pro Ambilight Energieklasse A Aansluitingen: 4x HDMI, 2x USB, CI+  Gewicht incl. voet: 13,5 kg Afmetingen incl. voet (B x H x D): 110,7 x 70,7 x 26,6 cm    Uitleg van Philips termen                  DTS-HD eersteklas geluid De TV-luidsprekers van de Philips 49PUS6412 vragen om een  krachtige verwerkingsprocessor die de zuiverheid van de  oorsprongkelijke audiocontent behoudt. De DTS Premium-suite levert  hoogwaardige geluidsverwerking: meeslepende Surround Sound met diepe,  volle bastonen en kristalheldere dialogen, ook op een maximaal  volumeniveau. Zonder kraken, vervorming of schommelingen.               4K Ultra HD Geniet van verbeterde scherpte, een grotere diepteweergave, superieur contrast, vloeiende, natuurlijke bewegingen en perfecte  details met 4K Ultra HD van de Philips 49PUS6412. Met meer dan 8 miljoen pixels en de Ultra Resolutie Upscaling-technologie zien de beelden er beter uit, ongeacht de originele content. Een Ultra HD-TV heeft vier keer de resolutie van een conventionele  Full HD-TV.                          Pixel Plus Ultra HD Ervaar 4K Ultra HD-scherpte met de Philips Pixel Plus Ultra  HD-engine. Pixel Plus Ultra HD optimaliseert de beeldkwaliteit voor  vloeiende beelden met ongelooflijk veel details en diepte. Geniet  keer op keer van scherpere 4K-beelden met dieper zwart en helderder  wit.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837265 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=aabe01703d0407addbbda95a60251356&dl=product%2F1837265%2Fphilips-49pus6412.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 739.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 49PUS6412 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-12-02 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-12-05 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 739.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863011478 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=e5523dee-4123-4682-90f8-b207af6d8449
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 03c93d95dbeae20e06345438a82f6c15 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ e6dc60e63bab00f7eb1a698ca39bbcd2 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-11 00:39:08 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ soundbar ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Denon HEOS HomeCinema   Met deze Denon HEOS HomeCinema set geniet je van spectaculair geluid wanneer je naar je favoriete tv-programma's of films kijkt! Televisies worden platter en leveren daarmee in op het geluid. Deze HEOS HomeCinema biedt een hoogwaardig draadloos geluid met een breed bereik. De soundbar van deze HEOS Home Cinema set is uitgerust met een draadloze subwoofer.         Geavanceerde soundbar en wireless subwoofer  Geniet van een subliem tv-geluid  Luister naar muziek als HEOS-zone  Wireless subwoofer  Digitale vijfkanaalsversterking van klasse D  Krachtige DSP-audioverwerking  Meerkanaals Virtual-Surroundsound  Met IR-leerfunctie  Ondersteunt gangbare surroundsoundindelingen          Analoge lijn ingang  Met USB-poort  Optische/Coaxiale/digitale HDMI-bronnen  Gewicht soundbar: 2,8 kg Gewicht subwoofer: 6,6 kg Afmeting soundbar: 8,2 x 101,7 x 9,4 cm Afmeting subwoofer: 31,1 x 17,2 x 33,2 cm   Uitleg van Soundbar termen                    2.1 luidsprekersysteem &amp; surround ondersteuning  De HEOS HomeCinema bestaat uit een met bi-amplified stereosoundbar en draadloze subwoofer. Deze Home Cinema set ondersteunt de meest gangbare surroundsoundindelingen zoals Dolby Digital, Dolby Digital Plus, DTS-decocering. De TV soundbar is voorzien van dezelfde processor als de eersteklas AV-receivers van Denon (een krachtige 400 MHZ 32-BIT floating point engine).                Digitale klasse D-versterking  De vijf hoogefficiënte kanalen en de Cool-Running digitale klasse D-versterking leveren een kraakhelder geluid, een breed dynamisch bereik en lage vervorming. Dankzij de Audio Return Channel (ARC) sluit je deze HEOS Home Cinema set met slechts één kabel aan op je tv.                              Draadloze subwoofer  De draadloze subwoofer kan je overal in de kamer neerzetten en heeft een DSP-verwerking voor een nauwkeurige geluidsynchronisatie tussen de soundbar en subwoofer. De subwoofer heeft een strak diep basgeluid waarbij vervorming door overbelasting wordt voorkomen.              Denon HEOS Soundbar  De soundbar is voorzien van infrarood ontvangst (IR) en hertransmissie, waardoor de TV-afstandsbediening de TV ook kan bereiken wanneer de soundbar voor de TV is opgesteld. Met de IR-leerfunctie kun je de TV bedienen met behulp van de HEOS app. De HEOS soundbar kun je aan de muur bevestigen of op een plank plaatsen.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1834128 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=03c93d95dbeae20e06345438a82f6c15&dl=product%2F1834128%2Fdenon-heos-homecinema.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 589.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 799.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Denon HEOS HomeCinema ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-05-26 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-05-29 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 26 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 210.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Denon ]]>
+</brand>
+<ean>
+<![CDATA[ 4951035056592 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=1c67d410-1692-4afe-a84e-2a7039b423fb
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 65ea585136d985dc884524f62b6541bd ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 3282f6c7f7b3cd13279335105ff41586 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 55PUS6401/12: Indrukwekkend 55" 4K Ultra HD scherm Geniale beeldkwaliteit op het 4K Ultra HD 55" scherm van de Philips 55PUS6401/12. Natuurgetrouwe bewegingen zonder trilling dankzij de Perfect Natural Motion zijn voorzien van hoog contrast via HDR Plus en de kleuren worden nóg intenser door Micro Dimming Pro. En het Ultra HD scherm van de 55PUS6401/12 lijkt nog groter en intenser door tweezijdig Ambilight.  Met de krachtige processor schiet jij als een speer door alle menu's en selecteer je precies wat je op dat moment wilt. Geniet van steengoede films, spannende series op verbluffende muziek op de Philips 55PUS6401/12!            4K Ultra HD-LED 55" (139 cm) 1000 PPI 20W Sound  Energieklasse A+ Android TV Quad Core processor Ingebouwde Wi-Fi Ambilight 2 Pixel Plus Ultra HD         Perfect Natural Motion HDR Plus  Micro Dimming Pro Cloud Gaming Geheugen: 8GB (uitbreidbaar) 4x HDMI 3x USB Gewicht incl. voet: 16,3 kg Afmetingen incl. voet (B x H x D): 123,9 x 78 x 23,2 cm     Uitleg van Philips termen                    Indrukwekkende beelden Met een resolutie vier keer zo hoog als conventionele Full HD is deze 55PUS6401/12 kraakhelder met 4K Ultra HD! Het beeld bestaat uit meer dan acht miljoen pixels die jou allemaal doen vergeten dat je naar een scherm kijkt. Fantastische scherpe, vloeiende en contrastrijke beelden op 55", hiermee ben je klaar voor de toekomst!                 Briljant contrast  Micro Dimming Pro is een vernieuwde techniek van Philips. Op deze 55PUS6401/12 Smart TV wordt zwart nóg zwarter en wit nóg witter!  Het is een kwestie van verlichting per pixel, zo verkrijg je het hoge niveau van contrast. En alle beelden zijn super vloeiend, de Perfect Natural Motion techniek voorkomt bewegingstrillingen en maakt alle bewegingen levensecht.                             Philips Ambilight  Je beleeft het beeld van de 55PUS6401/12 nog meer met de tweezijdige Ambilight verlichting van Philips!  De sfeervolle LED-verlichting aan de achterzijde van het scherm vergroot de beleving tot voorbij de randen van het 55" scherm!  Jouw muren worden voorzien van dezelfde kleuren als op het scherm waardoor tv kijken nog intenser wordt. Een nieuwe dimensie bij het kijken van films, series en zelfs het luisteren van muziek!               Intelligente Smart TV  Geen grenzen meer op deze Smart TV van Philips. De Android omgeving voorziet je van alle beste apps, films en games. De Philips 55PUS6401/12 is klaar voor gebruik, de populairste apps staan al voor je  geïnstalleerd!  Hoe vaker je deze 4K Ultra HD tv gebruikt, hoe specifieker jouw persoonlijke suggesties zijn. En dankzij de Quad Core processor blader jij razendsnel door alle mogelijkheden heen!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830538 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=65ea585136d985dc884524f62b6541bd&dl=product%2F1830538%2Fphilips-55pus6401.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 699.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1099.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 55PUS6401 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-05-05 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-05-08 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 36 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 400.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863007853 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=a6244d32-40fd-4dd3-a181-56c3d84f5d20
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ d11b4666b6a4a21fe476fcc5059742b3 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 3b31e71afad45a1ebdcb62710a0cf04a ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 49PUS6501: Ultraslanke 49" 4K TV met Android TV Met deze strakke 4K TV van Philips zit jij verbaast op de bank. Het tweezijdig Ambilight op de 49PUS6501 vergroot het beeld door de kleuren aan weerszijden te projecteren op de muur. Micro Dimming Pro verdeeld het beeld in duizenden zones w
+]]>
+<![CDATA[
+aarna iedere zone individueel wordt aangepast op het licht in de kamer. Met Pixel Precise Ultra HD laat de Philips 49PUS6501 jou optimaal genieten van de 4K UHD resolutie. Naast al deze moderne snufjes is het uiterlijk van deze TV ook ongelofelijk modern.          Ultra HD 49" (125cm)  20 W Sound Energieklasse A Quad Core processor Smart TV Ingebouwde wifi Tweezijdig Ambilight  Micro Dimming Pro Ultra-resolutie         Pixel Precise Ultra HD MultiRoom Client en Server Natural Motion Cloud Gaming HDR Plus Afstandsbediening  met toetsenbord Aansluitingen: 4x HDMI, 3x USB, 1x scart  Gewicht incl. voet: 12 kg Afmetingen incl. voet (B x H x D): 109,9 x 69,3 x 22 cm      Uitleg van Philips termen                    Spetterend Ambilight Het tweezijdige Ambilight van de 49PUS6501 zorgt er voor dat alle beelden de kamer in spatten!  Ambilight-technologie straalt aan beide zijden een extra brede gloed op de muur en zorgt doormee voor een vergroting van het scherm. De TV lijkt groter dan hij is! Een buitengewone kijkervaring dankzij kleuren vol actie!              Levendigheid  Je voelt de details van de Philips 49PUS6501 bijna!  Dankzij de Pixel Precise Ultra HD Engine toont deze Ultra HD TV elk beeld op UHD-resolutie. De Engine voert de resolutie op van beelden met een lagere resolutie zodat jij altijd optimaal kunt genieten van de kunsten van deze Philips TV. Alle beelden zijn vloeiend, ongelofelijk scherp en met uitzonderlijk contrast. Zo ontdek je dieper zwart, witter wit en prachtige huidtinten vanaf welke bron de beelden ook komen!                              Prachtig contrast Door het beeld op de Philips 49PUS6501 in 6400 zones te verdelen kan het beeld daarna geoptimaliseerd worden op basis van de lichtomstandigheden in de kamer.    Micro Dimming Pro zorgt voor de perfecte verhouding tussen contrast en beeldkwaliteit voor een levensechte beleving. Of dit nu 's avonds in een donkere kamer is of overdag met fel zonlicht maakt niks uit, jij ziet altijd het beeld wat je wilt zien.                 Razendsnelle Smart TV De Philips 49PUS6501 is een razendsnelle Smart TV dankzij de Quad Core-processor. De Android omgeving laat zich snel navigeren en je scrollt intuïtief door alle apps heen. Je start ook direct een app naar keuze zonder omslachtige handelingen.   Daarnaast beschikt deze Smart TV over Cloud Gaming, een onlinecatalogus met hoogwaardige games voor alle leeftijden, voorkeuren en moeilijkheidsniveaus.  Je selecteert een game en kunt direct spelen!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1833468 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=d11b4666b6a4a21fe476fcc5059742b3&dl=product%2F1833468%2Fphilips-49pus6501.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 749.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 949.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 49PUS6501 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2014-07-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2014-07-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 21 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 200.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863007945 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=4366def8-cb40-4826-a4c0-1a8efcd27705
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ aacad09398a9731e454d172b58960aaf ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ ec0d24da2f66bf4f85a4b733482931b6 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 55PUS6501: Ultraslanke 55" 4K-TV met Android TV Deze strakke 4K 55" Smart TV laat jou verbluft in de bank zitten.  Dankzij tweezijdig Ambilight wordt het beeld aan weerszijden vergroot door de kleuren te projecteren op de muur.  Met Micro Dimming Pro wordt het beeld verdeeld in duizenden zones waarna het individueel wordt aangepast op het licht in de kamer. En dankzij Pixel Precise Ultra HD laat de Philips 55PUS6501 jou altijd genieten van 4K UHD resolutie.  Daarnaast is deze TV zeer strak waardoor hij zeker niet misstaat in jouw woonkamer.             Ultra HD 55" (140cm)  20 W Sound Energieklasse A Quad Core processor Smart TV Ingebouwde wifi Tweezijdig Ambilight  Micro Dimming Pro Ultra-resolutie         Pixel Precise Ultra HD MultiRoom Client en Server Natural Motion Cloud Gaming HDR Plus Afstandsbediening  met toetsenbord Aansluitingen: 4x HDMI, 3x USB, 1x scart  Gewicht incl. voet: 16,1 kg Afmetingen incl. voet (B x H x D): 123,9 x 72,3 x 8,5 cm      Uitleg van Philips termen                    Spetterend Ambilight Met het tweezijdige Ambilight op de 55PUS6501 spatten de beelden de kamer in!  De Ambilight-technologie zorgt voor een vergroting van uw scherm door aan beide zijden een extra brede gloed op de muur te stralen. Kleuren worden vanuit het scherm doorgetrokken op de muur waardoor je het idee krijgt dat de TV groter is dan hij is.  Een buitengewone kijkervaring dankzij kleuren vol actie!              Levendigheid  De details van de Philips 55PUS6501 zijn bijna voelbaar. Deze Ultra HD-TV toont elk type beeld op UHD-resolutie dankzij de Pixel Precise Ultra HD Engine.  De Engine voert de resolutie op van beelden met een lagere resolutie zodat jij altijd optimaal kunt genieten van de kunsten van deze Philips TV. Je ziet vloeiende, maar ongelofelijk scherpe bewegende beelden met uitzonderlijk contrast.  Zo ontdek je dieper zwart, witter wit en prachtige huidtinten vanaf welke bron de beelden ook komen!                              Ongelofelijk contrast Het beeld op de 55PUS6501 wordt in 6400 zones verdeeld waarna het beeld geoptimaliseerd wordt op basis van de lichtomstandigheden in de kamer. Micro Dimming Pro zorgt voor de perfecte verhouding tussen contrast en beeldkwaliteit voor een levensechte beleving. Of dit nu 's avonds in een donkere kamer is of overdag met fel zonlicht maakt niks uit, jij ziet altijd het beeld wat je wilt zien.                 Razendsnelle Smart TV Met de Philips Quad Core-processor is de 55PUS6501 razendsnel.  Met de Android omgeving navigeer je supersnel en intuïtief door de apps heen, je start ook direct de app naar keuze zonder omslachtige handelingen. Daarnaast beschikt deze Smart TV over Cloud Gaming, een onlinecatalogus met hoogwaardige games voor alle leeftijden, voorkeuren en moeilijkheidsniveaus.  Je selecteert een game en kunt direct spelen!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1832882 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=aacad09398a9731e454d172b58960aaf&dl=product%2F1832882%2Fphilips-55pus6501.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 849.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1299.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 55PUS6501 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-11-25 11:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-11-28 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 34 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 450.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863007983 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=5fe9093d-f7e0-4c61-884c-f8eb9b8500a7
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 7de2b530cf30c5d7e0971b4220d14e98 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ ca1efe8fecde91e517bd5866ebdc3950 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-04-28 12:15:14 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ soundbar ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung HW-K551: Ideale soundbar met subwoofer De Samsung HW-K551 is een prachtig zilverkleurige soundbar en draadloze subwoofer die heel wat in petto hebben voor jou! De center speaker in het midden van de Samsung HW-K551 maakt het mogelijk dat dialogen kristalhelder klinken en dat jij scènes beleeft alsof je er bij bent. Het verbinden van de Samsung HW-K551 is heel eenvoudig, als jouw TV Bluetooth heeft kun je zonder extra kabels deze soundbar aansluiten. Ook de subwoofer is overal te plaatsen dankzij de draadloze verbinding met Bluetooth! Geluid uit deze indrukwekkende set is ongelooflijk realistisch dankzij Surround Sound Expansion, hierdoor wordt je soundstage hoger en breder. Je bedient alles op deze prachtige set via de Samsung Audio Remote app op jouw Android smartphone of tablet.            Soundbar en draadloze subwoofer Vermogen soundbar: 25 W  Vermogen (draadloze) subwoofer: 28 W  Bluetooth  3.1 kanaals  Surround Sound Expansion  3D Video Pass TV SoundConnect          HD Audio  Aansluitingen: 1x HDMI, 1x Audio Input, 1x Optical InputGewicht soundbar: 2,6 kg  Gewicht subwoofer: 6,8 kg  Afmetingen soundbar (B x H x D): 101 x 5,4 x 8,8 cm Afmetingen subwoofer (B x H x D): 45,2 x 33,5 x 15,4 cm    Uitleg van Soundbar termen                    Eenvoudige installatie  Het aansluiten van de Samsung HW-K551 is super eenvoudig!  Je sluit dankzij TV SoundConnect de TV aan op het Home Entertainment Systeem zonder kabels!  Dit doe je met de Bluetooth optie, dus eerst even checken of jouw TV dit ondersteunt. Uiteraard kun je ook het systeem aansluiten mét kabels, dus geen probleem als je geen Bluetooth hebt.                Verbeterde Surround Sound  Het geluid uit de Samsung HW-K551 wordt realistischer met Surround Sound Expansion. Het geluid wat uit het midden van de soundbar komt lijkt rechtstreeks uit het scherm te komen! Als je hierdoor geen fantastische kijkervaring én luisterervaring door krijgt ...                            HD Audio  Je voelt het geluid dat uit de Samsung HW-K551 komt ook nog eens! Door HD Audio duik je middenin de actie met uiterst realistisch geluid.	 Dankzij 192 kHz-24/bits sampling blijven kwaliteit en rijkdom van het originele geluid onaangetast en kun jij optimaal genieten van het geluid hoe het bedoeld was!                Alles regelen met één app  Het bedienen van de Samsung HW-K551 is echt een eitje dankzij de Samsung Audio Remote app. Je verbindt jouw smartphone of tablet via Bluetooth en je regelt zo heel eenvoudig alle belangrijke functies van de soundbar. Of je wisselt van playlist vanuit je luie stoel.  De app wordt momenteel (zomer 2016) alleen ondersteund op Android apparaten.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1833319 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=7de2b530cf30c5d7e0971b4220d14e98&dl=product%2F1833319%2Fsamsung-hw-k551.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 209.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 399.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung HW-K551 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-06-09 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-06-12 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 47 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 190.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088229638 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=125912e7-c037-4f4a-957f-7e86161f0ddd
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 37113c0c827e53b1b003b2937bb65e98 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ de1258de535344c22e490e955c6713a4 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-26 12:15:41 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE49KS7500: 49" Curved Samsung Smart TV met Quantum Dot Display Super Ultra HD 49" Curved beeldscherm met de allernieuwste Quantum Dot  technologie van Samsung! De UE49KS7500 heeft het allemaal, en jij kan hier  binnenkort ook van genieten. Deze Smart TV van Samsung is nu nog slimmer en weet  precies wat jij het liefst ziet en onthoudt wat jij bekeek ook nadat hij is  uitgeschakeld. Met diverse beeldverbeteringtechnieken worden alle scènes  voorzien van ongelofelijk veel diepte, contrast en levensechte kleuren. De  Quantum Dot Display in de Samsung UE49KS7500 is de nieuwe standaard bij Samsung.  Drie verschillende kleuren microscopisch kleine kristallen voorzien alle beelden  van de kleuren zoals ze moeten zijn. Geen fletse beelden meet dus op de  UE49KS7500! Het Curved beeldscherm is rondom helemaal strak afgewerkt waarbij de  achterkant niet vergeten is. Geen lelijke schroefgaten meer of grote  aansluitpunten, deze Samsung tv kan je werkelijk op iedere plek plaatsen en zo  geniet jij overal van de intense beelden!         Curved SUHD LED tv  49" (125cm)  Smart TV  Ingebouwde wifi 40W Sound 2200 PQI Quantum Dot Display  HDR 1000 UHD Dimming  Precision Black Pro           Peak Illuminator Pro  Multiroom Link  TV Sound Connect  Voice Recognition  One Connect  Smart View  4x HDMI, 3x USB  Smart Remote   Afmetingen incl. voet (B x H x D): 108,8 x 70,2 x 23,4 cm                   Ervaar tv als nooit tevoren Met de allernieuwste techniek van Samsung, de Quantum Dot Display levert de UE49KS7500 jou de meest realistische beelden die je ooit hebt gezien!  Duik in de wereld van de Quantum Dots, piepkleine kristallen die tot wel 30.000x kleiner zijn dan de haren op jouw hoofd.  Er zijn drie kleuren kristallen; rood, blauw en groen die specifiek die kleur licht uitstralen.  Op die manier worden 96% van alle kleuren fantastische weergegeven op het 49"  Curved scherm!               HDR 1000  De realiteit op het scherm van de Samsung UE49KS7500 wordt nóg dichter benaderd door de HDR 1000 techniek. 1000 staat voor 1000 nits, nit is de meetwaarde voor helderheid, dat is 2,5x zoveel als bij een conventionele tv!  De 1000 nits zorgen voor helderheid en intense, levensechte beelden.  Door het verhoogde contrast en uitgebreide kleurbereik zie jij kleuren die je nog nooit op een tv gezien hebt!                              Diepzwart en sneeuwwit  Op de Samsung UE49KS7500 is zwart zo zwart als de nacht en worden de heldere delen geaccentueerd.  De Peak Illuminator Pro onderzoek de helderheid van de beelden en accentueert de helderste delen. Door de verlichting in de zwarte delen te dimmen kan die bespaarde energie gebruikt worden om de heldere delen extra aan te zetten.  Alle beelden zijn op die manier voorzien van optimaal contrast, de scènes krijgen op die manier ontzettend veel diepte ervaring.              Minder zoeken, meer genieten  De UE49KS7500 is voorzien van de allernieuwste Samsung Smart Hub die het jou nog gemakkelijker maakt om te kijken, luisteren en beleven wat jij wilt!  Alle functies en bronnen zijn verzameld op een plaats.  En deze Smart TV is zelfs zo slim dat hij weet wat jij aan het doen was toen je de tv uitschakelde. Als de UE49KS7500 weer aangezet wordt gaat hij gewoon weer verder waar hij gebleven was.  Zo geniet je van een consistente tv-ervaring, wat je ook doet!  En met maar één afstandsbediening bedien jij alle aangesloten apparatuur dankzij de One Connect.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830889 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=37113c0c827e53b1b003b2937bb65e98&dl=product%2F1830889%2Fsamsung-ue49ks7500.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 1099.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1799.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE49KS7500 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-05-26 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-05-29 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 38 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 700.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088248356 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=0d0adfbe-4604-47fe-a139-5cd5d45d7d45
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 7c164d9a300e9901a7fddf4cb3d4439c ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 200d95bc5966e12509c161064ee37263 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2016-12-01 17:46:02 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ led-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Salora 43LED9112CSW: Witte 43" Full HD Smart TV De Salora 43LED9112CSW is de witte uitvoering van de  Salora 43LED9102CS. De Smart TV geeft je de mogelijkheid om alle online  content te beheren, van muziek tot YouTube-filmpjes en van series tot gemiste  programma&#39;s, zodat je nooit meer ie
+]]>
+<![CDATA[
+ts hoeft te missen. De Salora 43LED9112CSW is  bovendien te besturen met de Smart Remote App, die je vanuit de App Store of  Google Play downloadt op je smartphone of tablet. De stijlvolle Salora 43LED9112CSW  met een modern slanke rand sluit je gemakkelijk aan op overige apparatuur,  online via DLNA of met de USB-, HDMI- of CI+-poort. Zo geniet jij op de Salora 43LED9112CSW  van alle soorten content met een prachtige Full HD beeldkwaliteit.       Full HD LED 43" (109 cm) 100 Hz BPR Energieklasse: A+ Eco Standby < 0,05 W Smart TV met Smart Remote App         Standaard geleverd met (o.a.) Netflix, YouTube, Facebook en  Twitter CI+-slot 2x HDMI 1.4, 1x USB 2.0 DLNA-compatibel VESA-wandmontage: 400 x 400  Kleur: Wit                  Alle mogelijke aansluitingen De Salora 43LED9112CSW beschikt over alle  aansluitingsmogelijkheden die je in een televisie zoekt. Via HDMI  koppel je de televisie aan je computer of mediabox, met de CI+-poort  gebruik je Ziggo en UPC intern (dus zonder mediabox) en via USB kijk  je al je content vanaf je USB-opslagmediums. De verschillende  poorten vind je aan de achterkant en zijkant van de televisie.              Stilistisch wit  Door de slanke, smalle rand van de Salora 43LED9112CSW  geniet je van televisie in stijl. Deze prachtig witte uitvoering  is een aanwinst voor bijna elk interieur, maar doordat de rand  zo smal is zal de rand tijdens het televisiekijken niet  opvallen. Als LED tv is de televisie mooi dun van de zijkant.  Maar de omlijsting is natuurlijk niet het enige met stijl. De  Full HD kwaliteit met 100 Hz BPR laat je op 43" naar een  supergedetailleerd en realistisch beeld kijken waarbij de  beelden soepel in elkaar overlopen.                           Op internet met je televisie De Salora 43LED9112CSW is een Smart TV, en dat betekent dat je  met de televisie bijna alles kan als wat je met je computer kan. Je  kunt surfen op het internet, luisteren naar muziek, programma&#39;s  terugkijken die je gemist hebt en gebruikmaken van apps. De  televisie wordt standaard geleverd met o.a. Netflix, Facebook en  YouTube, maar in de TV store download je gemakkelijk andere apps die  je graag gebruikt.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1829496 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=7c164d9a300e9901a7fddf4cb3d4439c&dl=product%2F1829496%2Fsalora-43led9112csw.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 299.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 449.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Salora 43LED9112CSW ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-07-15 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-07-18 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 33 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 150.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Salora ]]>
+</brand>
+<ean>
+<![CDATA[ 8718868990440 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=b1f64bb0-d00a-471d-acec-4c9953f9dabc
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 64bf0a2649e0ec05c26f62b3d1ddb7e7 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ ea44b0c38b3e8a12f4780230cfb05303 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ led-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 43PFS4131: 43" Full HD LED tv met UltraSlim design  Deze Full HD LED tv van Philips (de 43 PFS4131) geeft een prachtig, scherp en helder beeld met natuurlijke kleuren. De Philips 43PFS4131 is voorzien van de Philips Digital Crytal Clear technologie. Met deze 43 inch tv geniet je van prachtige Full HD beelden, ook als je andere multimedia apparaten aansluit op je Philips televisie. Een prachtige aanwinst voor ieder interieur en voor iedere ruimte in je huis!        Full HD / LED 43" (109 cm)  Helderheid: 280 cd/m2  20 W Sound (2 speakers) Beelverversing: 50Hz CI+ Digital Chrystal Clear           DVB T/C/T2/T2-HD/S/S2  Energieklasse A+  Energieverbruik p.j. 63 kWh  Aansluitingen: 2x HDMI, 1x USB, 1x scart  Gewicht incl. voet: 8,33 kg Afmetingen incl. voet (B x H x D): 96,82 cm x 61,54 cm x 7,94 cm  2 jaar garantie                   Multimedia  Foto's, video's en muziek via de Philips tv bekijken/beluisteren? Dat kan met de USB-aansluiting. Sluit je USB-stick, digitale camera, MP3-speler of een ander multi-media apparaat aan op de USB-poort en bekijk datgene wat jij op dat moment wilt. De gebruiksvriendelijk inhoudsbrowser maakt het navigeren heel gemakkelijk.               Picture Performance Index Met de beeldprestatie-index combineert deze Philips tv de weergavetechnologie met de beeldprestatietechnieken. Het resultaat? Een verbeterde weergave op het beeldscherm van scherpte, beweging, contrast en kleur. Met deze Philips 43PSF4131 geniet je van haarscherpe beelden en heel veel diepte en details. De kleuren zijn levensecht, natuurlijk en met de diepste zwarttinten.                             Philips 43 PFS4131 met UltraSlim design  De Philips 43PFS4131 is een elegante, gestroomlijnde en geavanceerde Full HD tv die past in ieder interieur. Of het nu gaat om je slaapkamer, woonkamer, keuken of andere ruimte in je huis: een televisie uit de Philips PFS4131 serie staat altijd goed! Dankzij het ultraslimme silhouet van deze tv lijkt het net alsof je een schilderij aan de muur hebt hangen.              Digital Crystal Clear  Deze Philips 43 PFS4131 is voorzien van de Philips Digital Crystal Clear technologie. Deze technologie zorgt voor een natuurlijk en scherpe weergave op het beeldscherm, ongeacht de bron. Met andere woorden: deze 43 inch tv geeft altijd optimaal contrast en de beste kleuren en scherpte weer zodat je altijd optimaal geniet van je favoriete series, films, video's of foto's.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1834570 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=64bf0a2649e0ec05c26f62b3d1ddb7e7&dl=product%2F1834570%2Fphilips-43pfs4131.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 229.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 449.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 43PFS4131 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-09-09 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-09-12 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 48 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 220.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863010020 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=09c2ae74-f780-4624-b110-260ea1bbf49f
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ f04ebe5c45fdd25a69d96d655759d1e6 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 5cfe372acd3f2c6605270f9000328e56 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 55PUS7101/12: Zie ieder detail op 55" met perfecte kleuren  Een samenkomst van prachtig vormgeving en loeischerp beeld. De 55PUS7101 van Philips geeft jou een 55" scherm met 4K Ultra HD-LED kwaliteit.  Met verschillende beeldversterkende technieken zoals Perfect Natural Motion die trillingen tot een minimum beperkt en Premium Color die alle kleuren tot 85%  optimaliseert vergeet je dat je naar een scherm kijkt!  Dankzij de vele aansluitingen op de Philips 55PUS7101 maak je van deze Android TV een echt multimediacentrum. Ben jij klaar voor de visuele beleving die inspeelt op jouw zintuigen en emoties?          4K Ultra HD-LED 55" (139 cm) 2000 PPI 30W Sound  Energieklasse A Android TV Quad Core processor Ingebouwde Wi-Fi Ambilight 3 Pixel Precise Ultra HD         Perfect Natural Motion HDR Plus  Premium Color Micro Dimming Pro Geheugen: 16GB (uitbreidbaar) 4x HDMI 3x USB Gewicht incl. voet: 19,4 kg Afmetingen incl. voet (B x H x D): 123,3 x 78,8 x 22,3 cm     Uitleg van Philips termen                    De beste resolutie ooit Met het Picture Precise Ultra HD 55" scherm zet de Philips  55PUS7101/12 een nieuwe standaard voor HD televisies. Met de  geavanceerde software in de processor worden alle beelden omgezet in kraakhelder 4K Ultra HD resolutie.  Dankzij de HDR Plus worden alle beelden getoond met onvergelijkbaar contrast.  Dieper zwart, levendige kleuren brengen het pallet tot leven zoals nooit te voren!                 Minuscule lokale dimming  De innovatieve technologie van Micro Dimming Pro creëert, in samenwerking met HDR Plus, superieure helderheid en een hoog visueel contrast.  Door rekening te houden met het omgevingslicht gebruikt de 55PUS7101 op intelligente wijze het zwartste zwart en het witste wit. Door het licht te versterken of verminderen op specifieke plaatsen in het beeld worden de kleuren vele malen intenser. Een zwart-wit film was nog nooit zo levendig!                              De lerende Android TV  De Philips 55PUS7101/12 is een Android TV. Om precies te zijn, een intelligente Android TV. Deze 4K Ultra HD TV leert jou graag kennen aan de hand van jouw voorkeuren en favorieten. Ontdek nieuwe films, series, muziek en apps met persoonlijke  aanbevelingen. Start de film op de TV en bekijk hem later verder op je tablet.  Hoe vaker jij de televisie gebruikt, hoe meer je er van gaat houden.                Krachtig design  De stijlvolle vormgeving van de Philips 55PUS7101 brengt een krachtig design jouw huis in. Met de Ambilight sfeerverlichting vloeit alles het 55" scherm uit. De gehele nieuwe serie heeft de dunste schermen ooit en nemen op die manier nóg minder ruimte in beslag. Combineer de moderne uitstraling met het kraakheldere, ultra scherpe beeld en je hebt een fantastische aanwinst!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830539 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=f04ebe5c45fdd25a69d96d655759d1e6&dl=product%2F1830539%2Fphilips-55pus7101.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 999.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1499.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 55PUS7101 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2014-07-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2014-07-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 33 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 500.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863008256 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=84c980c2-eced-4d65-a539-d67272868156
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 77754c9c8be6fad794f22ff3aed899dd ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 15b96719a62f3fa33b5edfc6b64a5eea ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 43PUS6401/12: Smart TV met 4K Ultra HD-LED 43" scherm Een fantastisch 43" 4K Ultra HD-LED scherm, stijlvol vormgegeven en vol met vernieuwende technologie!  De Philips 43PUS6401/12 biedt jou alle mogelijkheden van Smart TV in de Android omgeving, en geeft suggesties op basis van jouw online gedrag. Hoe langer je deze Smart TV gebruikt, hoe beter hij jou leert kennen. En dankzij de Pixel Plus Ultra HD, HDR Plus en nog vele andere technieken is het beeld haarscherp en levensecht! De Philips 43PUS6401/12 betrekt de omgeving bij het scherm met Ambilight aan  tweezijde van het scherm. Geniale beeldkwaliteit in een stijlvol jasje.         4K Ultra HD-LED 43" (108 cm) 1000 PPI 20W Sound  Energieklasse A Android TV Quad Core processor Ingebouwde Wi-Fi Ambilight 2 Pixel Plus Ultra HD         Perfect Natural Motion HDR Plus  Micro Dimming Pro Cloud Gaming Geheugen: 8GB (uitbreidbaar) 4x HDMI 3x USB Gewicht incl. voet: 9,9 kg Afmetingen incl. voet (B x H x D): 96,8 x 62,3 x 20,4 cm     Uitleg van Philips termen                    Ultra HD 43" scherm  Beleef beelden haarscherp op het 4K Ultra HD-LED scherm van de Philips 43PUS6401/12. Met Pixel Plus Ultra HD technieken worden alle pixels geoptimaliseerd.  Ook als ze van een bron afkomstig zijn die niet HD is, deze Smart TV krikt de kwaliteit zo op dat je altijd van jouw 4K scherm kunt genieten op de manier waarop het bedoeld is! En dankzij de Perfect Natural Motion zijn alle beelden ook nog eens vrij van bewegingstrillingen.              Excellente pixels  Micro Dimming Pro maakt alle pixels in de 43PUS6401/12 de beste pixel die ze kunnen zijn.  Door het licht specifiek te dimmen achter donkere pixels wordt zwart nog dieper zwart. En door het licht feller te maken achter lichte pixels worden witte pixels nóg helderder!  Op die manier geniet jij van hoog contrast en levensechte beelden.                            Ambilight ervaring  Het tweezijdige Ambilight op de Philips 43PUS6401/12 brengt de ruimte om de Smart TV heen ook tot leven!  De kleuren worden geprojecteerd dankzij slimme LED-verlichting achter het scherm.  Het scherm lijkt zo groter en jouw beleving wordt intenser.  Genieten van een film was nog nooit zo geweldig!                 Philips Smart TV  Stream de laatste Netflix series, beluister nieuwe albums op Spotify of speel live games via het Android Smart TV systeem van de 43PUS6401/12. Deze Philips Smart TV geeft suggesties op basis van jouw voorkeuren en gebruiksgeschiedenis. Hoe vaker je de televisie dus gebruikt, hoe beter de suggesties!  Leun achterover en geniet van alles wat de Philips 43PUS6401/12 jou te bieden heeft!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830531 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=77754c9c8be6fad794f22ff3aed899dd&dl=product%2F1830531%2Fphilips-43pus6401.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 479.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 799.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 43PUS6401 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2014-07-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2014-07-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 40 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 320.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863007778 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=9a46b9f2-7fd2-4c14-97db-d80e446b5a80
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 7706feb242e3ffe259c47f3185008104 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ a09bd8ef96c863055522319a5f54d87c ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ led-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE55K5510: 55" Full HD witte Smart TV  De Samsung UE49K5510 is een prachtige witte design Smart TV met een 55" Full HD beeldscherm. Met de Ultra Clean View worden beelden met een lagere resolutie ontdaan van beeldruis waardoor ze een resolutie krijgen die de Full HD kwaliteit dicht benadert. De beelden op de UE49K5510 zijn levensecht met haarscherpe details, diep contrast en prachtige zwart en wit tinten.  Dankzij de Quad Core processor aan boord van deze Samsung Smart TV kun je snel switchen tussen de verschillende apps.  Ook stuur je vanaf jouw mobiele apparaat eenvoudig content naar het grote scherm dankzij de Smart View app.           Full HD 55" (140cm)  400 PQI  20 W Sound Quad Core Processor Energieklasse A+ Smart TV Ingebouwde wifi Micro Dimming Pro  Mega Contrast         Wide Color Enhancer Contrast Enhancer Multiroom Link  Step-Up Slim design  HyperReal Picture Engine  Ultra Clean View Kleur: Wit Aansluitingen: 3x HDMI, 2x USB, CI+  Gewicht incl. voet: 17,6 kg Afmetingen incl. voet (B x H x D): 124,2 x 78,6 x 29,4 cm                    Full HD Smart TV Deze Full HD UE55K5510 van Samsung levert jou een adembenemend realistisch beeld. TV kijken is nooit meer hetzelfde dankzij de vele details en het prachtige contrast. Jouw films en series zien er voortaan nog verbluffender uit dankzij  de Ultra Clean View die dankzij het geavanceerde algoritme jouw  content van beeldruis ontdoet.               Samsung Smart TV  De Samsung UE55K5510 is super slim! Je deelt eenvoudig jouw mobiele content op het grote scherm met de Smart View app op je mobiel.  De Quad Core processor maakt de Smart TV een stuk sneller dan dat je gewende bent.  Multitasken in het Multi-Link Screen gaat nu razendsnel. En het Tizen besturingssysteem laat jou ook snel door de verschillende apps bladeren.                             Perfecte kleuren Nóg meer beeldverbeteringtechnieken op de Samsung UE55K5510!  Het uiterst geavanceerde algoritme verbetert de beeldkwaliteit aanzienlijk. Je ziet de verborgen details en ziet de kleuren zoals de natuur ze bedoeld heeft.                 Perfect contrast   Met de Micro Dimming Pro technologie van Samsung wordt op de UE55K5510 dieper zwart én zuiverder wit getoond.  Het resultaat hiervan? Prachtig helder, contrastrijk beeld.  Echt alles ziet er beter uit! En dankzij het intelligente Contrast Enhancer systeem wordt het contrast afzonderlijk geregeld voor verschillende delen van het scherm.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1835052 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=7706feb242e3ffe259c47f3185008104&dl=product%2F1835052%2Fsamsung-ue55k5510.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 599.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1399.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE55K5510 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-11-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-11-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 57 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 800.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088277172 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=037b555b-ce71-4836-b42b-ef7d2d179a47
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 1f3dbd3c0a9d7f3e4e021097327b8a93 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 26cc1c19e88ff50222e2c4671581deb1 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE50KU6020: Prachtige 50" UHD TV Het 50" beeldscherm van de Samsung UE50KU6020 is voorzien van vele moderne technologiën.  Met HDR Pro wordt gezorgd voor een echt HDR-bioscoopervaring in je huiskamer en met PurColor komen alle kleuren tot leven. De UE50KU6020 kan dankzij de UHD Picture Engine er voor zorgen dat beelden met een lagere resolutie met een aan UHD grenzende kwaliteit getoond worden. UHD Dimming zorgt voor optimale contrasten, kleuren en scherpte. Jij krijgt dus een weergaloze kijkervaring! En aan de Smart omgeving is ook gedacht, de Smart Hub is eenvoudig te bedienen en met de Smart View app deel jij heel intuïtief mobiele content op de Samsung UE50KU6020.          Ultra HD 50" (125cm)  1300 PQI 20 W Sound Quad Core processor Energieklasse A  Smart TV Ingebouwde wifi HDR Pro         UHD Dimming UHD Upscaling  PurColor  Auto Motion Plus  Mega Contrast Samsung Smart View Aansluitingen: 3x HDMI, 2x USB, 1x CI+ 1.3Gewicht incl. voet:  13,2 kg Afmetingen incl. voet (B x H x D): 112,9 x 72,4 x 31,1 cm                    4K beeldkwaliteit  De Samsung UE50KU6020 is een UHD TV, dit houdt in dat de resolutie maar liefst vier keer zo hoog is als bij Full HD TV's.  Alles ziet er levensecht uit met een hoge lichtopbrengst. En dankzij de HDR Pro functionaliteit worden beelden voorzien van de beste lichtverdeling. Donkere én lichte delen blijven haarscherp en zijn voorzien van optimaal contrast.                Nauwkeurige en natuurlijke beelden  Deze nieuwe UHD TV is voorzien van PurColor. Jouw kijkervaring wordt nog kleurrijker! Deze speciale kleurtechnologie van Samsung zorgt voor een breder scala aan kleuren en tinten, alle knalt rechtstreeks jouw huiskamer in! In verhouding met een gewone UHD TV maakt de Samsung 50KU6020 maar liefst zeven keer meer kleuraanpassingen.                              Haarscherp beeld  De Samsung UE50KU6020 heeft een geavanceerd algoritme die alle content ontdoet van beeldruis. Ultra Clean View zorgt er ook voor dat beelden met een lagere resolutie een kwaliteit krijgen die UHD benadert. Daarnaast zorgt de UHD Dimming er voor dat de contrasten, kleuren en scherpte geoptimaliseerd worden voor een levensechte beeldkwaliteit.               Slimme content  De krachtige Quad Core processor zorgt voor een super snelle Samsung UE50KU6020.  De Smart Hub is eenvoudig te bedienen en jouw favoriete apps staan altijd paraat. Daarnaast kun je met de Smart View App jou smartphone verbinden met de TV en direct jouw mobiele content streamen.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1833532 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=1f3dbd3c0a9d7f3e4e021097327b8a93&dl=product%2F1833532%2Fsamsung-ue50ku6020.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 619.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 899.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE50KU6020 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-10-07 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-10-10 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 31 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 280.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088477800 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=bb336019-44c4-436b-9405-b6c5d3bb0296
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 3d1f942a7151e52964d2020b6b6d112a ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 968dab34926e6c76ff5be4545b840816 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-03-28 00:15:10 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE65KU6100 65" 6-series: Curved UHD TV  Met de Samsung UE65KU6100 wordt televisie kijken een ware beleving! Je hebt  pachting beeld op deze televisie dankzij HDR Pro, hierdoor blijven ook de lichtste delen  van het HDR materiaal goed doortekend, en met de 4K UHD-resolutie ervaar je tot 4 meer de resolutie van Full HD TV. Dankzij het curved design van de  Samsung UE65KU6100 lijkt het net alsof je midden in het scherm zit. Een aanrader  voor talloze filmavondjes thuis in bioscoopkwaliteit!       Ultra HD 4x 65" (163 cm) 1400 PQI  Curved Quad-Core processor Energieklasse A  Smart TV Ingebouwde wifi HDR Pro           Ultra Clean View	 UHD Up-Scaling UHD Dimming Contrast Enhancer  Connect Share Aansluitingen: 3x HDMI, 2x USB, CI+  Gewicht incl. voet: 28,1 kg Afmetingen incl. voet (B x H x D): 146,3 x 90,8 x 37 cm    Uitleg van Samsung termen                   Natuurgetrouwe beelden  De beelden op de UE65KU6100 zijn zo natuurgetrouw dat je je in  je film waant. Dankzij HDR Pro worden de lichtste en donkerste delen  van het scherm voorzien van rijke details. Op deze Samsung TV zie je tot 4 keer meer details en levensechte kleuren dan op  een gewonde Full HD TV.             Smart TV  Deze Samsung UE65KU6100 is voorzien van de nieuwste Smart Hub die gelijk verschijnt wanneer je de TV aanzet.  Je kunt gelijk uit je favoriete content kiezen waarnaar je wilt kijken.  Of je nu zin hebt in een romantische film of spannende serie of speel je liever een goede game, je  hebt snel toegang!                           UHD Picture Engine De Samsung UE65KU6100 beschikt over UHD Picture Engine, dit houdt in dat alle beelden, ook al hebben sommige beelden een veel lagere resolutie, eruit zien als aan UHD grenzende kwaliteit. Hierdoor krijgen de beelden meer scherpte en diepte en geniet je nog intenser van jouw film.                 Personaliseer je TV  Alle foto's, filmpjes en muziek die je op je mobiele telefoon hebt staan deel je makkelijk met de Samsung UE65KU6100 dankzij de Smart Vieuw app van Samsung. Entertain je vrienden en familie met een weergaloze diavoorstelling van jouw foto's in  levensechte kleuren en in curved view!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837049 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=3d1f942a7151e52964d2020b6b6d112a&dl=product%2F1837049%2Fsamsung-ue65ku6100.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 1099.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1699.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE65KU6100 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-03-31 11:59:40 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-04-03 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 35 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 600.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088371450 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=994f2d8d-2534-46a7-9860-990241813e1c
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 26875c1240037b027ad678b39509df65 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 0b4c80e38c6d534f1d75b98f74c8b911 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-02 12:15:09 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ soundbar ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Denon HEOS Soundbar: Voor Subliem geluid  Met de Denon HEOS Soundbar geniet je van spectaculair geluid bij jouw favoriete film of muziek. Deze geavanceerde soundbar met digitale  vierkanaalsversterking van klasse D laat een Virtual Surround sound horen waardoor het lijkt alsof je in de film zit. De HEOS Bar levert exceptionele  prestaties met geavanceerde signaalverwerking,  versterking en 9 high-performance drivers. Creëer een flinke basweergave door de HEOS Subwoofer te verbinden met de HEOS Bar en creëer een adembenemende 3.1 setup!        Soundbar  3.0 virtual surround sound  Multiroom  Wifi  4 HDMI / 4K UHD ondersteuning  Infrarood ontvangst            Draadloos Bluetooth Aansluitingen: 1x USB, HDMI, LAN  Gewicht Soundbar: 2,8 kg  Afmetingen soundbar (B x H x D): 10,7 x 82 x 94 cm                    Multiroom  Met het Multiroom systeem heb je de mogelijkheid om in meerdere kamers in huis muziek af te spelen ongeacht waar  de broninstallatie zich bevindt. Je kunt per speaker het geluid instellen en de speakers geven dan onafhankelijk van elkaar  het beste geluid. Wil je verschillende kamers verschillende muziek of juist overal hetzelfde nummer, het kan allemaal met de HEOS Sounbar!               Gebruiksvriendelijke Soundbar Dankzij het stijlvolle design van de HEOS Bar staat hij goed in elke woonkamer. Je kunt hem aan de muur hangen, maar ook  voor je TV zetten. Dankzij de infrarood-hertransmissie kun je nog steeds de TV bedienen met je afstandsbediening. Je kunt je  soundsysteem én TV ook bedienen met de handige HEOS by Denon app en vanuit elke  ruimte in je huis genieten van perfect geluid.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837377 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=26875c1240037b027ad678b39509df65&dl=product%2F1837377%2Fdenon-heos-bar.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 799.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Denon HEOS Bar ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-02-10 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-02-13 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 799.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Denon ]]>
+</brand>
+<ean>
+<![CDATA[ 4951035058725 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=9453e99d-6a12-4d04-abd0-abebffaaf4f4
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 6395216937f16f22029ef68d418995c2 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ aaea35eb4dd8821aca7bb16ecb22da02 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-04-21 12:27:16 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ oled tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+.style1 { font-size: large; }    Philips 55POS901F: 55" 4K OLED TV De Philips 55POS901F is een superslanke 4K OLED TV met een stylisch design en driezijdig Ambilight. Een echte aanwinst voor ieder interieur. Met deze Philips Ultra HD  TV geniet je van prachtige kleuren, indrukwekkende zwarttinten, vloeiende bewegingen en een haarscherp beeld. Het beeldscherm is voorzien van Perfect Pixel Ultra HD, een Quad Core processor + Android  besturing zorgt voor een unieke game-ervaring en een prachtig geluid zorgt voor  een nog intensere kijkbeleving. Kijk nu op onze   nieuwspagina voor de  cashback actie op deze Philips OLED!        4K Ultra HD / OLED 55" (140 cm)  Schermresolutie 3840 x 2160   Quad Core processor + Android Smart TV Ingebouwde wifi Met HDR perfect         Ambilight TV Energieklasse B   Aansluitingen: 4x HDMI, 3x USB, 1x scart, 2x CI+, 2x satellietingang  Gewicht incl. voet: 21,18 kg Afmetingen incl. voet (B x H x D): 12,29 x 81,84 x 23,34 cm      Uitleg van Philips termen                    Driezijdige Ambilight  De Philips 55 POS901F is voorzien van de unieke Ambilight-technologie.  Hiermee maak je je beeldscherm breder (aan drie kanten van je TV  lopen de kleuren door) en je beleving tijdens het TV kijken  intenser. Kleur, actie en spanning spatten van je beeldscherm met deze 4K OLED  TV. Een warm en uitnodigend beeld voor een warme en uitnodigende woning!                OLED TV  Philips OLED is de allernieuwste ontwikkeling op het gebied van LED  TV's. Met een OLED TV heb je niet langer de achtergrondverlichting nodig. De pixels zelf maken een eigen kleur aan, staan ze uit dan zijn ze zwart. Hierdoor krijg je intense zwarttinten waardoor een prachtig contrast op je beeldscherm ontstaat. Het resultaat? Hele scherpe en levensechte beelden in prachtige kleuren en met een zuiver contrast. Een OLED  TV is écht een absolute aanwinst in je huis.                             4K Ultra HD Het beeld van een standaard Full HD-TV maar dan vier keer exrta: dat is een 4K Ultra HD  TV. Deze Philips 55POS901F heeft meer dan 8 miljoen pixels en dankzij de Philips Ultra Resolutie Upscaling technologie worden alle beelden optimaal weergegeven. Geniet met deze 55 inch OLED  TV van vloeiende bewegingen, natuurlijke kleuren, grote contrasten en verbeterde scherpte!             Quad Core + Android  Ook voor een spannende game-ervaring zit je goed met deze Philips OLED 4K Ultra HD  TV. De Quad Core processor complementeert de kracht van Android met een geweldige beleving als resultaat. Ook zorgt Android ervoor dat je supersnel,  intuïtief en met heel veel gemak kunt navigeren of apps/video's kunt afspelen op je televisie.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1834647 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=6395216937f16f22029ef68d418995c2&dl=product%2F1834647%2Fphilips-55pos901f-oled.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 2999.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 3499.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 55POS901F OLED ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-04-21 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-04-24 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 14 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 500.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863010457 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=bc8eba2c-7a12-4c4e-b0b9-bcbcb5bcc426
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 697dff5f9aac0e2e01c1a0b5747b064a ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ d66655764e68544ae2bd918e24382e00 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-29 12:15:14 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 55PUS7502/12: 55" kleurrijke beelden  De Philips 55PUS7502/12 is een ultradunne 4K Ultra UHD die dankzij de Ambilight functie een prachtige gloed geeft aan jouw huiskamer. De kleuren die geprojecteerd worden op de muur zorgen ervoor dat het beeldscherm van de Philips 55PUS7502/12 groter en breder lijkt. Doordat deze TV is uitgerust met de Philips P5 Engine wordt elk beeld steeds weer geoptimaliseerd qua helderheid,  contrast en detail. Je ziet levensechte beelden en ervaart de film of serie nog intenser door het prachtige geluid wat de PUS7502  produceert. Als er even niets op de TV is schakel je snel over naar  Smart Hub en je bladert door jouw favoriete apps en sites en binnen no time ben jij weer aan het genieten van jouw serie of film.        4K Ultra HD 55" (140 cm)  P5 Engine  Quad-Core processor Ambilight  Smart TV Besturingsysteem: android  DTS Premium Sound	         Energieklasse A HDR plus	 Ultra Slimm  Aansluitingen: 4x HDMI, 2x USB, CI+  Gewicht incl. voet: 24,4 kg Afmetingen incl. voet (B x H x D): 123,7 x 80 x 22,5 cm    Uitleg van Philips termen                    Prachtige gloed  De Philips 55PUS7502 is uitgerust met Ambilight, doordat de TV de kleuren op het beeldscherm "verlengd" naar de woonkamer lijkt het of je je in de film bevind.  Ook krijgt de kamer een prachtige warme gloed die uitnodigt om de hele avond lekker thuis te blijven en te genieten van een heerlijk TV-kijk-avondje.             4K resolutie  Omdat de 55PUS7502 4K Ultra HD resolutie heeft, kijk je naar  beelden die zijn opgeschaald naar een maximale kwaliteit in kleur, contrast en detail.  De resolutie en dus de beeldkwaliteit is vier keer zo hoog als bij een Full HD TV. Kleuren zijn helderder, contrasten tussen licht en  donker helderder en  details haarscherp.                            Philips P5 Engine  Door middel van een geavanceerd algoritme wordt alles wat je ziet op de Philips 55PUS7502 digitaal geoptimaliseerd. Door de hogere verwerkingskracht van de P5 Engine is de  beeldkwaliteit 50% verbeterd. Nu kunnen ook de moeilijk te bereiken kleuren zoals rood, groen en huidtinten perfect worden weergegeven, waardoor je kijkt naar natuurgetrouwe  beelden.              Quad Core en Android  Wie graag een game speelt op de TV kan dat nu doen met kwaliteit weergave. De krachtige Quad Core processor in combinatie met Android besturingsysteem  zorgen ervoor dat de beelden van jouw game naadloos aansluiten en de besturing en navigatie gaat supersnel.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837252 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=697dff5f9aac0e2e01c1a0b5747b064a&dl=product%2F1837252%2Fphilips-55pus7502.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 999.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 1699.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 55PUS7502 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2014-07-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2014-07-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 41 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 700.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863011577 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=21379a2b-bbff-4847-9a8c-1d58253f9aaa
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 589faaba944c50a4639382b67f84269d ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 1afa0b5811bf8f1d03fbe086a4d28a30 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-05 12:15:13 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 55PUS6412/12: 55" Ultraslanke 4K LED-TV  De Philips 55PUS6412 heeft niet alleen een modern design, maar is ook  super functioneel. Met het spectaculaire 4K Ultra HD-resolutie breng je jouw favoriete entertainment tot leven.  En dankzij Android TV zijn jouw  entertainmentmogelijkheden vrijwel eindeloos. Deze  televisie is voorzien van HDR Plus en DTS-HD, zodat jij scènes kan zien en kan  horen zoals ze bedoeld zijn. De Ambilight van de Philips  55PUS6412 veranderen je manier waarop je tv kijkt voorgoed.          4K Ultra HD-LED TV 55" (139cm)  Pixel Plus Ultra HD Micro Dimming Pro Smart-TV HDR Plus DTS-HD Ultra-resolutie          Natural Motion Quad Core-processor Ambilight Energieklasse A Aansluitingen: 4x HDMI, 2x USB, CI+  Gewicht incl. voet: 16,6 kg Afmetingen incl. voet (B x H x D): 124,4 x 78,6 x 26,6 cm    Uitleg van Philips termen                  DTS-HD eersteklas geluid De TV-luidsprekers van de Philips 55PUS6412 vragen om een  krachtige verwerkingsprocessor die de zuiverheid van de  oorsprongkelijke audiocontent behoudt. De DTS Premium-suite levert  hoogwaardige geluidsverwerking: meeslepende Surround Sound met diepe,  volle bastonen en kristalheldere dialogen, ook op een maximaal  volumeniveau. Zonder kraken, vervorming of schommelingen.               Pixel Plus Ultra HD Met de Philips 55PUS6412 ervaar je 4K Ultra HD-scherpte met de Philips Pixel Plus Ultra  HD-engine. Pixel Plus Ultra HD optimaliseert de beeldkwaliteit voor  vloeiende beelden met ongelooflijk veel details en diepte. Geniet  keer op keer van scherpere 4K-beelden met dieper zwart en helderder  wit.                          4K Ultra HD Geniet van verbeterde scherpte, een grotere diepteweergave, superieur contrast, vloeiende, natuurlijke bewegingen en perfecte  details met 4K Ultra HD van de Philips 55PUS6412. Met meer dan 8 miljoen pixels en de Ultra Resolutie Upscaling-technologie zien de beelden er beter uit, ongeacht de originele content. Een Ultra HD-TV heeft vier keer de resolutie van een conventionele  Full HD-TV.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837267 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=589faaba944c50a4639382b67f84269d&dl=product%2F1837267%2Fphilips-55pus6412.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 739.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 55PUS6412 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-12-02 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-12-05 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 739.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863011485 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=71fffb5c-22bf-426e-a543-dff1e1a577f7
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 26607ff5b2d9d2714f99dd6b2901f4ee ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 816035a6c50517cb21250e3c76711011 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-10 18:15:14 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ soundbar ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+LG SH2 Soundbar: Zwarte soundbar met subwoofer  De LG SH2 Soundbar is een soundbar vol met handige technologie en een prachtig strakke vormgeving. Dankzij Adaptive Sound Control wordt het geluid constant geanalyseerd en geoptimaliseerd op basis van de content.  Veel stemmen is minder bass, veel muziek is meer bass. De gesprekken zijn kraakhelder en de muziek zit vol diepte! De LG SH2 Soundbar heeft ook een handige Bluetooth optie. Je verbindt de soundbar draadloos met jouw TV en met jouw smart apparatuur, altijd direct streamen!  Met de LG SH2 Soundbar haal jij niet alleen een sterk staaltje techniek in huis, maar ook een prachtige toevoeging voor jouw opstelling!           Soundbar Vermogen soundbar: 100 W Vermogen subwoofer: 50 W Geschikt voor 40" Adaptive Sound Control (ASC) Thuisbioscoop-modus         Spotify Connect, Google Cast Bluetooth 4.0 Aansluitingen: audio-ingang, optisch Afmetingen soundbar (B x H x D): 88 x 6,1 x 9 cm Afmetingen subwoofer (B x H x D): 15,6 x 30 x 28,1 cm   Uitleg van Soundbar termen                    Perfect geluid Dankzij de LG SH2 Soundbar heb jij altijd het beste geluid ongeacht de content. Bij gesprekken worden de stemmen kristal helder afgespeeld en wordt de bass verlaagd. Terwijl bij veel muziek juist de bass verhoogd wordt voor extra diepte in de muziek.               Draadloos streamen  Verbind jouw smartphone, tablet of laptop via Bluetooth met de LG SH2 Soundbar en geniet direct van jouw muziek door de hele kamer. De verbinding hoeft maar één keer gemaakt te worden, daarna herkennen de apparaten elkaar altijd zodat jij, zodra je binnen bereik bent, jouw playlist kan afspelen.                             Weg met de kabels!  Een bijkomend voordeel van de LG SH2 Soundbar is dat hij ook draadloos te verbinden is met jouw TV, mits deze ook over Bluetooth beschikt.  Je hebt dan geen vervelende extra kabels bij de televisie lopen, maar een rommelvrije opstelling.               Praktische bediening  De LG SH2 Soundbar bedien je snel met de bijgeleverde afstandsbediening.  Niet nog een extra afstandsbediening op tafel?  Met de afstandsbediening van jouw televisie kun je deze soundbar ook bedienen!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1831955 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=26607ff5b2d9d2714f99dd6b2901f4ee&dl=product%2F1831955%2Flg-sh2-soundbar.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 89.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 149.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ LG SH2 Soundbar ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-05-12 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-05-15 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 40 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 60.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ LG ]]>
+</brand>
+<ean>
+<![CDATA[ 8806087634297 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=582d29b3-e119-4547-9063-889da23ec553
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 198c3225bf86ae04f5976d743d63955e ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 8a961257294e03b05ee802c10149c41a ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-16 12:15:10 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 43PUS6412/12: 43" Ultraslanke 4K LED-TV  De Philips 43PUS6412 heeft niet alleen een mooi design, maar is ook super  functioneel. De 43PUS6412 brengt je entertainment tot leven met een  spectaculaire 4K Ultra HD-resolutie.  En dankzij Android TV zijn jouw  entertainmentmogelijkheden v
+]]>
+<![CDATA[
+rijwel eindeloos. De Ambilight van de Philips  43PUS6412 veranderen je manier waarop je tv kijkt voorgoed. Ook is deze  televisie voorzien van HDR Plus en DTS-HD, zodat jij scènes kan zien en kan  horen zoals ze bedoeld zijn.          4K Ultra HD-LED TV 43" (108cm)  Quad Core-processor Pixel Plus Ultra HD Smart-TV HDR Plus DTS-HD Ultra-resolutie          Natural Motion Micro Dimming Pro Ambilight Energieklasse A Aansluitingen: 4x HDMI, 2x USB, CI+  Gewicht incl. voet: 9,3 kg Afmetingen incl. voet (B x H x D): 97,1 x 62,9 x 22,4 cm    Uitleg van Philips termen                   Pixel Plus Ultra HD Ervaar 4K Ultra HD-scherpte met de Philips Pixel Plus Ultra  HD-engine. Pixel Plus Ultra HD optimaliseert de beeldkwaliteit voor  vloeiende beelden met ongelooflijk veel details en diepte. Geniet  keer op keer van scherpere 4K-beelden met dieper zwart en helderder  wit.               4K Ultra HD Geniet van verbeterde scherpte, een grotere diepteweergave, superieur contrast, vloeiende, natuurlijke bewegingen en perfecte  details met 4K Ultra HD. Een Ultra HD-TV heeft vier keer de resolutie van een conventionele Full HD-TV.  Met meer dan 8 miljoen pixels en de Ultra Resolutie Upscaling-technologie zien de beelden er beter uit, ongeacht de originele content.                           DTS-HD eersteklas geluid De TV-luidsprekers van de Philips 43PUS6412 vragen om een  krachtige verwerkingsprocessor die de zuiverheid van de  oorsprongkelijke audiocontent behoudt. De DTS Premium-suite levert  hoogwaardige geluidsverwerking: meeslepende Surround Sound met diepe,  volle bastonen en kristalheldere dialogen, ook op een maximaal  volumeniveau. Zonder kraken, vervorming of schommelingen.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837266 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=198c3225bf86ae04f5976d743d63955e&dl=product%2F1837266%2Fphilips-43pus6412.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 739.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 43PUS6412 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-12-02 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-12-05 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 739.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863011461 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=b0c52621-fe1a-4705-a900-fd594cc76dcd
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 23aae6df01c32e72caf8de3b472ab717 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 25a7a5f0c8cec86687ddf0b863ad1c9a ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-26 18:15:14 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE65KS7500: 65" Curved Super Ultra HD Samsung tv Het 65" SUHD Curved beeldscherm van de Samsung UE65KS7500 heeft alles in huis om levensechte beelden weer te geven. Met het Quantum Dot Display, waarin ultrakleine kristallen zitten in de kleuren rood, blauw en groen, worden 96% van alle kl
+]]>
+<![CDATA[
+euren van de bioscoopstandaard getoond! Dankzij de Precision Black Pro en Peak Illuminator Pro worden zwarte kleuren voorzien van extra diepte en de heldere plekken extra verlicht. Naast dit alles is de UE65KS7500 ook een Smart TV die ontzettend intelligent is. Verbind smartphones, tablets of laptop via de wifi met deze Samsung tv en bekijk alle content op het SUHD scherm. Geniet van alle nauwkeurige en adembenemende kleuren op het 65" Curved beeldscherm van de Samsung UE65KS7500!          Curved SUHD LED tv  65" (165cm)  Smart TV  Ingebouwde wifi 40W Sound 2200 PQI Quantum Dot Display  HDR 1000 UHD Dimming  Precision Black Pro           Peak Illuminator Pro  Multiroom Link  TV Sound Connect  Voice Recognition  One Connect  Smart View  4x HDMI, 3x USB  Smart Remote  Gewicht incl. voet: 23,7 kg Afmetingen incl. voet (B x H x D): 144,2 x 90,9 x 29,7 cm                    Wonderschone kleuren De Samsung UE65KS7500 is een Ultra HD Premium televisie.  Om dit logo te mogen dragen moeten de tv's aan strenge eisen voldoen.  Kort gezegd; de tv moet Ultra HD zijn, minstens 90% van het kleurenpalet kunnen tonen van de bioscoopstandaard, een 10 bit-paneel hebben en tot slot moet de tv HDR-beelden weergeven met minstens 1000 nits. Deze Samsung tv voldoet ruim aan al deze eisen met zijn Super Ultra HD resolutie en toont maar liefst 96% van het kleurenpalet!  Dit alles gecombineerd voorziet jou van rijke kleuren en levensechte beelden!               Gitzwart en spierwit Geïnspireerd op de ogen van een mot, die alle licht opnemen en niks weerkaatsen, is de Samsung UE65KS7500 voorzien van een speciale schermcoating.  Deze laag is voorzien van een doordachte noppenstructuur die nagebootst is van de ogen van de mot.  Geen hinderlijke reflecties meer omdat er geen licht meer weerkaatst wordt.  De samenwerking tussen Precision Black Pro en Peak Illuminator Pro zorgt voor gitzwart op de donkerste plekken en stralende accenten.                              Strakke ronding  Een andere innovatie op de UE65KS7500 komt vanuit het menselijk oog.  Het Curved beeldscherm heeft dezelfde bolling als het menselijk oog en daardoor kijk jij op een natuurlijke manier naar alle films en series. De achterkant van het scherm is ook ontzettend strak afgewerkt, geen vervelende schroeven of aansluitpunten in het zicht maar gewoon egaal zwart.  Deze tv mag dus vanuit alle hoeken gezien worden!  Doordat het scherm gebogen is lijkt hij ook nog vele malen groter dan dat hij werkelijk is.  Helemaal perfect dus als jij je graag te midden van alle actie bevindt!                 Uitgekiende Smart Hub Deze nieuwe Samsung UE65KS7500 maakt het jou eenvoudig om snel die ene serie verder te kijken of om jouw foto's vanaf je smartphone op groot scherm te laten zien. Met de vernieuwde Smart Hub staan alle opties die deze tv biedt bij elkaar in één overzicht.  Zo hoef je nooit lang te zoeken en kan jij snel achterover leunen om een geweldige film te beleven. Schakel je de tv tussendoor uit en kom je na een tijdje weer terug, dan weet deze Smart TV wat jij aan het kijken was en gaat daar ook weer mee verder.  Met de Smart View verbind jij jouw smartphone via het wifi netwerk met de tv en toon jij met één stap alles op het scherm Jouw foto's en video's op het SUHD scherm, een fantastische manier om alle foto's te bekijken!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830888 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=23aae6df01c32e72caf8de3b472ab717&dl=product%2F1830888%2Fsamsung-ue65ks7500.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 1999.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 3199.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE65KS7500 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-05-26 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-05-29 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 37 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 1200.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088248387 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=6daf8597-1cfc-4089-abce-714844b2f519
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 273c8a9a9c1d98572267a32f7ca56b49 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ e20caf16b1cc72303ec33ac170d4544c ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-06-09 12:15:16 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-27 18:15:11 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE40KU6400: 40" UHD Samsung Smart TV De Samsung UE40KU6400 is een prachtige 40" Ultra HD Smart TV met fantastische beeldweergave. De HDR Pro zorgt voor HDR weergave terwijl de UHD Dimming voor dieper contrast, rijkere kleuren en  specifieke details zorgt. Samsung heeft de UE40KU6400 voorzien van Active Crystal Color, LED's voorzien van een laagje rode en groene fosfor zodat er zuiver wit licht uitgestraald wordt.  Zo is de kleurweergave vergroot en geniet jij dus van meer kleurdetail! Met de Smart Remote en Smart View is jouw smartphone eigenlijk onmisbaar om optimaal gebruik te maken van de Samsung UE40KU6400, uit commando's, typ zoekopdrachten en wijs aan op het scherm, alles met jouw smartphone.         UHD LED tv  40" (101cm)  Smart TV  Ingebouwde wifi 20W Sound 1500 PQI HDR Pro UHD Dimming  Active Crystal Color            Multiroom Link  TV Sound Connect  Voice Recognition  Smart View  3x HDMI, 2x USB  Smart Remote   Afmetingen incl. voet (B x H x D): 90,1 x 58,8 x 26,3 cm   Uitleg van Samsung termen                   Ultra HD weergave  Met een beeldresolutie van maar liefst vier keer zoveel als bij Full HD is de Samsung UE40KU6400 haarscherp. Met acht miljoen pixels worden alle beelden ontzetten scherp weergegeven, ondanks de bron. Met UHD upscaling worden alle beelden tot een UHD kwaliteit gebracht. En met de Active Crystal Color is de kleur weergave vergroot dankzij slim gebruik van LED's en zuiver wit licht.               Perfecte beeldverbeteringen  De UE40KU6400 is voorzien van verschillende slimme beeldverbeteringtechnieken.  UHD Dimming verdeelt het 40" scherm in zones en optimaliseert in iedere zone het contrast, kleur en detail.  Deze Samsung TV met HDR Pro is in staat om HDR content te lezen en te tonen.  De content wordt als het ware opgewaardeerd dus. Zo geniet je optimaal van het totaalbeeld!                              Samsung Smart Hub  Samsung heeft de gehele Smart Hub vernieuwd, ook op de UE40KU6400.  Deze Smart TV heeft een overzichtelijk contentbalk onderin het scherm, en toont jou alle mogelijkheden.  Zonder verschillende menu's te selecteren ben jij snel bij de gewenste app of instelling. En sluit je de tv af terwijl je Netflix kijkt, dan start hij bij het aan gaan weer precies op dezelfde plek.  Leun dus maar achter over en kijk snel verder!              Snelle stembediening  De Smart Remote app op jouw smartphone biedt jou de mogelijkheid om de Samsung UE40KU6400 met je stem te bedienen. Spreek duidelijk jouw commando uit tegen je mobiel en de Samsung Smart TV voert het direct uit. Jouw smartphone is tevens afstandsbediening met toetsenbord en aanwijzer, ideaal als je aan het surfen bent of iets opzoekt.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830914 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=273c8a9a9c1d98572267a32f7ca56b49&dl=product%2F1830914%2Fsamsung-ue40ku6400.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 599.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 799.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE40KU6400 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-06-09 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-06-12 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 25 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 200.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088300030 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=2244ee8c-2411-4f7e-856a-53cb6d81db5b
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ ea75a782ba780c7609df1d9e39b8b027 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 6ec7287240d9e0fc306832d1a462963e ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ led-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung T32E310: Monitor TV - makkelijk switchen tussen je PC en tv kijken!  De Samsung T32E310EW is een PC monitor met ingebouwde TV-tuner. Hoe makkelijk is dat? Jij kan gewoon je computer gebruiken en als je je TV wilt aanzetten, kan dat binnen enkele seconden. Met de T32E310 ervaar jij haarscherp beeld en een soepele overgang dankzij een lage responstijd. Het maakt niet uit als je hem als monitor gebruikt of als je TV kijkt, jij bent altijd voorzien van de perfecte kijkervaring.          TV Monitor 32" (81cm) Energieklasse A+ Mega Contrast 1920 x 1080 p resolutie CI+ slot 2 x HDMI 1 x USB         DTS Studio Sound ConnectShare Picture-In-Picture Plus+ Game Mode Sports/Football Mode Afmetingen (incl. stand) (BxHxD) 721,4 x 467 x 154,7 mm 5,42 kg (incl. stand) Verpakking: netsnoer, afstandsbediening (TM1240)                    HD-kwaliteit  De Samsung T32E310EW beschikt over een resolutie van 1920 x 1080 pixels. Hierdoor ervaar jij beelden in een HD-kwaliteit. Websites worden scherp weergegeven, maar jij kijkt ook televisie in een hoge kwaliteit. Jij hebt met de E310 een soepele en optimale beeldbeleving.               Aansluitingen De T32E310 is voorzien van twee HDMI-aansluitingen. Hierdoor is het mogelijk om naast je computer of laptop ook nog eens je  Playstation, home cinema set of Blu-ray speler aan te sluiten! Maar dat is nog niet alles, want dankzij de USB-poort, verbind je ook nog eens eenvoudig je USB-stick. Zo geniet jij van multimediabestanden als film, foto en muziek.                             TV én monitor in één Met de meegeleverde afstandsbediening switch jij gemakkelijk tussen de monitor weergave en het gebruik van de televisie. Je kan dankzij Picture-in-Picture zelfs tegelijk tv kijken én doorwerken op je pc. Hoe handig is dat?! Moet je natuurlijk wel je concentratie erbij houden.              Sportsmode Voor de sportliefhebbers beschikt de E310 ook nog over een sportsmode. Ideaal voor je favoriete sporten! Elk doelpunt, iedere slag - het is perfect te zien. Daarnaast kan je het beeld zelf splitsen in 9 delen en bijvoorbeeld inzoomen op het voetenwerk van je favoriete speler, of lastige spelmomenten nog eens goed onder de loep nemen!  Nee, dit is nog niet alles. Het geluid is ook nog eens geoptimaliseerd zodat je de sfeer gewoon naar je woonkamer brengt!
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1825246 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=ea75a782ba780c7609df1d9e39b8b027&dl=product%2F1825246%2Fsamsung-t32e310ew.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 249.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 299.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung T32E310EW ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-11-18 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-11-21 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 16 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 50.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806086652209 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=db07a8bf-c6d6-46c9-b8ae-ab6bfd4629a9
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ d1553f3a52ff499e87d72721fc6e24da ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ b8fe4cac66ecf02712f06c0d39c0609d ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Samsung UE40KU6020: 40 inch UHD tv scherm Met deze stijlvolle Samsung 40KU6020 haal jij een prachtig 40 inch 4K beeldscherm in huis. Het beeldscherm is uitgerust met veel moderne technologiën om jou het beste van het beste te tonen. Met HDR Pro komen alle delen van het scherm tot leven, de donkerste én de helderste. Je ziet alles vol met haarscherpe details. PurColor zorgt voor alle levendige kleuren die je ziet en dankzij UHD Dimming worden alle delen op juiste plek gedimd. De UE40KU6020 heeft ook de onuitputtelijke mogelijkheden van de Samsung Smart Hub én de mogelijkheid om vanaf je smartphone te streamen naar het grote scherm.            Ultra HD 40" (102cm)  1300 PQI 20 W Sound Quad Core processor Energieklasse A  Smart TV Ingebouwde wifi HDR Pro         UHD Dimming UHD Upscaling  PurColor  Auto Motion Plus  Mega Contrast Samsung Smart View Aansluitingen: 3x HDMI, 2x USB, 1x CI+ 1.3Gewicht incl. voet:  8,6 kg Afmetingen incl. voet (B x H x D): 91,8 x 59,7 x 28,8 cm                    Onwijs gedetailleerd  De Samsung UE40KU6020 is een prachtige UHD TV met de moderne HDR Pro technologie. Deze technologie zorgt er voor dat ook de lichte delen van het beeld scherp in beeld komen. Je krijgt dus een echte HDR-bioscoopervaring in jouw eigen woonkamer!               PurColor  PurColor is een techniek speciaal ontwikkeld door Samsung voor UHD TV's.  Een UHD-scherm heeft vier keer zoveel pixels als een Full HD TV en daardoor heb je ook meer kleuraanpassing nodig.  PurColor zorgt voor een breder scala aan kleuren en tinten die rechtstreeks in jouw woonkamer komen. Het resultaat; van het scherm spattende kleuren en tinten die ongelofelijk rijk en verfijnd zijn!                             Perfecte details  De Samsung UE40KU6020 is ook uitgerust met UHD Dimming.  Deze dimming techniek optimaliseert contrasten, kleuren en scherpte.  En wanneer je content afspeelt met een resolutie lager dan UHD kom de UHD Picture Engine om de hoek kijken. Deze Engine verbetert het materiaal naar een UHD grenzende kwaliteit in slechts vier innovatieve stappen.  Jouw favoriete content komt dus écht tot leven!               Smart omgeving  De Smart Hub van Samsung is het vaste toegangspunt voor live TV, apps en games.  Zodra jij de 40KU6020 aan zet is jouw favoriete content beschikbaar. Naast deze content kun je ook met de Smart View app content vanaf je smartphone streamen of rechtstreeks een USB-stick inpluggen om al die vakantiefoto's eens goed te bekijken.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1833530 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=d1553f3a52ff499e87d72721fc6e24da&dl=product%2F1833530%2Fsamsung-ue40ku6020.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 499.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 699.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Samsung UE40KU6020 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-03-24 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-03-27 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 28 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 200.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Samsung ]]>
+</brand>
+<ean>
+<![CDATA[ 8806088473215 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=777e4449-7bcf-49fd-900a-7104033d48dd
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ cc2032a8fa43136c9ccd4ab1c15f053e ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ f388e170441909c1aa00c21156fe5a00 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-02-22 00:15:11 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 55PUS6101: 55" Smart TV met 4K Ultra HD beeldkwaliteit  Deze elegante Philips 55PUS6101 is een 55" 4K Ultra HD televisie die jou altijd onder de indruk weet te brengen. Of hij nu aan of uit staat, want ook uit is deze tv prachtig om te zien.  Een uiterst gestroomlijnd uiterlijk, met futuristisch vormgegeven pootjes maken de Philips 55PUS6101/12 tot een echt pronkstuk in de kamer. De Smart omgeving van deze slimme televisie is erg eenvoudig te bedienen en biedt talloze mogelijkheden, waaronder direct Spotify streamen vanaf jouw smartphone. Uiteraard draait het ook om de beeldkwaliteit, dankzij de acht miljoen pixels is het realistisch tonen van beelden een eitje voor de Philips 55PUS6101!  En met de Pixel Plus Ultra HD-engine worden alle beelden met de hoogst mogelijke kwaliteit getoond.            4K Ultra HD-LED 55" (140 cm) 800 PPI 16W Sound  Energieklasse A+ Android TV Dual Core processor Ingebouwde wifi Pixel Plus Ultra HD         MultiRoom Client Simply Share Miracast gecertificeerd Geheugen: 16GB (uitbreidbaar) 4x HDMI 3x USB Gewicht incl. voet: 15,5 kg Afmetingen incl. voet (B x H x D): 123,9 x 72,5 x 8,8 cm     Uitleg van Philips termen                    Futuristisch design De Philips 55PUS6101 is een zeer strak vormgegeven televisie. Deze 55" televisie is elegant, gestroomlijnd en nauwkeurig. De pootjes zijn zeer precies gesneden en gemaakt van een ultrasterk hoogwaardig staal.  Die futuristische pootjes geven de illusie dat de tv zweeft!  Een echte eyecatcher in jouw woonkamer dus!                Miljoenen pixels voor levensechte beelden Met een 4K Ultra HD resolutie heeft de Philips 55PUS6101 heeft wat pixels om jou het allerbeste te kunnen tonen. Maar liefst acht miljoen pixels staan paraat om alle beelden realistisch weer te geven! Je geniet intens van verbeterde scherpte, grotere diepteweergave en een superieur contrast. Nooit meer terug naar iets anders, deze tv is het helemaal!                              Geoptimaliseerde beeldkwaliteit Mocht de bronkwaliteit een keer wat minder zijn, bijvoorbeeld bij een oudere DVD, dan biedt de Philips 55PUS6101 uitkomst!  De tv beschikt namelijk over een Pixel Plus Ultra HD-engine waarmee ook beelden van mindere kwaliteit worden geüpscaled.  Je ziet bijna geen verschil meer tussen een HD kanaal, online streamen en DVD's.  Altijd perfecte scherpte, diepte en contrast met vloeiende bewegingen!              Smart TV  Dankzij Spotify Connect op de Philips 55PUS6101 stream jij altijd direct jouw playlist op het grote scherm.  Je gebruikt gewoon de Spotify-app om alles te bedienen, dus er verandert niks behalve de beleving van jouw muziek!  Daarnaast heeft deze Smart TV natuurlijk een handige Smart omgeving. Alle apps staan overzichtelijk en het geheel is zeer intuïtief te bedienen!  En ook nog eens ongelofelijk snel dankzij de Dual Core processor.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1830536 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=cc2032a8fa43136c9ccd4ab1c15f053e&dl=product%2F1830536%2Fphilips-55pus6101.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 599.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 799.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 55PUS6101 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-01-06 12:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-01-09 12:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage>
+<![CDATA[ 25 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 200.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863008607 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=82b5197c-dcb7-4374-8094-0df2061fdcd8
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ d0b7564e7b299adbaf9d6cc07d07b30d ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 6a55c6c121e5ece465d024e2c3d8cb83 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-02 12:15:09 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-26 18:15:11 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ soundbar ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+HEOS Subwoofer: Voor ongekende basgeluiden  De HEOS subwoofer geeft aan elk geluid een extra dimensie! Deze wireless subwoofer kun je overal in huis neerzetten en zo het perfecte surround sound creëren. Deze subwoofer levert krachtige diepe bastonen met vlakke respons en lage vervorming. Zo houd je zuiver geluid over. Ook heeft de HEOS  subwoofer DSP-verwerking voor een nauwkeurige geluidsynchronisatie tussen de soundbar en de subwoofer.  Hierdoor hoor jij elk geluid zoals het bedoeld is.           Subwoofer HEOS app Bluetooth / wifi   DSP          Draadloos   Gewicht subwoofer: 6,6 kg   Afmetingen subwoofer (B x H x D): 17,2 x 31,1 x 33,2 cm
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837378 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=d0b7564e7b299adbaf9d6cc07d07b30d&dl=product%2F1837378%2Fdenon-heos-subwoofer.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 699.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Denon HEOS subwoofer ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2017-02-10 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2017-02-13 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 699.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Denon ]]>
+</brand>
+<ean>
+<![CDATA[ 4951035059845 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=3a6eb0d8-9b63-42a5-8ae5-5e0f3b7edb01
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 3800aed217efd9bab91a6c6e86e2fece ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ bbb800977e8935c259d3c32dae7120b0 ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-06-02 12:15:12 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-28 00:15:09 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 65PUS6162/12: 65" 4K Ultra HD   TV kijken wordt een nieuwe ervaring met de Philips 65PUS6162/12. Deze 4K Ultra HD TV geeft prachtige beelden en helder geluid.  Dankzij het superslanke design hang je hem  met gemak op aan de muur of je zet  hem op het dressoir, hij past mooi in elk inte
+]]>
+<![CDATA[
+rieur. De 65PUS6162 is een Smart TV en biedt dus een wereld aan entertainment voor als je het zappen en reclames zat bent. Schakel makkelijk door  de verschillende content en binnen een mum van tijd kijk jij naar jouw favoriete films en series of surf je naar jouw favoriete sites.          4K Ultra HD 65" (165 cm)  LED HDR Plus Quad-Core processor Energieklasse A++             Smart TV Ingebouwde wifi Aansluitingen: 3x HDMI, 2x USB, CI+  Gewicht incl. voet: 26,2 kg Afmetingen incl. voet (B x H x D): 146,2 x 90,7 x 27,1 cm                    4K UHD  De Philips 65PUS6162/12 heeft 4 keer de resolutie van een conventionele Full HD TV,en daardoor zie jij beelden scherper en helderder dan ooit. Meer dan 8 miljoen pixels in  combinatie met Ultra Resolutie Upscaling technologie van Philips maakt het niet uit van welke content je kijkt, de beelden worden opgeschaald naar een subliem resultaat.              Smart TV  Met de 65PUS6162 ben je verzekerd van een avond vol entertainment, ook als er een keertje niets op de televisie is. Stream films, series en games of surf door de verschillende apps in de Philips App Gallery. Deze overzichtelijke Gallery biedt een wereld aan mogelijkheden zodra de TV verbonden is met het internet.                             HDR Plus High Dynamic Range is de nieuwe videostandaard. Door HDR krijgen beelden nog meer diepte en contrast, en de kleuren zijn helderder en intenser. Ook snel bewegende beelden zien er  beter uit en gaan vloeiend in elkaar over zonder ruis of haperingen. Geniet elke keer weer van beelden zoals de regisseur het bedoeld heeft.             Prachtig geluid Hoe mooi de beelden van de   65PUS6162 ook zijn, dat valt allemaal in het niet als het geluid niet goed is. De Philips geluidstechnologie zorgt ervoor dat je alle geluiden helder hoort. Het geluid van  studiokwaliteit wordt waar nodig verbeterd en daardoor hoor jij diepe bas, heldere dialogen en prachtige zuiverheid.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837309 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=3800aed217efd9bab91a6c6e86e2fece&dl=product%2F1837309%2Fphilips-65pus6162.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 999.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 65PUS6162 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2014-07-04 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2014-07-07 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 999.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863011683 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=f5f919e5-175c-445f-8cdb-d30e89f7cebc
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ 70d1dcd94cddd79ec249245cbe0f4293 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 4393201648292f3a7f4f12f4768563df ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-06-09 12:15:16 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-06-27 18:15:11 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Elektronica ]]>
+</category>
+<category_path>
+<![CDATA[ uhd-tv ]]>
+</category_path>
+<condition/>
+<description>
+<![CDATA[
+Philips 65PUS6412/12: 65" 4K Ultra HD-LEDTV  De Philips 65PUS6412 heeft niet alleen een super mooi design, maar is ook functioneel. De 65PUS6412 brengt je entertainment tot leven met een  spectaculaire 4K Ultra HD-resolutie.  En dankzij Android TV zijn jouw  entertainmentmogelijkheden vrijwel eindeloos. Deze  televisie is voorzien van HDR Plus en DTS-HD, zodat jij scènes kan zien en kan  horen zoals ze bedoeld zijn. De Ambilight van de Philips  65PUS6412 veranderen je manier waarop je tv kijkt voorgoed.          4K Ultra HD-LED TV 43" (164cm)  Quad Core-processor Pixel Plus Ultra HD Smart-TV HDR Plus DTS-HD Ultra-resolutie          Natural Motion Micro Dimming Pro Ambilight Energieklasse A Aansluitingen: 4x HDMI, 2x USB, CI+  Gewicht incl. voet: 26,2 kg Afmetingen incl. voet (B x H x D): 146,2 x 90,7 x 27,2 cm    Uitleg van Philips termen                   Pixel Plus Ultra HD Met de Philips 65PUS6412 ervaar je 4K Ultra HD-scherpte met de Philips Pixel Plus Ultra  HD-engine. Pixel Plus Ultra HD optimaliseert de beeldkwaliteit voor  vloeiende beelden met ongelooflijk veel details en diepte. Geniet  keer op keer van scherpere 4K-beelden met dieper zwart en helderder  wit.               4K Ultra HD Geniet van verbeterde scherpte, een grotere diepteweergave, superieur contrast, vloeiende, natuurlijke bewegingen en perfecte  details met 4K Ultra HD van de Philips 65PUS6412. Een Ultra HD-TV heeft vier keer de resolutie van een conventionele Full HD-TV.  Met meer dan 8 miljoen pixels en de Ultra Resolutie Upscaling-technologie zien de beelden er beter uit, ongeacht de originele content.                           DTS-HD eersteklas geluid De TV-luidsprekers van de Philips 65PUS6412 vragen om een  krachtige verwerkingsprocessor die de zuiverheid van de  oorsprongkelijke audiocontent behoudt. De DTS Premium-suite levert  hoogwaardige geluidsverwerking: meeslepende Surround Sound met diepe,  volle bastonen en kristalheldere dialogen, ook op een maximaal  volumeniveau. Zonder kraken, vervorming of schommelingen.
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ 1837268 ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://ds1.nl/c/?wi=275716&si=8799&li=1483238&pid=70d1dcd94cddd79ec249245cbe0f4293&dl=product%2F1837268%2Fphilips-65pus6412.html%3Futm_source%3Ddaisycon_%25WEBSITE_ID%25%26utm_medium%3Daffiliate&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 739.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 0.00 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Philips 65PUS6412 ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description>
+<![CDATA[ Op werkdagen voor 21u besteld, morgen in huis ]]>
+</delivery_description>
+<size/>
+<size_description/>
+<model/>
+<gender_target/>
+<offer_datetime_start>
+<![CDATA[ 2016-12-02 00:00:00 ]]>
+</offer_datetime_start>
+<offer_datetime_end>
+<![CDATA[ 2016-12-05 00:00:00 ]]>
+</offer_datetime_end>
+<discount_percentage/>
+<discount_amount>
+<![CDATA[ 739.00 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ Philips ]]>
+</brand>
+<ean>
+<![CDATA[ 8718863011492 ]]>
+</ean>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+http://www.televisiewinkel.nl/getimage.ashx?imageid=fa134746-238f-4fcd-bea5-41ab96cc866b
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+</products>
+</program>
+	</programs>
+</datafeed>

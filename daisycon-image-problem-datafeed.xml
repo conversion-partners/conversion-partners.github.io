@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafeed>
+	<info>
+		<category><![CDATA[Daily offers]]></category>
+		<sub_category><![CDATA[Daily offers]]></sub_category>
+		<product_count><![CDATA[1395]]></product_count>
+		<last_modified><![CDATA[2017-05-25 04:33:21]]></last_modified>
+		<date_created><![CDATA[2017-05-25 05:13:49]]></date_created>
+		<previous_download><![CDATA[0000-00-00 00:00:00]]></previous_download>
+	</info>
+	<programs>
+		<program>
+			<program_info>
+				<id><![CDATA[6104]]></id>
+				<name><![CDATA[Speurders Aanbiedingen]]></name>
+				<currency><![CDATA[EUR]]></currency>
+				<currency_symbol><![CDATA[€]]></currency_symbol>
+				<product_count><![CDATA[12]]></product_count>
+				<last_modified></last_modified>
+				<daisycon_unique_id_since><![CDATA[2015-12-16 12:56:25]]></daisycon_unique_id_since>
+				<daisycon_unique_id_modified><![CDATA[true]]></daisycon_unique_id_modified>
+			</program_info>
+			<products>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[a9be5dccf10e50c42641de7085032ec9]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[8ffee44ff738d8fb3215182196013ffb]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-23 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Travelin? London Herenschoenen
+Deze Travelin? London herenschoenen mogen niet ontbreken in jouw garderobe! De schoen heeft een frisse en moderne look, bovendien bieden ze optimaal draagcomfort tijdens het lopen en zijn ze geschikt voor elke gelegenheid. Zo zijn deze herenschoenen ideaal voor dagelijks gebruik, vrije tijd, op kantoor en tijdens citytrips. Dus wacht niet langer, kies jouw favoriete kleur en tover elk outfit in een genot voor het oog voor slechts ?69,95 ipv ?159,95!
+
+Unieke schoenen
+Uniek aan deze geklede herenschoenen zijn de kleuraccenten in de stiksels en de tussenzool, de leren binnenzijde en de uitneembare foam binnenzool. Dit alles maakt dit tot uitermate comfortabele schoenen waar je de hele dag op kunt lopen. Je krijgt bij aankoop van een paar schoenen twee paar veters meegeleverd. Een set in de kleur van het suède en een set in de kleur van het stiksel en de tussenzool.
+
+Hoogwaardige kwaliteit
+De London Schoen van Travelin is voorzien van een klassieke zool met daaronder een dun rubberen loopvlak. Deze is slijtvast, isolerend en komt de grip ten goede bij zowel droog als nat weer. De schoenen zijn vervaardigd uit hoogwaardig gelooid leder. Leer looien is een ambachtelijke Portugese traditie die het leer een eigenzinnig karakter heeft.
+
+Kleuren lederen schoen
+Donkerblauw
+Donkerbruin
+Donkergrijs
+Cognac
+Taupe
+Kleuren suède schoen
+Lichtbruin
+Donkerbruin
+Donkerblauw
+Donkergrijs
+Taupe
+Lichtgrijs
+Lichtblauw
+Specificaties
+Bovenmateriaal: Geheel suéde of leder
+Binnenmateriaal: Leder
+Zool: Rubber
+Inlegzool: Uitneembaar foam en leder
+Maat: 40 t/m 50
+Met extra paar veters
+Stijlvolle schoenen hebben nog nooit zo lekker gezeten!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12505]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[164]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=a9be5dccf10e50c42641de7085032ec9&dl=travelin-london-herenschoenen-230517.html&ws=]]></link>
+						<price><![CDATA[69.95]]></price>
+						<price_old><![CDATA[159.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Travelin? London Herenschoenen]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-23 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[56]]></discount_percentage>
+						<discount_amount><![CDATA[90.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/t/r/travelin_london_hoofdafbeelding2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[723ea94af3cbd34e1ecc68b480bd71e3]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[7fab6e38c87e291046e52effb97631a6]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[TWEE Jersey Hoeslakens
+Beddengoed van goede kwaliteit draagt bij aan een goede nachtrust. Want zeg nou zelf: je slaapt toch ook het liefst op zachte en goed aanvoelende hoeslakens? Wij bieden je TWEE Jersey Hoeslakens van topkwaliteit aan vanaf ?9,95 ipv ?39,95!
+
+Je kunt kiezen uit vier verschillende maten:
+
+90 x 200 cm voor slechts ?9,95 ipv ?39,95
+140 x 200 cm voor slechts ?13,95 ipv ?59,95
+160/180 x 200 cm voor slechts ?15,95 ipv ?69,95
+190/200 x 200 cm voor slechts ?17,95 ipv ?79,95
+
+Verschillende kleuren
+Dit hoeslaken is voorzien van rondom elastiek en is geschikt voor matrassen tot 30 cm dik. Het hoeslaken ademt en absorbeert vocht. Ze zijn verkrijgbaar in het zwart, antraciet, grijs, zand, crème of wit. Keuze genoeg!
+
+Specificaties
+
+Materiaal: 70% katoen en 30% polyester-stretch
+Voor matrassen tot 30 cm dik
+Ventileert
+Strijkvrij
+Topkwaliteit!
+
+Slaap als een roosje!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12107]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[176]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=723ea94af3cbd34e1ecc68b480bd71e3&dl=twee-jersey-hoeslakens-240517.html&ws=]]></link>
+						<price><![CDATA[9.95]]></price>
+						<price_old><![CDATA[39.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[TWEE Jersey Hoeslakens]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-24 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[30.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/j/e/jersey_hoeslaken.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[5d0cda94cbabab90d0cada3aff350797]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[7bcdfa9cbdb4f2ef08aef97bc861e7a7]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-25 00:19:07]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[360° Protection Case iPhone
+Wat zijn ze mooi, die iPhone 5, 6 en 7. Veel te mooi om in een hoesje te stoppen. Om je gloednieuwe smartphone toch te beschermen tegen vallen en krassende objecten kies je voor deze 360° protection case. Dit ultradunne hoesje is nauwelijks aanwezig maar beschermt je iPhone toch volledig tegen stof, vuil en druppels water. De hoesjes voor Apple iPhone 5, 5S, SE, 6, 6S, 6+, 7 en 7+ worden geleverd met een screen protector van gehard glas. Nu voor ?5,95 ipv ?14,95!
+
+Compleet pakket
+De hoesjes zijn gemaakt van milieuvriendelijk hard polycarbonaat en zorgen er dankzij de stevige grip voor dat je smartphone nooit meer uit je handen glijdt. Geleverd met een screen protector van gehard glas, een reinigingsdoekje met alcohol en een schoonmaakdoekje.
+
+Verkrijgbaar in de kleuren zwart, zilver en goud.
+
+Prima protectie]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12565]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[396]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=5d0cda94cbabab90d0cada3aff350797&dl=360-protection-case-iphone-250517.html&ws=]]></link>
+						<price><![CDATA[5.95]]></price>
+						<price_old><![CDATA[14.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[360° Protection Case iPhone]]></title>
+						<price_shipping><![CDATA[1.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-25 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[60]]></discount_percentage>
+						<discount_amount><![CDATA[9.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/s/m/smartphonehoesjes_maart_hoofd_1_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[0f5921b8101d2803c4d80f3872cb2c33]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[9e054899694d2c7cabcee719eb7e96c3]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-22 00:19:06]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[MOA Design Wijnkoelkasten
+Van (dessert)wijn tot champagne of prosecco; al jouw alcoholische versnaperingen blijven op temperatuur in deze flitsende wijnkoelkast van MOA Design. Of je nu een horecagelegenheid hebt of graag feestjes geeft waar de nodige flessen genuttigd worden; jij serveert je drankjes voortaan lekker koel. De glazen duur en led-verlichting maken ?m de fancy eyecatcher in jouw keuken of bar. Je hebt nu al 24 (!) flessen koud staan voor maar ?219,95 ipv ?499.
+
+Voor alle wijn
+Deze wijnkoelkast, ook wel wijnklimaatkast of wijnkast genoemd, heeft een instelbare temperatuur. Doordat de delen van de koelkast afzonderlijk tussen de 11 en 18 graden ingesteld kunnen worden, kun je er niet alleen witte wijn in bewaren maar ook rode wijn.
+
+Wijnkoelkast BR65DD Dual
+DUAL zone uitvoering met 2 deuren
+Met touchscreen bediening
+Glazen zilveren deuren
+Wijnkoelkast BR65DD1 Single
+DUAL zone uitvoering met 1 deur
+Met touchscreen bediening
+Glazen antraciet zwarte deur
+Algemene specificaties
+Epi-star led-verlichting
+Led-display
+Horecakwaliteit met energielabel
+Glazen deur
+Laag geluidslevel: 25dB
+Temperatuur naar eigen voorkeur instellen: 11 ? 18 Celsius
+Instelbaar voet niveau
+Geen vibratie
+Touch screen bediening op de voorzijde van alle functies vanaf 18 flessen
+Afmetingen: 45 x 52,5 x 73 cm (b x d x h)
+Temperatuur boven- en onderkant apart instelbaar
+Proost!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12503]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[29]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=0f5921b8101d2803c4d80f3872cb2c33&dl=moa-design-wijnkoelkast-220517.html&ws=]]></link>
+						<price><![CDATA[219.95]]></price>
+						<price_old><![CDATA[499.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[MOA Design Wijnkoelkast]]></title>
+						<price_shipping><![CDATA[9.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-22 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-25 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[56]]></discount_percentage>
+						<discount_amount><![CDATA[279.05]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/w/i/wijnkoelkast_januari_hoofdafbeelding_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[74b9e9f3db021963f6bbb6911bb0b2b5]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[4b827a3bae2ebcd05bd95645014e591a]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-25 00:19:07]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Inzet Klemhorren
+Zomerseizoen? Insectenseizoen! De vliegen, wespen en muggen vliegen er weer vrolijk op los. Eindeloos gezoem en een lijf vol vervelende muggenbulten. Nu niet meer! Met deze handige horren die altijd passen houd jij insecten buiten de deur. De inzet klemhorren zijn erg geschikt voor draaikiepramen en draaikiepkozijnen en zijn erg makkelijk op maat te maken. Voor ?29,95 ipv ?89,95 ben jij verlost van rondvliegende beestjes in huis.
+
+Meer inzet klemhorren?
+
+Je ontvangt twee stuks voor slechts ?54,95 ipv ?179,95
+Je ontvangt vier stuks voor slechts ?99,95 ipv ?259,95
+
+Onmisbaar deze zomer
+De inzet klemhorren zijn bij uitstek geschikt voor draaikiepramen en erg makkelijk op maat te maken (maximaal 100 x 150 cm). Je klemt de hor simpelweg in de raamopening. Boren hoeft dus niet! Het raam kan met de aanwezige hor moeiteloos geopend en gesloten worden. Onmisbaar voor aankomende zomer.
+
+Specificaties
+Afmetingen: 100 x 150 cm
+Hoogte en breedte eenvoudig op maat te maken
+Geschikt voor draaikiepramen
+Geschikt voor draaikiepkozijnen in hout, kunststof en aluminum
+In het kozijn te monteren, zonder boren
+Eenvoudig te verwijderen en te herplaatsen
+Het pakket bestaat uit losse onderdelen
+Makkelijk op maat te maken voor grote en kleine ramen
+
+Weg met die muggen!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12542]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[396]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=74b9e9f3db021963f6bbb6911bb0b2b5&dl=inzetklemhorren-250517.html&ws=]]></link>
+						<price><![CDATA[29.95]]></price>
+						<price_old><![CDATA[89.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Inzet Klemhorren]]></title>
+						<price_shipping><![CDATA[9.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-25 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[67]]></discount_percentage>
+						<discount_amount><![CDATA[60.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/i/n/inzethorren_mei_hoofd_v3.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[68ef1271b63a34d2bef37c055c2e4416]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[32c9fe2fbf02599a509fd93d99eb92fc]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-25 00:19:07]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Valencia Tuinstoel
+Lekker in de zon met een drankje in de hand. Een heerlijk vooruitzicht, zeker als je weet dat dit de komende maanden vaker voor zal komen. Er optimaal van genieten kan natuurlijk alleen in een fijne en comfortabele stoel. Tuinstoel Valencia is dan dé stoel waar jij heerlijk op kunt relaxen! Een boekje lezen, zonnen of met vrienden borrelen in de tuin, deze stoel is voor elke gelegenheid. En je kunt ?m ook nog eens als stoel voor in huis gebruiken. Kies jouw favoriete kleur en voor slechts ?54,95 ipv ?149,95 staat hij al op je terras of in je tuin.
+
+Topkwaliteit
+Het design van de Valencia tuinstoel is zeer onderscheidend ten opzichte van andere tuinstoelen vanwege de webstructuur, waardoor je erg comfortabel zit. Hij is stevig, stapelbaar en UV- en regenbestendig. Omdat de stoel uit één stuk gegoten is kent hij een goede stabiliteit. Dit komt daarnaast vanwege de kuipzitting met dikke rand. Met gemak kan hij 200+ kg dragen! De opening die in de hoeken van de zitting is opgenomen zorgt ervoor dat de stoel stapelbaar is. Ideaal om gemakkelijk op te bergen.
+
+Materiaal
+De Valencia tuinstoel is gefabriceerd uit hard kunststof (PP = polypropuleen) met een beetje Fiberglass. Deze combinatie zorgt voor een chique en matte look. Hij staat werkelijk als een huis, is onwrikbaar en paalvast. De poten van dit model zijn eveneens van hard kunststof en uit één stuk verbonden met de zitting.
+
+In de kleuren:
+Wit
+Zwart
+Rood
+Oranje
+Lime groen
+Antraciet
+Champagne
+Specificaties:
+Breedte: 57 cm
+Diepte: 60 cm
+Hoogte: 81 cm
+Zithoogte: 44 cm
+UV maar ook luchtvochtigheidbestendig
+Materiaal Polypropyleen met een klein beetje Fiberglass
+Gewicht stoel 3,8 kg
+Laat het zomerweer maar komen!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12510]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[116]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=68ef1271b63a34d2bef37c055c2e4416&dl=valencia-tuinstoel-250517.html&ws=]]></link>
+						<price><![CDATA[54.95]]></price>
+						<price_old><![CDATA[149.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Valencia Tuinstoel]]></title>
+						<price_shipping><![CDATA[9.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-25 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[63]]></discount_percentage>
+						<discount_amount><![CDATA[95.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/v/a/valencia_tuinstoel_hoofdafbeelding.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[4d35ea037f07b56c8bbd1ad61d848e15]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[52a851dde2c853ca505151e492406a61]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-22 00:19:06]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Eco Solar Flat Light
+Zorg dat er altijd een lichtje brand in jouw tuin of op jouw oprit, zonder dat je energierekening omhoog gaat. Hoe? Door over te stappen op buitenverlichting die werkt op zonne-energie! Deze milieuvriendelijke Eco Solar Flat Lights voorzien je buitenplek van licht zonder gebruik van batterijen of andere bedrading. Bewegingsdetectie zorgt ervoor dat de led-buitenlamp aangaat als de zon onder gaat, en feller wordt bij beweging (max 5 meter afstand). Dit is niet alleen fijn wanneer je zelf thuiskomt, maar het schrikt ook ongenodigde gasten af. Je hebt nu al een van deze superdunne milieuvriendelijke lampen in jouw tuin hangen voor ?17,95 ipv ?79,95. Wil je meer Flat Lights? Je hebt er nu 2 voor ?29,95.
+
+Ultradun
+Het unieke aan deze lampen is dat ze extreem dun zijn, namelijk maar 1 cm! Hierdoor heb je wel het licht dat je nodig hebt, zonder een hinderlijk grote tuinlamp.
+
+Smart lighting mode met dag-, nacht- en bewegingssensor
+Deze Solar Flat Lights zijn voorzien van een smart lighting mode. Dit zorgt ervoor dat het licht tijdens de nacht 50% is en wanneer er beweging wordt gedetecteerd het licht voor 30 seconden naar 100% wordt bijgesteld. Hierdoor worden ongenodigde gasten ontmoedigd om door jouw tuin in te sluipen. Daarnaast zorgt deze mode ervoor dat de lamp automatisch aan gaat wanneer het donker is en uit gaat wanneer het licht wordt. Wanneer de lamp volledig is opgeladen (door middel van zonne-energie) kan deze circa 10 tot 12 uur volledig branden. Tevens is deze lamp is bestand tegen water, hitte en corrosie.
+
+Specificaties
+36 High Power SMD led?s
+Kleur lamp: zilver
+Dag en nacht sensor
+3W power
+Ingebouwde bewegingssensor (Detectiehoek: 90 graden)
+Dimfunctie wanneer er geen beweging is
+Li-ion batterij van 2000 MAH
+XL solar panel van 6,5V
+Lumen: 40 Low - 180 High
+Lamp brandt 10-12  uur
+Laadt op in 8 uur
+Formaat: 19 x 11 x 1 cm
+De perfecte buitenlamp]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12493]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[231]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=4d35ea037f07b56c8bbd1ad61d848e15&dl=eco-solar-flat-light-220517.html&ws=]]></link>
+						<price><![CDATA[17.95]]></price>
+						<price_old><![CDATA[79.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Solar Flat Light]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-22 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-25 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[78]]></discount_percentage>
+						<discount_amount><![CDATA[62.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/f/l/flat_light_hoofdafbeelding4_1_2.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[d75a15a3a3c87c7d717e497d83c2ff81]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[a2445083a86b0c2e27cf450f03952062]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Slimjoy Maandpakket
+Wil je snel, gezond en blijvend afvallen? Slimjoy is dé afslankshake die je overtollige kilo's snel doet verdwijnen. Bovendien biedt Slimjoy gratis persoonlijke online begeleiding van professionele coaches, zodat je maximaal resultaat behaalt. Je hebt nu een maandpakket van deze ontzettend populaire en ongekend hooggewaardeerde afslankshake voor slechts ?39,95 ipv ?100! De vorige deals waren uitverkocht, mis het deze keer niet.
+
+Al het goeds op een rijtje
+
+Door onafhankelijke consumenten beoordeelt tot beste afslankproduct van Nederland: Klantenscore: 9,7 (via klantenvertellen.nl)
+Slimjoy is momenteel het bestverkochte afslankproduct in Nederland
+Val tot wel 8 tot 10 kilo per maand af (resultaten verschillen per persoon)
+Dankzij de unieke en complete formule val je met de Slimjoy shakes snel af op een gezonde manier
+Met slechts 46 kcal per shake is Slimjoy de afslankshake met veruit het laagste caloriegehalte op de markt
+Slimjoy bevat enkel kwalitatief hoogwaardige ingrediënten (25 verschillende natuurlijke werkzame stoffen) die goed zijn voor je gezondheid
+Slimjoy is de enige complete afslankshake vol met essentiële voedingsstoffen die je lichaam nodig heeft
+Geschikt voor zowel mannen als vrouwen
+Geadviseerd door veel medici en dieet goeroe?s
+
+Inhoud maandpakket
+
+2 smaken shakes naar keuze van de 4 beschikbare smaken (banaan, aardbei, chocolade, vanille)
+Gratis design shaker met speciaal compartiment
+Gratis begeleiding en advies van je e-coach
+Inclusief handboekje met alle benodigde informatie
+Nu ook met gratis receptenboekje
+
+Wat zit er in?
+De inhoud van deze zorgvuldig samengestelde shakes bestaat uit hoogwaardige eiwitten, vezels, vitamines, mineralen en antioxidanten. Zo krijgt je lichaam belangrijke voedingsstoffen binnen terwijl je tegelijk niet veel last hebt van een hongergevoel. Voor meer informatie zie ook de site van Slimjoy.
+
+Zorg voor een gezond gewicht]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12548]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[398]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=d75a15a3a3c87c7d717e497d83c2ff81&dl=slimjoy-maandpakket-240517.html&ws=]]></link>
+						<price><![CDATA[39.95]]></price>
+						<price_old><![CDATA[100.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Slimjoy Maandpakket]]></title>
+						<price_shipping><![CDATA[4.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-24 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[60]]></discount_percentage>
+						<discount_amount><![CDATA[60.05]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/s/l/slimjoy_2_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[63092ac8cf70038b75de844331fdb7c8]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[c4ef306265c654dccc355f7a0968940b]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[iPhone 5s 16 of 32 GB Refurbished
+Iedereen die er eentje heeft of heeft gehad die weet het; een iPhone is fijn in gebruik. Duidelijk, makkelijk en met een mooi design. Niet voor niets is het één van de meest gewilde telefoons ter wereld. Het enige nadeel is eigenlijk de prijs van een los toestel, die ligt nogal hoog. Toch is het wel fijn om een los toestel te hebben, bijvoorbeeld in combinatie met een geld besparend SIM-only abonnement of als back-up telefoon. Wij hebben nu de perfecte oplossing voor je gevonden! Een refurbished iPhone 5s 16 GB en 32 GB in space grey, silver of gold vanaf ?199,95 ipv ?309 inclusief 1 jaar garantie en (niet originele) accessoires.
+
+iPhone 5s 16 GB space grey, silver of gold voor ?189,95 ipv ?309
+iPhone 5s 32 GB space grey, silver of gold voor ?219,95 ipv ?649,95
+
+Een compleet toestel
+De iPhone 5s is zo mogelijk nog completer en geraffineerder dan zijn voorganger, de iPhone 5. Zo beschikt de uit aluminium opgetrokken iPhone 5s over Touch ID, een vingerafdruksensor die het toestel beschermt tegen ongeoorloofd gebruik door anderen. Daarnaast zorgt de 64-bits A7-chip voor nog meer snelheid tijdens alles wat je met de iPhone 5s doet. Foto- en videoliefhebbers kunnen daarnaast hun hart ophalen aan de vernieuwde iSight-camera die dankzij zijn grotere sensor en groter diafragma nog mooiere foto?s maakt. Het 4-inch Retina-display geeft haarscherp beeld.
+
+Specificaties
+Type simkaart: Nano-SIM
+Opslaggeheugen: 16 GB of 32 GB
+Werkgeheugen 1024 MB
+Gewicht: 112 gram
+Besturingssysteem: iOS
+Versie besturingssysteem: iOS 10
+Afmeting: 124x59x8 mm
+Beeldiagonaal: 4 inch
+Schermresolutie: 1136x640 pixels
+Invoermethode: Touchscreen
+Schermtype: ips-LCD
+Aantal processorcores: Dual Core
+Aantal SIMs: Single
+Cameraresolutie (achter): 8MP
+Cameraresolutie (voor): 1,2MP
+Camera autofocus
+Resolutie video-opname: 1080p
+Mobiele netwerken: edge, gprs, hsdpa, hsupa, umts
+Frequentiebereik (mobiel): 850MHz, 900MHz, 1800MHz , 1900MHz , 2100MHz
+Verbinding (wlan): 802.11a, 802.11b, 802.11g, 802.11n
+Bluetooth-versie: BT 4.0
+Audioconnector: 3.5mm
+Berichten: E-mail, mms, sms
+Afspeelmogelijkheden: Audio, Video
+GPS
+Gsm-functies: A2DP, Bewegingssensor, Kompas, Radio headset, Tril, Voicerecorder
+Gesprekstijd: 600 minuten
+Stand-by-tijd: 250 uur
+Accucapaciteit: 1.560mAh
+Accutype: Li-Ion
+Gewicht (gram): 112g
+Refurbished iPhones
+De iPhone 5s refurbished is een streng gereviseerde, tweedehands iPhone. Een iPhone in deze staat is een normaal gebruikte iPhone die alleen lichte oppervlakkige gebruikssporen heeft. De toestellen zijn volledig getest, gereinigd, gecontroleerd en geconfigureerd. Na deze controle wordt alle mogelijke vuil en data professioneel verwijderd. Daarnaast zijn ze standaard voorzien van 1 jaar garantie.
+
+Kwaliteit voor een stuntprijs]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12533]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[39]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=63092ac8cf70038b75de844331fdb7c8&dl=iphone-5s-16-32-of-64-gb-refurbished-240517.html&ws=]]></link>
+						<price><![CDATA[189.95]]></price>
+						<price_old><![CDATA[309.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[iPhone 5s Refurbished]]></title>
+						<price_shipping><![CDATA[6.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-24 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[39]]></discount_percentage>
+						<discount_amount><![CDATA[119.05]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/i/p/iphone_5s_maart_hoofd_v2_1_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[da6f3170388a3c73f8e4dfa49c2b74bb]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[2f788b1a3c8ccf25e9a29702e06fdc4c]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-23 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Loungeset Voor Buiten
+Eindelijk, de zomer komt eraan! Heerlijk, die eerste momenten in de tuin. Maar? dan heb je wel een fijne plek nodig om ultiem te kunnen relaxen. Waar kan dat beter dan op een ruime loungeset van GroupDeal? Met hocker, met ruime stoelen of met een complete eettafel; reken maar dat jouw ideale tuinset hierbij zit. Vanaf ?449 ipv ?999 zit jij eerste rang in de zon. Genieten maar!
+
+Alle sets zijn gemaakt van een stalen frame en PE-Rattan. Ideaal voor buitengebruik, want dit weer- en waterbestendige materiaal is heel makkelijk schoon te houden.
+
+Loungeset Dynamic
+Voor slechts ?449 ipv ?999 heb je de Dynamic loungeset al in je tuin staan! Een handige set voor iedereen die graag varieert in de tuin. Je kunt de bank en twee stoelen neerzetten hoe je zelf wilt. De set wordt geleverd met antraciet kussens van 10 cm dik en het tafelblad is voorzien van 5 mm dik extra sterk glas (tempered glass).
+
+2-zitsbank met leuningen (145x74x68 cm)
+2 fauteuils met leuningen (74x74x68 cm)
+1 salontafel (100x50x43 cm)
+Loungeset Advanced
+Deze ruime hoekbank met antraciet kussens is voor ?599 ipv ?1199 helemaal van jou. Genoeg ruimte om met meerdere mensen op te zitten of languit op te liggen. De kussens zijn 10 cm dik en het tafelblad is voorzien van 5 mm dik extra sterk glas (tempered glass).
+
+Hoekbank 2 keer 2-zits (146x76x68 cm) en 1 keer hoekzit (76x76x68 cm)
+1 salontafel (64x64x43 cm)
+
+Loungeset Roundy
+Deze ronde hoekbank heeft net iets meer ruimte dan een standaard hoekbank en is voor ?699 ipv ?1699 het hoogtepunt van jouw terras. Met extra hocker voor nóg meer zitplek. De ivory kussens zijn 10 cm dik en het tafelblad is voorzien van 5 mm dik extra sterk glas (tempered glass).
+
+Ronde hoekbank 2 keer 1-zit (73x76x68 cm), 2 keer 1 middenzit (68x76 cm) en 1 ronde hoekzitting (160x76x68 cm)
+1 hocker met zitting (64x64x43 cm)
+1 salontafel (64x64x43 cm)
+Loungeset Biglife
+Wie compleet wil relaxen gaat voor deze Biglife loungeset. Dankzij de losse hocker kun je op alle mogelijke manieren languit van het lekkere weer genieten, en ook voor je visite is genoeg plek met deze set. De ivory kussens zijn 10 cm dik en het tafelblad is voorzien van 5 mm dik extra sterk glas (tempered glass). Nu voor ?799 ipv ?1499.
+
+Hoekbank 2 keer 2-zits (73x76x68 cm), 1 keer middenzit (68x76x68 cm) en 1 keer hoekzit (76x76x68 cm)
+1 fauteuil met leuning (74x74x68 cm)
+1 salontafel (64x64x43 cm)
+1 x hocker met kussen (64x64x43 cm)
+
+Loungeset Exquisit
+Zitten, loungen en zelfs een hapje eten: het kan allemaal met deze Exquisit loungeset bestaande uit acht onderdelen. Een losse tuinset met eettafel is niet meer nodig! De kussens zijn 10 cm dik en het tafelblad is voorzien van 5 mm dik extra sterk glas (tempered glass). Nu voor ?799 ipv ?1999.
+
+Hoekbank 2 keer 2-zits (146x76x68 cm), 1 keer middenzit (68x76x68 cm) en 1 keer hoekzit (76x76x68 cm)
+3 keer een losse ottoman (40x40x38 cm)
+1 eettafel (150x90x70 cm)
+
+Van welke set geniet jij komende zomer?]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12496]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[26]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=da6f3170388a3c73f8e4dfa49c2b74bb&dl=loungeset-voor-buiten-230517.html&ws=]]></link>
+						<price><![CDATA[449.00]]></price>
+						<price_old><![CDATA[999.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Loungeset Voor Buiten]]></title>
+						<price_shipping><![CDATA[49.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-23 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[55]]></discount_percentage>
+						<discount_amount><![CDATA[550.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/l/o/loungeset_februari_hoofd_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[a8df3aa04b47afdd68213504638fde2f]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[90d51f89c606323c6d1e527eb5321151]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-23 00:19:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:19:07]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Fruit of the Loom T-shirts
+Het meest gedragen kledingstuk? Een basic T-shirt natuurlijk! Onder een nette colbert, blouse of trui of gewoon zo boven een spijkerbroek of short: een eenvoudig wit of zwart T-shirt kan altijd. Je scoort nu maar liefst 12 witte T-shirts met een ronde hals voor ?29,95 ipv ?119,95, 12 witte v-hals T-shirts voor ?34,95 ipv ?139,90 of 12 zwarte T-shirts met een ronde hals voor ?35,95 ipv ?144,95.
+
+Supershirts
+Het Amerikaanse merk Fruit of the Loom houdt zich al sinds 1851 bezig met kwaliteitstextiel en weet als geen ander hoe je comfortabel dragende basics moet maken. Hun T-shirts zijn gemaakt van stevig 100% katoen (160 gram) en blijven ontzettend lang mooi, hoe vaak je ze ook draagt en wast. Met deze stuntdeal zit je voor het komende jaar goed wat je basisgarderobe betreft. De T-shirts zijn verkrijgbaar in maat S, M, L, XL en XXL.
+
+Onmisbare T-shirts voor een niet te missen prijs!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12546]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[138]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=a8df3aa04b47afdd68213504638fde2f&dl=fruit-of-the-loom-t-shirts-230517.html&ws=]]></link>
+						<price><![CDATA[29.95]]></price>
+						<price_old><![CDATA[119.95]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[12 Fruit of the Loom T-shirts]]></title>
+						<price_shipping><![CDATA[5.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-23 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[75]]></discount_percentage>
+						<discount_amount><![CDATA[90.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/f/o/fotl_tshirts.jpeg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[6f878db39fd33b1f166a09c5128c0e2a]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[be8f29ad93bf9e307cd478eae2d055dc]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-25 00:19:07]]></insert_date>
+						<update_date></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[8 mm dikke laminaatvloeren!
+Een goede vloer is natuurlijk een essentieel onderdeel in ieder huis. Zonder een goede vloer kunnen zich veel problemen voordoen die we je liever besparen! Wij helpen jou graag een handje door je dit kwaliteitslaminaat aan te bieden tegen superprijzen! Je hebt al een vloer van dit kwaliteitslaminaat vanaf ?8,95 ipv ?26,95 per m2!
+
+Stevig Laminaat 8 mm
+Het laminaat is 8mm dik en daardoor zijn alle aangeboden types geschikt voor zware belasting. Het gaat hier om 100% Duits fabricaat. De speciaal ontwikkelde toplaag zorgt voor een prachtig structuur en uitstralingen dankzij de natuurlijke hout effect structuur van het laminaat is jouw nieuwe vloer amper van echt hout te onderscheiden. De delen zijn rondom afgewerkt met een mooie 4-zijdige vellingkant voor een extra chique uitstraling. Het laminaat is zelfs geschikt voor vloerverwarming! Het is makkelijk zelf te leggen door het Twin Clic-systeem en is zeer stevig. Dit laminaat is klasse 32 (hevig thuisgebruik en normaal commercieel gebruik), dus over stevigheid hoef je jouw in ieder geval geen zorgen te maken!
+
+Afmetingen
+Lengte: 1285 mm
+Breedte: 193 mm
+Dikte: 8,00 mm
+Kleuren/designs 8 mm
+Chene Gris Clair
+Chene Baltique
+Chene Khaki
+Chene Antik
+Chene Ardois
+Chene Bronze
+Prijzen en m2 8 mm
+11,10 m2 (5 pakken) voor ?99,35
+15,54 m2 (7 pakken) voor ?139,08
+19,98 m2 (9 pakken) voor ?178,82
+24,42 m2 (11 pakken) voor ?218,56
+28,86 m2 (13 pakken) voor ?258,30
+33,30 m2 (15 pakken) voor ?298,04
+37,74 m2 (17 pakken) voor ?337,77
+42,18 m2 (19 pakken) voor ?377,51
+46,62 m2 (21 pakken) voor ?417,25
+51,06 m2 (23 pakken) voor ?456,99
+55,50 m2 (25 pakken) voor ?496,73
+59,94 m2 (27 pakken) voor ?536,46
+64,38 m2 (29 pakken) voor ?576,20
+68,82 m2 (31 pakken) voor ?615,94
+73,26 m2 (33 pakken) voor ?655,68
+77,70 m2 (35 pakken) voor ?695,42
+82,14 m2 (37 pakken) voor ?735,15
+86,58 m2 (39 pakken) voor ?774,89
+91,02 m2 (41 pakken) voor ?814,63
+95,46 m2 (43 pakken) voor ?854,37
+99,90 m2 (45 pakken) voor ?894,11
+Staat de gewenste optie niet meer in het optiemenu? Dan is deze uitverkocht!
+
+Ondervloer
+Een ondervloer is van groot belang bij het plaatsen van een laminaatvloer, het heeft een grote invloed op de uiteindelijke aanblik, kwaliteit en comfort van je vloer. Je kunt kiezen uit de volgende ondervloeren:
+Alufoam: Geluids- en warmte isolatie. 1 rol (15 m2) voor ?19,95 ipv ?39,95
+Isoboard: Geluids- en warmte isolatie. 1 rol (10 m2) voor ?29,95 ipv ?59,95
+Isoheat: Ideaal voor vloerverwarming. 1 rol (17,5 m2) voor ?49,95 ipv ?99,95
+Plinten
+Jouw vloer is natuurlijk pas helemaal  compleet met plinten. Je hebt nu de mogelijkheid om bij je laminaat bijpassende plakplinten te bestellen, wel zo handig! Je hebt nu al een pak met 5 plinten voor ?17,95 ipv ?39,95!
+
+Hoeveel plinten?
+Iedere plint is 240 cm lang. Om het aantal benodigde plinten uit te rekenen, kun je de volgende rekensom gebruiken; Aantal benodigde plinten = oppervlakte x 1,25 : 2,4
+
+Deze vloeren vegen de vloer aan met de concurrentie!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[12539]]></sku>
+						<in_stock><![CDATA[true]]></in_stock>
+						<in_stock_amount><![CDATA[90]]></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6104&li=1482794&pid=6f878db39fd33b1f166a09c5128c0e2a&dl=laminaat-8mm-250517.html&ws=]]></link>
+						<price><![CDATA[99.35]]></price>
+						<price_old><![CDATA[299.15]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Laminaatvloer]]></title>
+						<price_shipping><![CDATA[34.95]]></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start><![CDATA[2017-05-25 00:00:00]]></offer_datetime_start>
+						<offer_datetime_end><![CDATA[2017-05-26 23:59:59]]></offer_datetime_end>
+						<discount_percentage><![CDATA[67]]></discount_percentage>
+						<discount_amount><![CDATA[199.80]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://static.groupdeal.nl/media/catalog/product/cache/9/image/0dc2d03fe217f8c83829496872af24a0/l/a/laminaat_8mm_april_hoofd_1_1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+			</products>
+		</program>
+		<program>
+			<program_info>
+				<id><![CDATA[6411]]></id>
+				<name><![CDATA[Voordeeluitjes - Kampioen hotelarrangementen]]></name>
+				<currency><![CDATA[EUR]]></currency>
+				<currency_symbol><![CDATA[€]]></currency_symbol>
+				<product_count><![CDATA[11]]></product_count>
+				<last_modified></last_modified>
+				<daisycon_unique_id_since><![CDATA[2016-09-15 14:35:10]]></daisycon_unique_id_since>
+				<daisycon_unique_id_modified><![CDATA[true]]></daisycon_unique_id_modified>
+			</program_info>
+			<products>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[444cd20a541ce6d3e0432208ce042982]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[6147af63ae82c04ada40b6284c051d1d]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-18 00:03:05]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Slothotel Igesz ligt in het hart van Schagen èn in het hart van Noord-Holland, centraal tussen Alkmaar en Den Helder en met Amsterdam op een uurtje afstand. Het gezellige Schagen biedt u een veelzijdig weekendje weg. Stap op de fiets en maak een heerlijke fietstocht door de oer-Hollandse landschappen van Noord-Holland. Of struint u liever door de sfeervolle straatjes van Alkmaar en Schagen?
+
+Het 4-sterrenhotel is gevestigd in twee prachtige bouwwerken. Het hoofgebouw Igesz is gelegen aan de gezellige Markt van Schagen. Hier bevinden zich de hotelreceptie, het restaurant, de bar en de standaard hotelkamers. De dependance, Slot Schagen, is gelegen achter Igesz. Dit prachtige nieuwgebouwde Slot heeft een mooie Ridderzaal en op de bovengelegen etages bevinden zich de luxe hotelkamers. De West-Friese gastvrijheid schrijven we hier met hoofdletters. Het bewijs vindt u onder meer in het à la carte-restaurant; daar serveert de chef-kok met zijn keukenteam de meest verrassende heerlijkheden. Wilt u de omgeving per fiets ontdekken? Huur dan een fiets bij de receptie. Uw eigen fietsen kunt u stallen in de overdekte en afgesloten fietsenstalling. Ook is er een oplaadpunt voor de elektrische fiets. Overige faciliteiten van Slothotel Igesz zijn een terras, tuin, lift en een wasserij en stomerij service.
+
+Kom naar het Noord-Hollandse plaatsje Schagen en laat u onderdompelen in historie en gezelligheid. De omgeving is tevens wonderschoon en biedt u vele uitstapjes. Kijk bij ?Beschikbaarheid &amp; prijzen? voor voordelige hotelarrangementen bij Slothotel Igesz met onder andere een 2-gangendiner en een informatiepakket met fietsroutes en een stadswandeling.
+
+De hotelkamers van Slothotel Igesz zijn standaard voorzien van twee aparte bedden, een televisie, schrijftafel, radio, een zitje met twee stoelen en een moderne badkamer met douche/bad en toilet. Mindervalidenkamers zijn niet aanwezig.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[1958]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=444cd20a541ce6d3e0432208ce042982&dl=hotel%2Fslothotel-igesz%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-verrassend-schagen-arrangement&ws=]]></link>
+						<price><![CDATA[89.00]]></price>
+						<price_old><![CDATA[123.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[3-daags Verrassend Schagen arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[27]]></discount_percentage>
+						<discount_amount><![CDATA[34.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/44818_71e277dcb83278c7635b1de0f517bab4.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/44821_36682d805eda7eecef64105cf6569e59.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/45830_0042d9ff649f8444550d4ce184c68e07.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[f20f7066b358d1a2f8b619c50d52001d]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[e9edf7ed1aa6662ba87fd51c670458ff]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:10:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Het 4-sterren Postillion Hotel Deventer heeft een ideale ligging voor een heerlijk weekendje weg naar de Overijsselse Hanzestad Deventer. Het centrum ligt op vijf autominuten van het hotel. Bovendien is deze accommodatie een prima uitvalsbasis voor het maken van leuke fiets- of wandeltochten door de prachtige, omliggende natuurgebieden.
+
+Het hotel bevindt zich vlak bij rivier de IJssel. Heerlijk wandelen kunt u hier, langs het water. Geniet ook vooral van de skyline, waarin de Grote kerk van Deventer een prominente plaats inneemt. Of fiets op uw gemakje richting centrum op een (gehuurde) tweewieler van het hotel.
+
+Voor een heerlijk diner na een drukke dag kunt u terecht in restaurant, waar u kunt smullen van de veelzijdige keuken. Overige faciliteiten hier zijn een lift, een stijlvolle lounge, een 24-uursreceptie en een fijn buitenterras tussen het groen. Het hotel heeft een gratis parkeerplaats en het vraagt geen vergoeding voor het gebruik van draadloos internet. Uw huisdier is welkom bij Postillion Hotel Deventer.
+
+Bent u nieuwsgierig naar Deventer en omgeving? Kijk snel bij &#39;Beschikbaarheid en prijzen&#39; voor onze voordeligste en leukste hotelarrangementen.
+
+De hotelkamers van Postillion Hotel Deventer zijn voorzien van televisie, een bureau, gratis WiFi en een badkamer met toilet, wastafel en een douche. U kunt kiezen uit 2 typen kamers; standaard of comfort. Kamers voor mindervaliden zijn hier niet beschikbaar.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[9157]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=f20f7066b358d1a2f8b619c50d52001d&dl=hotel%2Fpostillion-hotel-deventer%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-volop-voordeel-arrangement-6&ws=]]></link>
+						<price><![CDATA[44.50]]></price>
+						<price_old><![CDATA[62.50]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Postillion Hotels 3-daags Volop Voordeel arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[28]]></discount_percentage>
+						<discount_amount><![CDATA[18.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/6710_90b6c323acfc057dc51123b9811bf2fd.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/10986_f0ef3b0860e0b16cd27b3c9758462af6.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/12128_08e535e40bdbbbc6a73de452445466de.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[5592928287a69a1fd094798d5cf27e9a]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[2b16ea73cf9ae8adb53bd9fc678542b8]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:10:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Mercure Hotel Blankenberge is een gloednieuw hotel (2017) en ligt in het hart van Blankenberge op slechts 500 meter van zee. Neem een duik in het panoramische zwembad op het dak, geniet in de bar van een ?Grand Vin de Mercure? of wandel naar het uitgestrekte zandstrand aan de Noordzee. Mercure Blankenberge is perfect voor een weekendje aan zee!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[14887]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=5592928287a69a1fd094798d5cf27e9a&dl=hotel%2Fmercure-hotel-blankenberge%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-belgische-kust-arrangement-2&ws=]]></link>
+						<price><![CDATA[93.00]]></price>
+						<price_old><![CDATA[129.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Accor 3-daags Belgische Kust arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[27]]></discount_percentage>
+						<discount_amount><![CDATA[36.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/61074_aae07e3469757c93618ea4d72f8def95.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/61083_73909e1d05e8bfe739ceb056d53c6806.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/61084_1f1b05f183927d0e9d36d08ce2fe402a.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[1c66b5abdd73ef2b6b3f299841406e6d]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[fb0d9d0561983a0d5b7824a517a27444]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:10:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Het 3-sterren Hampshire Hotel - Plaza Groningen is een designhotel gelegen aan het Hoornse Meer, waar u naar hartenlust urenlang kunt fietsen of wandelen. Met het bruisende centrum van Groningen op slechts vijf autominuten van het hotel, heeft u naast natuur ook de stad binnen handbereik. Deze accommodatie is uitstekend bereikbaar, zowel per auto, openbaar vervoer als met de shuttle service. Verken de hoofdstad van de meest noordelijke provincie vanuit deze mooi gelegen uitvalsbasis. Natuurgebied het Hoornse Meer ligt pal naast de deur; huur een fiets bij het hotel en laat u verrassen door het omliggende Groningse landschap.
+ ]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[2652]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=1c66b5abdd73ef2b6b3f299841406e6d&dl=hotel%2Fhampshire-hotel-plaza-groningen%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-welkom-groningen-arrangement&ws=]]></link>
+						<price><![CDATA[75.00]]></price>
+						<price_old><![CDATA[115.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Hampshire hotels 3-daags Welkom in Groningen arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[34]]></discount_percentage>
+						<discount_amount><![CDATA[40.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/1552_0dd70254e1a920c58cc757ad92e5d32a.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/4857_c4404f505f1a96d1f840ff3cba5a4396.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/4859_e482f0e84b58487df360d4b8c525deeb.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[205ec01158a50f4026c33520d85a84a4]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[fdecb1cfd5d36ad299e73d2c3fd89286]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:10:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Midden in het Limburgse heuvellandschap, tussen Gulpen, Heerlen en Aken, ligt het sfeervolle en kleinschalige Hotel de Linde. Het hotel staat aan de rand van Vijlen, het hoogst gelegen kerkdorp van Nederland. Vanaf dit hoogste punt heeft u een prachtig uitzicht op het Vijlener bos en de Duitse Sneeuwberg. Deze locatie biedt vele uitstapmogelijkheden in alle richtingen.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[8419]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=205ec01158a50f4026c33520d85a84a4&dl=hotel%2Fhotel-linde%3Faction%3Dactie-de-dag%23arrangementen%2F3-2-zuid-limburg-arrangement&ws=]]></link>
+						<price><![CDATA[127.50]]></price>
+						<price_old><![CDATA[174.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Geen keten 3=2 Zuid-Limburg arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[26]]></discount_percentage>
+						<discount_amount><![CDATA[46.50]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/4714_71354659d25a313f700e5fe0778a4de2.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/4715_b02663ae766fb4a394242c96b4016ac6.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/16278_4d158ce483b8bc1a29010846e994b2dd.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[8c33c1ba1205b6486023d378f7c7e450]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[46c6a143cc236ed050bbba87b0fdc8f3]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2016-12-03 00:02:06]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Het traditionele Hotel Bad Bentheim Bentheimer Hof, gelegen in het gemütliche en idyllische burchtstadje Bad Bentheim vlak over de grens bij Oldenzaal, heeft een bijzondere sfeer. Bad Bentheim is een van die schaarse Duitse bergstadjes waar het rijke verleden geweldig bewaard is gebleven. Die geschiedenis beleeft u tijdens een wandeling door oude, smalle straatjes en steegjes en  langs de vele karakteristieke huizen.
+
+Het gastvrije hotel staat op een schilderachtige plek tegen het Bentheimer Woud en is een perfecte uitvalsbasis voor excursies en uitstapjes, dankzij de vele kastelen en forten. Bij Hotel Bad Bentheim Bentheimer Hof zijn fietsen te huur, zodat u deze prachtige omgeving met lieflijke riviertjes, groene bossen en oude kastelen kunt ontdekken. Zelf meegebrachte fietsen kunt u hier overdekt stallen en eventueel opladen.
+
+Hotel Bad Bentheim Bentheimer Hof is gevestigd in het oude station en heeft een eigen restaurant met een uitgebreide wijnkaart met een uitstekende selectie Duitse en internationale wijnen. Op het charmante zonneterras, direct tegen de rand van het woud, kunt u op zonnige dagen genieten van bier van het vat, koffie met gebak en heerlijke specialiteiten uit eigen keuken. Bad Bentheim heeft een eigen treinstation, waar ook internationale treinen stoppen. Op loopafstand van het hotel ligt thermaal bad &#39;Bentheimer Mineral Therme&#39; waar u (tegen betaling) kunt ontspannen.
+
+Kijk onder ?Beschikbaarheid en prijzen? voor de leukste arrangementen tegen de laagste prijsgarantie en kom op bezoek in deze prachtige Duitse grensstreek.
+
+Alle hotelkamers van Hotel Bad Bentheim Bentheimer Hof zijn stijlvol klassiek en romantisch, gezellig ingericht in koloniale stijl en uitgerust met teakhouten meubelen.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[7455]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=8c33c1ba1205b6486023d378f7c7e450&dl=hotel%2Fhotel-bad-bentheim-bentheimer-hof%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-heerlijk-bentheim-arrangement&ws=]]></link>
+						<price><![CDATA[84.00]]></price>
+						<price_old><![CDATA[129.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[3-daags Heerlijk Bentheim arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[34]]></discount_percentage>
+						<discount_amount><![CDATA[45.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/2361_2eaa3ae27fb15cf28a2884fe9ea592e0.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/2362_68374da42ef4e58be64eb8f263a5269a.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/16646_a3e21e172a3cea6cecefee39cd24023f.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[3a7287260e66945178715a20b3a4f2a3]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[18ddd9196d7ccbb956c31f17564b5c46]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-24 00:10:07]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Wilt u lekker wegdromen op het Drentse platteland? Verblijf dan in Hotel Lucy?s Inn in Eesergroen, een sfeervol familiehotel in typisch Engelse sfeer centraal op de Hondsrug. Hier wordt u welkom geheten door de eigenaren Lucy en Sander Wubs!
+
+Sander groeide op in Eesergroen. Een aantal jaar nadat hij zijn grote liefde, de Engelse Lucy, ontmoette in Amsterdam, besloten ze het hotel van Sanders ouders over te nemen in Drenthe. Hiermee was Lucy?s Inn geboren! Lucy?s Inn is een gezellig familiehotel en u kunt hier terecht voor een heerlijke overnachting. In de ochtend staat er een uitgebreid ontbijtbuffet voor u klaar in het restaurant en in de avond worden er heerlijke Engelse gerechten geserveerd, want met een kok als Lucy is de specialiteit uiteraard de Britse keuken. Ook kunt u hier terecht voor een Engelse High Tea met heerlijke huisgemaakte Engelse lekkernijen. Het restaurant bevindt zich in de serre, hierdoor kunt u tijdens het eten genieten van het uitzicht op het Drentse landschap. Overige faciliteiten van het hotel zijn een afgesloten fietsenstalling, een oplaadpunt voor de E-bike, gratis parkeren op het terrein, gratis WiFi en een buitenterras met tuin. Huisdieren zijn niet toegestaan.
+
+Kom heerlijk overnachten in ?t Eesergroen van Drenthe! Bij Hotel Lucy?s Inn geniet u op z?n Engels van het mooie Drenthe. Kijk bij ?Beschikbaarheid &amp; prijzen? voor leuke en voordelige hotelarrangementen met vele extra?s.  
+
+Alle kamers zijn voorzien van gescheiden bedden, een zitje, gratis draadloos internet en een badkamer met douche en toilet. Het hotel is rolstoelvriendelijk en er zijn mindervalidenkamers aanwezig.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[14667]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=3a7287260e66945178715a20b3a4f2a3&dl=hotel%2Fhotel-lucy-s-inn%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-typisch-engels-arrangement-2&ws=]]></link>
+						<price><![CDATA[69.00]]></price>
+						<price_old><![CDATA[92.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[3-daags Typisch Engels arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[25]]></discount_percentage>
+						<discount_amount><![CDATA[23.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/46269_52f9c4a79bc9bdf9a47256dfc849ff27.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/46271_c14610df420ac9d224d878b93c9cc8ed.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/46281_3b95144778ff7d0bec4300fed2b0594e.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[9222b1b9a7f23d175a02b8311f865b70]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[6d186c81ab5981fb4cb4c34c0272b50f]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-04-12 00:03:08]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Hotel Landgoed Ehzerwold ligt vlak buiten het Gelderse dorpje Almen, in de Berkelvallei van de mooie Achterhoek. Het hotel grenst aan het mooie natuurgebied de Velhorst waar u heerlijk kunt wandelen of uw dagelijkse rondje kunt joggen door het bos. De Gelderse Achterhoek wordt gekenmerkt door groen, rust en ruimte. Voor stadsvertier reist u af naar de historische Hanzesteden Deventer en Zutphen.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[6270]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=9222b1b9a7f23d175a02b8311f865b70&dl=hotel%2Fhotel-landgoed-ehzerwold-almen%3Faction%3Dactie-de-dag%23arrangementen%2F3-2-special-plus&ws=]]></link>
+						<price><![CDATA[79.00]]></price>
+						<price_old><![CDATA[109.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[3=2 special Plus]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[27]]></discount_percentage>
+						<discount_amount><![CDATA[30.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/615_16d3f993f8dd44fc3ea2b13a8066c616.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/3932_cd38821577cf6c84b5f7e129b83e55c1.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/10608_957b5a51e98c02d93db39094ca0635b1.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[eac87f65161205eca58d4f94d457af29]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[c356670e7e979099a62b26c224f44ab6]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-18 00:03:05]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Hampshire Hotel - Mooi Veluwe in het Gelderse Putten is een 3-sterrenhotel in het grootste aaneengesloten natuurgebied van Nederland. U kunt hier overnachten op de Veluwe, midden in een groene en bosrijke omgeving. De mooie natuur wisselt met de seizoenen en er valt het gehele jaar door van alles op de Veluwe te ontdekken. Wilt u na een dagje bos heerlijk en gezond verder relaxen, dan kunt u uitpuffen in de sauna!]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[3535]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=eac87f65161205eca58d4f94d457af29&dl=hotel%2Fhampshire-hotel-mooi-veluwe%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-onthaasten-op-veluwe-arrangement&ws=]]></link>
+						<price><![CDATA[79.50]]></price>
+						<price_old><![CDATA[99.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Hampshire hotels 3-daags Onthaasten op de Veluwe arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[19]]></discount_percentage>
+						<discount_amount><![CDATA[19.50]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/24066_4f54190ce63f15a816e1bf5173f82ab7.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/24067_4cdcbfd20e0cdf0872fe6948bed21f3f.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/24068_ae9b9ec034adbdf3332afd4c70599865.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[68e4ca1144a978b7aa9488147aec55e6]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[6e8b3387c669622a245c6db753cdcd7e]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-18 00:03:05]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Hotel Restaurant de Zwaan ligt in het centrum van het dorpje Schoondijke in het mooie Zeeuws-Vlaanderen in de provincie Zeeland. Geniet van het Zeeuwse landschap, de zilte zeelucht en de rust en ruimte. Schoondijke ligt centraal nabij de pittoreske plaatsen Breskens, Oostburg, en Sluis. Bovendien bent u ook zo in de Belgische steden als Brugge en Gent.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[1944]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=68e4ca1144a978b7aa9488147aec55e6&dl=hotel%2Fhotel-restaurant-zwaan%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-75-euro-arrangement&ws=]]></link>
+						<price><![CDATA[75.00]]></price>
+						<price_old><![CDATA[99.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[Geen keten 3-daags 75 EURO arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[24]]></discount_percentage>
+						<discount_amount><![CDATA[24.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/5822_d017bfd4cea3805fe6fb466942c542d5.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/9270_616c1e3fb40dda1c990f16f5c2163f90.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/9273_49a7667c1a6dee3971c9e94d6fb4bad6.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+				<product>
+					<update_info>
+						<daisycon_unique_id><![CDATA[a41cab4e0e65a63f80d52c021d839474]]></daisycon_unique_id>
+						<previous_daisycon_unique_id></previous_daisycon_unique_id>
+						<data_hash><![CDATA[1fda14fab10369bce2767900883fd4f0]]></data_hash>
+						<status><![CDATA[active]]></status>
+						<insert_date><![CDATA[2017-05-18 00:03:05]]></insert_date>
+						<update_date><![CDATA[2017-05-25 00:16:06]]></update_date>
+						<delete_date></delete_date>
+					</update_info>
+					<product_info>
+						<additional_costs></additional_costs>
+						<brand_logo></brand_logo>
+						<category></category>
+						<category_path></category_path>
+						<condition></condition>
+						<description><![CDATA[Villa Valkenburg is gevestigd in een prachtig statig gebouw dat volledig gemoderniseerd is. Het ligt op loopafstand van het centrum van Valkenburg. Struin door de pittoreske winkelstraten, waag een gokje in het Holland Casino of ontspan in het wellnesscentrum Thermae 2000. Het prachtige Zuid-Limburgse Heuvelland is ideaal voor fietstochten en wandelingen. Eenmaal terug in uw villa komt u volledig tot rust op de luxe hotelkamer met ligbad.]]></description>
+						<description_short></description_short>
+						<sku><![CDATA[14886]]></sku>
+						<in_stock></in_stock>
+						<in_stock_amount></in_stock_amount>
+						<keywords></keywords>
+						<link><![CDATA[https://ds1.nl/c/?wi=275716&si=6411&li=1482796&pid=a41cab4e0e65a63f80d52c021d839474&dl=hotel%2Fvilla-valkenburg%3Faction%3Dactie-de-dag%23arrangementen%2F3-daags-villa-valkenburg-arrangement&ws=]]></link>
+						<price><![CDATA[99.00]]></price>
+						<price_old><![CDATA[139.00]]></price_old>
+						<priority></priority>
+						<terms_conditions></terms_conditions>
+						<title><![CDATA[3-daags Villa Valkenburg arrangement]]></title>
+						<price_shipping></price_shipping>
+						<delivery_time></delivery_time>
+						<delivery_description></delivery_description>
+						<size></size>
+						<size_description></size_description>
+						<model></model>
+						<gender_target></gender_target>
+						<offer_datetime_start></offer_datetime_start>
+						<offer_datetime_end></offer_datetime_end>
+						<discount_percentage><![CDATA[28]]></discount_percentage>
+						<discount_amount><![CDATA[40.00]]></discount_amount>
+						<brand></brand>
+						<ean></ean>
+						<color_primary></color_primary>
+						<images>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[default]]></tag>
+								<type><![CDATA[Default image for the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/60968_fd840f066146c05622c57accd9106fc9.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/60969_16d213ac320a34817d70362a6ae3f974.jpg]]></location>
+							</image>
+							<image>
+								<size><![CDATA[medium]]></size>
+								<tag><![CDATA[detail]]></tag>
+								<type><![CDATA[Detailed view of the product]]></type>
+								<location><![CDATA[http://www.voordeeluitjes.nl/Images/60970_7ce1dfd1267471c3ab0a6b8111c7fb7b.jpg]]></location>
+							</image>
+						</images>
+					</product_info>
+				</product>
+			</products>
+		</program>
+	</programs>
+</datafeed>

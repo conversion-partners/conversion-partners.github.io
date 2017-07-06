@@ -22,6 +22,123 @@
 			</program_info>
 			<products>
 				<product>
+<update_info>
+<daisycon_unique_id>
+<![CDATA[ f40be52c45696491361d2fba30517223 ]]>
+</daisycon_unique_id>
+<previous_daisycon_unique_id/>
+<data_hash>
+<![CDATA[ 01ac2cdd0956e48e78f9cf5c5b597ffd ]]>
+</data_hash>
+<status>
+<![CDATA[ active ]]>
+</status>
+<insert_date>
+<![CDATA[ 2017-05-04 14:47:25 ]]>
+</insert_date>
+<update_date>
+<![CDATA[ 2017-07-04 11:49:24 ]]>
+</update_date>
+<delete_date/>
+</update_info>
+<product_info>
+<additional_costs/>
+<brand_logo/>
+<category>
+<![CDATA[ Daydiscounter ]]>
+</category>
+<category_path>
+<![CDATA[
+SALE!|Voordeel BOX|Daydiscounter|Alle|Elektronica|Free Shipping|Elektronica|Accessoires|SALE!|Vaderdag
+]]>
+</category_path>
+<condition>
+<![CDATA[ new ]]>
+</condition>
+<description>
+<![CDATA[
+Apple voordeelbox
+  
+ Met dit Apple pakket ben je weer compleet! Je ontvangt een 1m Apple Lightning kabel, een adapter waarmee je je lightning kabel kan aansluiten op netstroom en de originele Apple earpods! Dat alles voor slechts ?34,95, in plaats van ?79,95
+  
+ Inhoud:
+ De USB 2.0-kabel verbindt uw iPhone, iPad of iPod met Lightning-kabel aan op de USB-poort van uw computer voor het synchroniseren en opladen Of je kunt hem aansluiten op de Apple USB-lichtnetadapter voor gemakkelijk opladen via een stopcontact.
+ De originele Apple power adapter voorziet al je USB-apparaten snel van een flinke dosis nieuwe energie. Ja, je leest het goed; alle USB-apparaten. De adapter is dus niet alleen geschikt voor iPhones/iPads, je kunt hier ook gewoon je Samsung of ander merk telefoon/tablet aan koppelen. Gewoon een kwestie van je eigen verloopkabeltje er in pluggen en klaar is Kees!
+ Specificaties Apple earpods:
+ - Diepe en rijke bastonen- Bescherming tegen zweet en water- Afsta
+]]>
+</description>
+<description_short/>
+<sku>
+<![CDATA[ Apple earpods + Lightning kabel 1 m + adapter ]]>
+</sku>
+<in_stock>
+<![CDATA[ true ]]>
+</in_stock>
+<in_stock_amount/>
+<keywords/>
+<link>
+<![CDATA[
+https://lt45.net/c/?wi=275716&si=11482&li=1516232&pid=f40be52c45696491361d2fba30517223&dl=apple-voordeelbox.html%3Ffee%3D6%26fep%3D1498%26utm_source%3Ddaisycon%26utm_medium%3Daffiliate%26utm_campaign%3Ddaisycon_%25MEDIANAME%25&ws=
+]]>
+</link>
+<price>
+<![CDATA[ 40.00 ]]>
+</price>
+<price_old>
+<![CDATA[ 79.95 ]]>
+</price_old>
+<priority/>
+<terms_conditions/>
+<title>
+<![CDATA[ Apple VoordeelBox ]]>
+</title>
+<price_shipping>
+<![CDATA[ 0.00 ]]>
+</price_shipping>
+<delivery_time/>
+<delivery_description/>
+<size/>
+<size_description/>
+<model>
+<![CDATA[ 1498 ]]>
+</model>
+<gender_target/>
+<offer_datetime_start/>
+<offer_datetime_end/>
+<discount_percentage>
+<![CDATA[ 49 ]]>
+</discount_percentage>
+<discount_amount>
+<![CDATA[ 39.95 ]]>
+</discount_amount>
+<brand>
+<![CDATA[ huismerk ]]>
+</brand>
+<ean/>
+<color_primary/>
+<google_category_id/>
+<images>
+<image>
+<size>
+<![CDATA[ large ]]>
+</size>
+<tag>
+<![CDATA[ default ]]>
+</tag>
+<type>
+<![CDATA[ Default image for the product ]]>
+</type>
+<location>
+<![CDATA[
+https://daydiscounter.com/media/catalog/product/a/p/applevoordeel.png
+]]>
+</location>
+</image>
+</images>
+</product_info>
+</product>
+				<product>
 					<update_info>
 						<daisycon_unique_id><![CDATA[a9be5dccf10e50c42641de7085032ec9]]></daisycon_unique_id>
 						<previous_daisycon_unique_id></previous_daisycon_unique_id>

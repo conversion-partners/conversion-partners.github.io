@@ -65,18 +65,18 @@
           var url = 'https://script.google.com/macros/s/AKfycbxk_Np2R_F1LlinTA33bAQPyg5XZn-rrs4M5xWC3lGRvts2kSX_/exec';
           var redirectUrl = 'form/success-page.html';
           var jqxhr = $.post(url, $(this).serialize(), function(data) {
-                  console.log("Success! Data: ");
-                  console.log(data);
-                  //$(location).attr('href', redirectUrl);
+                  $('.contact3-form').hide();
+                  var hi = $("input[name='choice']:checked").val();
+                  if(hi == "say-hi"){
+                    $('#form-msg').html("Wij zullen u op de hoogte houden.");
+                  }else{
+                    $('#form-msg').html("U krijgt de account gegevens toegestuurd.");
+                  }
           })
           .fail(function(data) {
-                  console.log(data);
-                  //console.warn("Error! Data: " + data.statusText);
-                  // HACK - check if browser is Safari - and redirect even if fail b/c we know the form submits.
-                  if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) {
-                      //alert("Browser is Safari -- we get an error, but the form still submits -- continue.");
-                      //$(location).attr('href', redirectUrl);
-                  }
+                  $('.contact3-form').hide();
+                  $('#form-msg').html("Oeps er ging iets mis probeert U het nog eens.");
+                  setTimeout(function(){ location.reload(); }, 3000);
           });
         }
 

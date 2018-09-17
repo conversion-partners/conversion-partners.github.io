@@ -1,6 +1,3 @@
-$.ajaxSetup({
-    crossDomain: true
-});
 $(document).ready(function() {
     $('#test-form').bootstrapValidator({
         //submitButtons: '#postForm',

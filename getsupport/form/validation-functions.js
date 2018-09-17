@@ -78,7 +78,8 @@ $(document).ready(function() {
 
         // Use Ajax to submit form data
         //var url = 'https://script.google.com/macros/s/AKfycbzy3UKiaESk9y2ccnBkdSgCo1zxJ0Kx0qE0_eKro7QYE5yFKJVH/exec';
-        var url = 'https://script.google.com/macros/s/AKfycbzhkixoCJsn3t2Ihfigybb88xZTE4LPirp3MwMPfA/exec';
+        //var url = 'https://script.google.com/macros/s/AKfycbzhkixoCJsn3t2Ihfigybb88xZTE4LPirp3MwMPfA/exec';
+        var url = 'https://script.google.com/macros/s/AKfycbxk_Np2R_F1LlinTA33bAQPyg5XZn-rrs4M5xWC3lGRvts2kSX_/exec';
         var redirectUrl = 'success-page.html';
         // show the loading
         $('#postForm').prepend($('<span></span>').addClass('glyphicon glyphicon-refresh glyphicon-refresh-animate'));

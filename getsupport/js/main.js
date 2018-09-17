@@ -38,7 +38,8 @@
     var message = $('.validate-input textarea[name="message"]');
 
 
-    $('.validate-form').on('submit', function() {
+    $('.validate-form').on('submit', function(e) {
+        e.preventDefault();
         var check = true;
 
         if ($(name).val().trim() == '') {
@@ -63,23 +64,20 @@
         if(check){
           var url = 'https://script.google.com/macros/s/AKfycbxk_Np2R_F1LlinTA33bAQPyg5XZn-rrs4M5xWC3lGRvts2kSX_/exec';
           var redirectUrl = 'form/success-page.html';
-          // show the loading
-          $('#postForm').prepend($('<span></span>').addClass('glyphicon glyphicon-refresh glyphicon-refresh-animate'));
           var jqxhr = $.post(url, $(this).serialize(), function(data) {
-                  console.log("Success! Data: " + data.statusText);
-                  $(location).attr('href', redirectUrl);
-              })
-              .fail(function(data) {
-                console.log(data);
+                  console.log("Success! Data: ");
+                  console.log(data);
+                  //$(location).attr('href', redirectUrl);
+          })
+          .fail(function(data) {
+                  console.log(data);
                   //console.warn("Error! Data: " + data.statusText);
                   // HACK - check if browser is Safari - and redirect even if fail b/c we know the form submits.
                   if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) {
                       //alert("Browser is Safari -- we get an error, but the form still submits -- continue.");
-                      $(location).attr('href', redirectUrl);
+                      //$(location).attr('href', redirectUrl);
                   }
-              });
-        }else{
-          console.log();
+          });
         }
 
         return check;

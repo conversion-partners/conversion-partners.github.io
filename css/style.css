@@ -11,7 +11,7 @@ Primary use:    MultiPurpose Template
 @import "font-awesome.min.css";
 @import "et-line.css";
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Dosis:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:300,400,700);
 
 /*------------------------------------------------------------------
 [Table of contents]
@@ -75,14 +75,15 @@ white  -     #FFFFFF
 light gray - #D9E8F5
 light blue - #91BED4
 dark blue -  #304269
-*/
+
+# */
 
 
 /*------------------------------------------------------------------
 [Typography]
 
 Body:               14px/1.6 "Open Sans", arial, sans-serif;
-Headers:            Dosis, arial, sans-serif;
+Headers:            'Lato', sans-serif;
 Serif:              "Times New Roman", Times, serif;
 Section Title:      35px/1.3 "Open Sans", arial, sans-serif;
 Section Heading:    24px/1.3 "Open Sans", arial, sans-serif;
@@ -403,7 +404,7 @@ blockquote{
     background: none;
     font-style: normal;
     line-height: 1.7;
-    color: #fff;
+    color: #777;
 }
 blockquote p{
     margin-bottom: 1em;
@@ -415,9 +416,8 @@ blockquote p{
 blockquote footer{
     font-size: 11px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
-    color: #fff;
 }
 dl dt{
     margin-bottom: 5px;
@@ -441,13 +441,13 @@ hr.black{
     border-color:rgba(0,0,0, .85);
     background: rgba(0,0,0, .85);
 }
-.uppercase{
-    text-transform: uppercase;
+.none{
+    text-transform: none;
     letter-spacing: 1px;
 }
 .font-alt{
-    font-family: Dosis, arial, sans-serif;
-    text-transform: uppercase;
+    font-family: 'Lato', sans-serif;
+    text-transform: none;
     letter-spacing: 0.2em;
 }
 .serif{
@@ -553,7 +553,7 @@ hr.black{
     font-weight: 400;
     letter-spacing: 0.4em;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: none;
     opacity: .9;
 
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -609,11 +609,11 @@ a.btn-mod{
     box-sizing: border-box;
     padding: 6px 18px;
     color: #fff;
-    background: rgba(242,97,1, 1);
+    background: #F26101;
     border: 2px solid transparent;
     font-size: 18px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-decoration: none;
     letter-spacing: 2px;
 
@@ -832,7 +832,7 @@ a.btn-mod:focus{
     vertical-align: middle;
     font-size: 11px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     color: #777;
     border: 1px solid rgba(0,0,0, .1);
@@ -940,7 +940,7 @@ a.btn-mod:focus{
 .form textarea{
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase !important;
+    text-transform: none !important;
     letter-spacing: 1px;
     color: #777;
     border-color: rgba(0,0,0, .1);
@@ -1115,7 +1115,7 @@ a.btn-mod:focus{
     display: block;
     width: 10px;
     height: 10px;
-    margin-left: -6px;
+    margin-left: -5px;
     position: absolute;
     left: 50%;
     bottom: 4px;
@@ -1200,7 +1200,7 @@ a.bg-video-button-muted{
 .hs-line-1{
     margin-top: 0;
     position: relative;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 30px;
     font-weight: 400;
     letter-spacing: 51px;
@@ -1212,7 +1212,7 @@ a.bg-video-button-muted{
     position: relative;
     font-size: 4em;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.085em;
     line-height: 1.3;
     color: rgba(255,255,255, .85);
@@ -1222,7 +1222,7 @@ a.bg-video-button-muted{
     position: relative;
     font-size: 13px;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
     color: rgba(255,255,255, .7);
 }
@@ -1232,7 +1232,7 @@ a.bg-video-button-muted{
     position: relative;
     font-size: 14px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 3px;
     color: rgba(255,255,255, .85);
 }
@@ -1242,7 +1242,7 @@ a.bg-video-button-muted{
     font-size: 62px;
     font-weight: 400;
     line-height: 1.2;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.32em;
     opacity: .85;
 }
@@ -1263,7 +1263,7 @@ a.bg-video-button-muted{
     position: relative;
     font-size: 64px;
     font-weight: 800;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
     line-height: 1.2;
 }
@@ -1285,7 +1285,7 @@ a.bg-video-button-muted{
     position: relative;
     font-size: 96px;
     font-weight: 800;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
     line-height: 1.2;
 }
@@ -1297,7 +1297,7 @@ a.bg-video-button-muted{
     background: rgba(0,0,0, .75);
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
     color: rgba(255,255,255, .85);
 }
@@ -1391,7 +1391,7 @@ a.bg-video-button-muted{
     list-style: none;
     margin: 0;
     padding: 0;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .top-links li{
     float: left;
@@ -1471,7 +1471,7 @@ a.bg-video-button-muted{
 .nav-logo-wrap .logo{
     display: table-cell;
     vertical-align: middle;
-    max-width: 180px;
+    max-width: 150px;
     height: 75px;
 
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -1489,10 +1489,10 @@ a.bg-video-button-muted{
 }
 .logo,
 a.logo:hover{
-    font-family: Dosis, arial, sans-serif;
+    font-family: 'Lato', sans-serif;
     font-size: 18px;
     font-weight: 400 !important;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.2em;
     text-decoration: none;
     color: rgba(0,0,0, .9);
@@ -1540,7 +1540,7 @@ a.logo:hover{
 .inner-nav ul{
     float: right;
     margin: auto;
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 400;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -1688,7 +1688,7 @@ a.logo:hover{
 }
 .mn-group-title{
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
     color: #fff !important;
 }
 .mn-group-title:hover{
@@ -1833,7 +1833,7 @@ a.logo:hover{
     vertical-align: middle;
     font-size: 11px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     border-left: 1px solid rgba(0,0,0, .05);
     border-right: 1px solid rgba(0,0,0, .05);
     cursor: pointer;
@@ -1878,7 +1878,6 @@ a.logo:hover{
     vertical-align: middle;
     text-align: center;
     font-size: 21px;
-    color: #F26101;
 }
 
 /* Menu sub multi */
@@ -1934,7 +1933,7 @@ a.logo:hover{
 .main-nav.dark a.logo:hover{
     font-size: 18px;
     font-weight: 800;
-    text-transform: uppercase;
+    text-transform: none;
     text-decoration: none;
     color: rgba(255,255,255, .9);
 }
@@ -2241,7 +2240,7 @@ a.logo:hover{
     font-size: 17px;
     letter-spacing: 2px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-decoration: none;
     cursor: pointer;
 
@@ -2398,7 +2397,7 @@ a.logo:hover{
 .small-title{
     padding: 0;
     margin: 0 0 30px 0;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 20px;
     font-weight: 300;
     letter-spacing: 0.3em;
@@ -2530,7 +2529,7 @@ a.logo:hover{
 
 .bg-light-green {
     background-color: #F26101;
-    color: #fff;
+    color: #000;
 }
 
 .bg-dark-green {
@@ -2722,9 +2721,9 @@ a.logo:hover{
     margin-bottom: 15px;
     font-size: 18px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.3em;
     line-height: 1.4;
 }
 
@@ -2738,7 +2737,7 @@ span.name {
     color: #999;
     font-size: 11px;
     font-weight: 400;
-    letter-spacing: 0.4em;
+    letter-spacing: 0.3em;
     text-decoration: none;
 
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -2760,9 +2759,9 @@ span.name {
     margin-bottom: 15px;
     font-size: 24px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
-    letter-spacing: 0.5em;
+    letter-spacing: 0.3em;
     line-height: 1.3;
 }
 .section-line{
@@ -2798,7 +2797,7 @@ span.name {
     font-weight: 400;
     letter-spacing: 0.4em;
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: none;
 
     -webkit-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     -moz-transition: all 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -3014,7 +3013,7 @@ span.name {
     opacity: 0;
     width: 100%;
     position: absolute;
-    top: 60%;
+    top: 70%;
     left: 0;
     padding: 20px 23px 55px;
     font-size: 14px;
@@ -3052,13 +3051,13 @@ span.name {
 .team-item-name {
     margin-top: 23px;
     font-size: 18px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.4em;
 }
 .team-item-role{
     margin-top: 4px;
     font-size: 12px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.4em;
     color: #aaa;
 }
@@ -3131,7 +3130,7 @@ span.name {
     margin-bottom: 3px;
     font-size: 18px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     color: rgba(255,255,255, .9);
 }
 
@@ -3174,10 +3173,10 @@ span.name {
 }
 .alt-features-title{
     margin-bottom: 21px;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 400;
-    text-transform: uppercase;
-    letter-spacing: 0.4em;
+    text-transform: none;
+    letter-spacing: 0.3em;
 }
 .alt-features-descr {
     color: #777;
@@ -3236,7 +3235,7 @@ span.name {
     margin: 0 0 17px 0;
     padding: 0;
     font-size: 14px;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .benefits-descr{
     position: relative;
@@ -3337,7 +3336,7 @@ span.name {
     padding: 0;
     margin: 0 0 45px 0;
     font-size: 13px;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     letter-spacing: 0.4em;
     color: #555;
@@ -3450,7 +3449,7 @@ span.name {
     padding: 0;
     font-size: 15px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.2em;
     line-height: 1.2;
     color: #F26101;
@@ -3458,7 +3457,7 @@ span.name {
 .work-descr{
     font-size: 11px;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: none;
     color: #aaa;
     line-height: 1.2;
 }
@@ -3603,7 +3602,7 @@ span.name {
     width: 100%;
     background: #fff;
     font-size: 11px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
 
     z-index: 99;
@@ -3655,7 +3654,7 @@ span.name {
     display: block;
     background: #fff;
     font-size: 11px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     color: #151515;
 }
@@ -3676,7 +3675,7 @@ span.name {
     padding: 0;
     font-size: 24px;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     letter-spacing: 1px;
 }
@@ -3706,7 +3705,7 @@ span.name {
     font-size: 11px;
     color: #777;
     letter-spacing: 1px;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .work-full-detail p{
     padding: 4px 0;
@@ -3740,10 +3739,10 @@ span.name {
 .banner-heading{
     margin-top: 0;
     margin-bottom: 20px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 300;
-    letter-spacing: 0.3em;
-    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    text-transform: none;
     color: rgba(255,255,255, 0.9);
 }
 
@@ -3846,7 +3845,7 @@ span.name {
 .post-prev-title{
     margin-bottom: 6px;
     font-size: 18px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.2em;
 }
 .post-prev-title a{
@@ -3896,7 +3895,7 @@ span.name {
     margin-bottom: 15px;
     font-size: 18px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.3em;
 }
 .form input.newsletter-field{
@@ -4003,7 +4002,7 @@ span.name {
     color: #777;
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.3em;
 }
 .ci-text{
@@ -4053,8 +4052,8 @@ span.name {
 }
 .footer-copy{
     margin-bottom: 5px;
-    text-transform: uppercase;
-    letter-spacing: 0.5em;
+    text-transform: lowercase;
+    letter-spacing: 0.3em;
 }
 .footer-made{
     font-size: 11px;
@@ -4153,7 +4152,7 @@ a.link-to-top{
     font-weight: 300;
     letter-spacing: 1px;
     line-height: 1.2;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     color: #999;
     border-right: 1px solid #eee;
@@ -4179,7 +4178,7 @@ a.link-to-top{
     padding: 0;
     font-size: 24px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
 
 }
 .blog-item-title a{
@@ -4192,7 +4191,7 @@ a.link-to-top{
 }
 .blog-item-data{
     margin-bottom: 30px;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 11px;
     letter-spacing: 1px;
     color: #aaa;
@@ -4215,7 +4214,7 @@ a.link-to-top{
 }
 .blog-post-data{
     margin-top: 10px;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 11px;
     letter-spacing: 1px;
     color: #aaa;
@@ -4240,7 +4239,7 @@ a.link-to-top{
     padding: 5px 10px;
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     color: #777;
     letter-spacing: 1px;
 
@@ -4339,7 +4338,7 @@ a.blog-item-more:hover{
     color: #999;
     font-size: 13px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     text-decoration: none;
 
@@ -4402,7 +4401,7 @@ a.blog-item-more:hover{
 }
 .comment-item-data{
     margin: 0 0 5px;
-    text-transform: uppercase;
+    text-transform: none;
     font-family: "Open Sans", Arial, Helvetica, sans-serif;
     font-size: 12px;
     color: #777;
@@ -4452,7 +4451,7 @@ a.blog-item-more:hover{
 .widget-title{
     margin-bottom: 20px;
     padding-bottom: 5px;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 14px;
     font-weight: 400;
     color: #777;
@@ -4547,7 +4546,7 @@ a.blog-item-more:hover{
     color: #777;
     font-size: 11px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-decoration: none;
     letter-spacing: 1px;
 
@@ -4686,7 +4685,7 @@ table.shopping-cart-table tr td{
     margin-bottom: 40px;
     font-size: 18px;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     z-index: 1;
 }
@@ -4697,7 +4696,7 @@ table.shopping-cart-table tr td{
     color: #777;
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
 }
 .pr-list li{
@@ -5006,7 +5005,7 @@ section:hover .small-item-carousel .owl-next{
     border-color: #e5e5e5;
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
 }
 .tpl-tabs > li > a{
@@ -5036,7 +5035,7 @@ section:hover .small-item-carousel .owl-next{
     display: inline-block;
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     letter-spacing: 1px;
     border: none;
@@ -5079,7 +5078,7 @@ section:hover .small-item-carousel .owl-next{
 .tpl-alt-tabs{
     font-size: 14px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     letter-spacing: 0.4em;
     border: none;
@@ -5139,7 +5138,7 @@ section:hover .small-item-carousel .owl-next{
     border: 1px solid #ddd;
     font-size: 11px;
     letter-spacing: 1px;
-    text-transform: uppercase;
+    text-transform: none;
     color: #777;
 
     -webkit-border-radius: 0;
@@ -5173,7 +5172,7 @@ section:hover .small-item-carousel .owl-next{
     margin-bottom: 10px;
     font-size: 12px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.2em;
 }
 .accordion > dt > a{
@@ -5254,7 +5253,7 @@ section:hover .small-item-carousel .owl-next{
     margin-bottom: 10px;
     font-size: 13px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.2em;
 }
 .toggle > dt > a{
@@ -5332,7 +5331,7 @@ section:hover .small-item-carousel .owl-next{
     margin-top: 10px;
     margin-bottom: 50px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     overflow: visible;
     height: 2px;
@@ -5404,7 +5403,7 @@ section:hover .small-item-carousel .owl-next{
     overflow: visible;
     background-color: #222;
     font-size: 11px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 2px;
     color: #fff;
     text-align: left;
@@ -5512,7 +5511,7 @@ section:hover .small-item-carousel .owl-next{
     top:7px;
     right: 10px;
     font-size: 17px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.1em;
 }
 .label-new{
@@ -5521,7 +5520,7 @@ section:hover .small-item-carousel .owl-next{
     padding: 2px 3px;
     font-size: 9px;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
 }
 .label-for-button{
@@ -5538,7 +5537,7 @@ section:hover .small-item-carousel .owl-next{
     color: rgba(255,255,255, .85);
     font-size: 11px;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     letter-spacing: 1px;
     line-height: 50px;
@@ -5563,7 +5562,7 @@ section:hover .small-item-carousel .owl-next{
     position: relative;
     font-size: 25px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.2em;
     line-height: 1.8;
 }
@@ -5626,7 +5625,7 @@ section:hover .small-item-carousel .owl-next{
     position: absolute;
     bottom: 0;
     left: 0;
-    text-transform: uppercase;
+    text-transform: none;
     text-align: center;
     font-size: 11px;
     letter-spacing: 1px;
@@ -5649,7 +5648,7 @@ section:hover .small-item-carousel .owl-next{
 .blog-slide-title{
     margin-bottom: 6px;
     font-size: 18px;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 0.2em;
 }
 .blog-slide-title a{
@@ -5667,7 +5666,7 @@ section:hover .small-item-carousel .owl-next{
     color: rgba(255,255,255, 1);
 }
 .blog-slide-data{
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 11px;
     letter-spacing: 1px;
 }
@@ -5691,7 +5690,7 @@ section:hover .small-item-carousel .owl-next{
 
 .play-video-link{
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: none;
     font-size: 14px;
     color: #111;
 }
@@ -5744,7 +5743,7 @@ section:hover .small-item-carousel .owl-next{
     font-size: 12px;
     letter-spacing: 1px;
     font-weight: 700;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .db-descr{
     display: block;
@@ -6019,7 +6018,7 @@ section:hover .small-item-carousel .owl-next{
     font-size: 14px;
     letter-spacing: 2px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     text-decoration: none;
     cursor: pointer;
 
@@ -6282,7 +6281,7 @@ section:hover .small-item-carousel .owl-next{
     left: 0;
     font-size: 10px;
     font-weight: 400;
-    text-transform: uppercase;
+    text-transform: none;
     letter-spacing: 1px;
     line-height: 1;
     color: #999;
@@ -6505,7 +6504,7 @@ body{background-color:#eee;}
     letter-spacing: 2px;
     margin: 0;
     padding: 0;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 #generic_price_table .generic_content .generic_head_price .generic_price_tag{
@@ -6589,7 +6588,7 @@ body{background-color:#eee;}
     outline: medium none;
     padding: 12px 30px;
     text-decoration: none;
-    text-transform: uppercase;
+    text-transform: none;
 }
 
 #generic_price_table .generic_content,
@@ -6745,7 +6744,7 @@ body{background-color:#eee;}
     text-align: center;
     font-size: 20px;
     padding-top: 5px;
-    text-transform: uppercase;
+    text-transform: none;
     display: inline-block;
 }
 #generic_price_table_home .footer{
@@ -6774,7 +6773,7 @@ body{background-color:#eee;}
     outline-width: medium ;
     padding: 10px;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .bottom_btn{
     background-color: #333333;
@@ -6784,7 +6783,7 @@ body{background-color:#eee;}
     margin: 60px auto 20px;
     padding: 10px 25px;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: none;
 }
 .demo-button:hover{
     background-color: #666;

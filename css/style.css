@@ -404,7 +404,7 @@ blockquote{
     background: none;
     font-style: normal;
     line-height: 1.7;
-    color: #777;
+    color: #fff;
 }
 blockquote p{
     margin-bottom: 1em;
@@ -637,7 +637,6 @@ a.btn-mod:hover,
 a.btn-mod:focus{
     font-weight: 400;
     color: rgba(255,255,255, .85);
-    /*background: rgba(133,180,39, 1);*/
     text-decoration: none;
     outline: none;
     border-color: transparent;

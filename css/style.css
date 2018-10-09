@@ -193,7 +193,7 @@ html, body{
 }
 
 body.home-page {
-    /*background: url(../images/shape1.svg) no-repeat -1px -1px / calc(100% - 25px) auto;*/
+    background: url(../images/shape1.svg) no-repeat -1px -1px / calc(100% - 25px) auto;
 }
 
 .body-masked{
@@ -613,7 +613,6 @@ a.btn-mod{
     box-sizing: border-box;
     padding: 6px 18px;
     color: #fff;
-    background: #F26101;
     border: 2px solid transparent;
     font-size: 18px;
     font-weight: 400;
@@ -1512,7 +1511,7 @@ a.logo:hover{
     top: 0;
     left: 0;
     text-align: left;
-    background: rgba(255,255,255, .97);
+    background-color: #fff;
 
     -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.05);
     -moz-box-shadow: 0 1px 0 rgba(0,0,0,.05);
@@ -1525,6 +1524,10 @@ a.logo:hover{
     -o-transition: height 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     -ms-transition: height 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
     transition: height 0.27s cubic-bezier(0.000, 0.000, 0.580, 1.000);
+}
+
+.bg-dark-blue {
+    background-color: #304269;
 }
 
 

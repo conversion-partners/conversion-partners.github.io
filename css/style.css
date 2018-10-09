@@ -1511,7 +1511,7 @@ a.logo:hover{
     top: 0;
     left: 0;
     text-align: left;
-    background-color: #fff;
+    color: #fff !important;
 
     -webkit-box-shadow: 0 1px 0 rgba(0,0,0,.05);
     -moz-box-shadow: 0 1px 0 rgba(0,0,0,.05);
@@ -1559,7 +1559,7 @@ a.logo:hover{
     position: relative;
 }
 .inner-nav ul li a{
-    color: #777;
+    color: #fff;
     letter-spacing: 2px;
     display: inline-block;
     -moz-box-sizing: border-box;
@@ -1578,7 +1578,7 @@ a.logo:hover{
 }
 
 .inner-nav ul li a:hover {
-    color: #F26101;
+    color: #ccc;
 }
 
 .inner-nav ul li a.active{

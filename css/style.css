@@ -193,7 +193,7 @@ html, body{
 }
 
 body.home-page {
-    background: url(../images/shape1.svg) no-repeat -1px -1px / calc(100% - 25px) auto;
+    /*background: url(../images/shape1.svg) no-repeat -1px -1px / calc(100% - 25px) auto;*/
 }
 
 .body-masked{

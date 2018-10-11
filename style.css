@@ -4069,6 +4069,23 @@ IMAGE BOX
         -webkit-transform: translateZ(0);
     }
 
+
+.section-integrations .img-box {
+    display: -webkit-box  !important;
+    display: -webkit-flex  !important;
+    display: -moz-box  !important;
+    display: -ms-flexbox  !important;
+    display: flex !important;
+    -webkit-flex-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.section-integrations .img-box img {
+    width: 100% !important;
+    margin: 0 !important;
+}
 .png-over .img-box img {
     opacity: .8 !important;
     margin: auto;

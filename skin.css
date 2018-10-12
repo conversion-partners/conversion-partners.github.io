@@ -1042,13 +1042,13 @@ body .flex-direction-nav a.flex-next:before {
 }
 
 .white .icon-box:not(.icon-box-top-bottom) .icon-box-cell:first-child, div.white .countdown > div:after {
-    border-right: 1px solid rgba(255, 255, 255, 0.31);
+    border-right: 1px solid #0e90e4;
 }
 
 .icon-box:not(.icon-box-top-bottom) .icon-box-cell:first-child {
     padding-right: 15px;
     margin-right: 15px;
-    border-right: 1px solid rgba(123, 123, 123, 0.25);
+    border-right: 1px solid #0e90e4;
 }
 
 .icon-box.icon-box-right:not(.icon-box-top-bottom) .icon-box-cell:first-child {

@@ -376,7 +376,6 @@ TIMELINE
         position: absolute;
         content: " ";
         width: 1px;
-        background-color: #CECECE;
         left: 50%;
         margin-left: -1.5px;
     }
@@ -423,11 +422,11 @@ TIMELINE
         }
 
         .timeline > li:not(.timeline-inverted) {
-            padding-right: 90px;
+            /*padding-right: 90px;*/
         }
 
         .timeline > li.timeline-inverted {
-            padding-left: 90px;
+            /*padding-left: 90px;*/
         }
 
         .timeline > li > .timeline-panel:before {
@@ -472,6 +471,7 @@ TIMELINE
             margin: 0px;
             font-size: 25px;
         }
+
 
         .timeline > li > .timeline-label p {
             margin: 0;
@@ -696,18 +696,19 @@ MOBILE - PHONE - Extra small devices
 
     .timeline > li > .timeline-label {
         position: relative;
-        height: 100%;
         margin: 45px 0;
-        padding: 0;
-        left: 0;
+        float: none;
+        text-align: center;
+        left: auto;
     }
 
     .timeline > li.timeline-inverted > .timeline-label {
         top: 32px;
         left: auto;
-        right: 0;
         margin-left: 0;
         width: auto;
+        float: none;
+        text-align: center;
     }
 }
 /*

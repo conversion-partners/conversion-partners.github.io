@@ -4009,9 +4009,19 @@ BUTTONS
     margin-top: 12px;
 }
 
-.navbar-main .btn-cta {
-    background-color: #0e90e4;
+.navbar-main .btn-cta > a {
+    background-color: #F26101;
     color: #fff !important;
+    padding: 7px 25px;
+    margin-top: 12px;
+    border: none !important;
+}
+
+.navbar-main .btn-cta:hover a,
+.navbar-main .btn-cta > a:hover {
+    background-color: #d15300 !important;
+    color: #fff !important;
+    border: none !important;
 }
 
 .btn-border, .white .btn-border {

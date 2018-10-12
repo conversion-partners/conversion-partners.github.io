@@ -4088,7 +4088,9 @@ IMAGE BOX
         -webkit-transform: translateZ(0);
     }
 
-
+.img-shadow {
+    box-shadow: 0 32px 44px 0 rgba(51,71,91,0.12);
+}
 .section-integrations .img-box {
     display: -webkit-box  !important;
     display: -webkit-flex  !important;

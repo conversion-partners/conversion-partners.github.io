@@ -857,7 +857,7 @@ body .flex-direction-nav a.flex-next:before {
 }
 
 .input-group .form-control:first-child {
-    border-color: #dcdcdc;
+    border-color: #eee;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;
 }
@@ -1009,7 +1009,7 @@ body .flex-direction-nav a.flex-next:before {
     background: none;
     border-style: solid !important;
     border-width: 1px;
-    border-color: #dcdcdc;
+    border-color: #eee;
     border-radius: 6px;
 }
 
@@ -1017,9 +1017,15 @@ body .flex-direction-nav a.flex-next:before {
         border: none !important;
     }
 
+textarea.form-control {
+    min-height: 120px; 
+}
 .form-control {
-    border: 1px solid #dcdcdc;
+    border: 1px solid #eee;
     border-radius: 4px;
+    background-color: #fff !important;
+    padding: 10px 15px;
+    height: 45px;
 }
 
 .nav.inner > li > a, .nav.inner.ms-rounded li a {
@@ -1027,7 +1033,7 @@ body .flex-direction-nav a.flex-next:before {
 }
 
 .nav.inner.ms-rounded li a {
-    border: 1px solid #dcdcdc;
+    border: 1px solid #eee;
 }
 
 .adv-img-down-text h2 a, .adv-img-down-text h2 {
@@ -1489,7 +1495,7 @@ div.adv-img-full-content p {
 
 .advs-box-multiple .advs-box-content {
     padding: 40px;
-    border: 1px solid #dcdcdc;
+    border: 1px solid #eee;
     border-top: none;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
@@ -1540,7 +1546,7 @@ div.adv-img-full-content p {
 }
 
 .bootgrid-header .search .fa {
-    border: 1px solid #dcdcdc;
+    border: 1px solid #eee;
     border-right: none;
     border-top-left-radius: 4px;
     border-bottom-left-radius: 4px;

@@ -544,7 +544,7 @@ TOP IMAGE
 .advs-box-top-icon {
     padding-top: 45px !important;
     text-align: center;
-    margin-top: 45px !important;
+    /*margin-top: 45px !important;*/
     position: relative;
 }
 

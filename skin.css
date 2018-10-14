@@ -1736,7 +1736,12 @@ body > i.scroll-top {
     }
 
     .header-title, .header-video, .header-animation, .header-slider {
-        height: 260px !important;
+        height: 320px !important;
+        padding-top: 60px;
+    }
+
+    .title-base {
+        margin-top: 80px !important;
     }
 
     .title-base h1, .title-icon h2, .title-icon h1, .title-base.title-small h2 {

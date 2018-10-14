@@ -6030,6 +6030,11 @@ button.navbar-toggle {
 
 @media (max-width: 992px) {
 
+    header.fixed-top {
+        position: fixed !important;
+        width: 100%;
+    }
+
     .col-contact-form {
         text-align: center !important;
         margin-bottom: 40px;

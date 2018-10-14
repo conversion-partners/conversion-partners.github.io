@@ -690,7 +690,7 @@ MOBILE - PHONE - Extra small devices
         }
 
     .timeline > li > .timeline-panel {
-        width: 100%;
+        width: 100% !important;
         background: white;
     }
 

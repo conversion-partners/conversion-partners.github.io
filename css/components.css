@@ -690,6 +690,7 @@ MOBILE - PHONE - Extra small devices
         float: none;
         text-align: center;
         left: auto;
+        margin-top: 0;
     }
 
     .timeline li:first-child .timeline-label:first-child {
@@ -698,6 +699,7 @@ MOBILE - PHONE - Extra small devices
 
     .timeline {
         padding-top: 0 !important;
+        margin-top: -30px !important;
     }
 
     .timeline > li.timeline-inverted > .timeline-label {
@@ -707,6 +709,12 @@ MOBILE - PHONE - Extra small devices
         width: auto;
         float: none;
         text-align: center;
+        margin-top: 0;
+    }
+
+    .timeline > li > .timeline-panel:after,
+    .timeline > li.timeline-inverted > .timeline-panel:after {
+        display: none;
     }
 }
 /*

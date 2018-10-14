@@ -6030,6 +6030,13 @@ button.navbar-toggle {
 
 @media (max-width: 992px) {
 
+
+    .navbar-main .btn-cta > a {
+        width: 150px;
+        margin: 0 auto;
+        margin-top: 10px;
+    }
+    
     header.fixed-top {
         position: fixed !important;
         width: 100%;

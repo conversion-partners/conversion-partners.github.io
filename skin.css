@@ -1028,7 +1028,7 @@ body .flex-direction-nav a.flex-next:before {
     }
 
 textarea.form-control {
-    min-height: 120px; 
+    min-height: 105px; 
 }
 .form-control {
     border: 1px solid #eee;
@@ -1715,6 +1715,7 @@ body > i.scroll-top {
 
     header .collapse .navbar-nav {
         padding: 15px 0;
+        text-align: center;
     }
 
     .no-paddings, .no-paddings .content {

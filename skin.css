@@ -78,6 +78,11 @@ COLORS
     border-color: #076bab !important;
 }
 
+.btn-dark {
+    background-color: #076bab !important;
+    border-color: #076bab !important;
+}
+
 .navbar-default .navbar-nav > li > a, .list-items .list-item h3, .list-items .list-item span, .header-base .breadcrumb.b li.active, .niche-box-team .content-box h2, .progress-bar > span, .progress-circle .inner-circle .main, .mega-menu h5, header li a, header .navbar-nav .dropdown li > a, .pricing-table h3, .advs-box-content h2 a, .advs-box-top-icon h3, .adv-img-down-text h2 {
     color: #3b444e;
 }

@@ -318,6 +318,11 @@ ul.list-texts li b {
 
 .flexslider .slides .img-box:not(.adv-img) img {
     width: 100px !important;
+    opacity: 0.5 !important;
+}
+
+.flexslider .slides .img-box:not(.adv-img) img:hover {
+    opacity: 0.6 !important;
 }
 
 .caret {

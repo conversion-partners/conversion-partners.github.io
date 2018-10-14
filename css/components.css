@@ -370,16 +370,6 @@ TIMELINE
     position: relative;
 }
 
-    .timeline:before {
-        top: 0;
-        bottom: 0;
-        position: absolute;
-        content: " ";
-        width: 1px;
-        left: 50%;
-        margin-left: -1.5px;
-    }
-
     .timeline > li {
         margin-bottom: 20px;
         position: relative;
@@ -700,6 +690,14 @@ MOBILE - PHONE - Extra small devices
         float: none;
         text-align: center;
         left: auto;
+    }
+
+    .timeline li:first-child .timeline-label:first-child {
+        margin-top: 0px !important;
+    }
+
+    .timeline {
+        padding-top: 0 !important;
     }
 
     .timeline > li.timeline-inverted > .timeline-label {

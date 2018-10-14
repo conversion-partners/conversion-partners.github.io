@@ -7150,6 +7150,14 @@ MOBILE - EXTRA SMALL SCREENS
         display: block;
     }
 
+    .grid-box > .grid-item {
+        margin-bottom: 40px;
+    }
+
+    .grid-box > .grid-item:last-child {
+        margin-bottom: 0;
+    }
+
         .grid-table tr, .grid-table tbody, .grid-table td {
             width: 100%;
             float: none;

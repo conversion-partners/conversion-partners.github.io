@@ -233,7 +233,7 @@ body, header, p, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-bo
 }
 
 .advs-box p {
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .advs-box-side .img-box, .advs-box-top-icon.boxed, .maso-item > .img-box, .grid-item > .img-box, [class*="col-md-"] > .img-box, [class*="col-md-"] > .img-box img, [class*="col-md-"] .img-box:before, .slides > li > .img-box:not(.circle), .slides > li > .img-box:not(.circle) img, .social-group a i:not(.circle) {

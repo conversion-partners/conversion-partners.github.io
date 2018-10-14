@@ -6029,6 +6029,12 @@ button.navbar-toggle {
 }
 
 @media (max-width: 992px) {
+
+    .col-contact-form {
+        text-align: center !important;
+        margin-bottom: 40px;
+    }
+
     [class*="col-md"] {
         padding-top: 5px;
         padding-bottom: 5px;

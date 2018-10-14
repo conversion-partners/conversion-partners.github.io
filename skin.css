@@ -225,7 +225,7 @@ body, header, p, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-bo
     font-family: 'Chivo', sans-serif;
     font-weight: 400;
     letter-spacing: normal;
-    font-size: 15px;
+    font-size: 16px;
     line-height: 24px;
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
@@ -561,7 +561,7 @@ footer {
 }
 
     .niche-box-team .content-box .social-group i {
-        font-size: 15px;
+        font-size: 16px;
         padding: 0;
         width: 30px;
         height: 30px;
@@ -1292,7 +1292,7 @@ div.adv-img-half-content p {
 
 .pagination-sm > li > a, .pagination-sm > li > span {
     font-weight: 400;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .pagination > li.disabled > a i {
@@ -1537,7 +1537,7 @@ div.adv-img-full-content p {
 }
 
 .mega-menu .fa-ul .fa-li {
-    font-size: 15px;
+    font-size: 16px;
     line-height: 45px;
 }
 

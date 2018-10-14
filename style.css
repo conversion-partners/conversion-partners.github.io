@@ -1297,7 +1297,7 @@ header.fixed-top.scroll-css .subline-bar {
 }
 
     .minisocial-group i {
-        font-size: 15px;
+        font-size: 16px;
         line-height: 33px !important;
         padding-top: 1px;
         display: block !important;
@@ -1430,7 +1430,7 @@ i.first {
 
         .list-a li i {
             margin-right: 10px;
-            font-size: 15px;
+            font-size: 16px;
             display: inline-block;
             padding-bottom: 0;
         }
@@ -2928,7 +2928,7 @@ header.bg-title h1 {
 }
 
 header.bg-title h2 {
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 100;
     margin-top: 5px;
 }
@@ -4814,7 +4814,7 @@ header .title-base h1, header div.title-base p, .header-base .breadcrumb.b a, .h
 }
 
 .title-base p, div.title-icon p {
-    font-size: 15px;
+    font-size: 16px;
     margin-top: 20px;
     color: #6B6B6B;
 }
@@ -5287,6 +5287,10 @@ SECTIONS
 
 .section-bg-color, .section-two-blocks > .row > div:last-child {
     background-color: #f7f7f7;
+}
+
+.section-bg-blue {
+    background-color: #d5ebf9;
 }
 
 .section-two-blocks {

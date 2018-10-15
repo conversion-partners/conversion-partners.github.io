@@ -18,19 +18,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Contact | Conversion Partners</title>
     <meta name="description" content="White-label HubSpot services for agencies">
-    <script src="/scripts/jquery.min.js "></script>
-    <link rel="stylesheet" href="/scripts/bootstrap/css/bootstrap.css">
-    <script src="/scripts/script.js"></script>
-    <link rel="stylesheet" href="/style.css">
-    <link rel="stylesheet" href="/css/image-box.css">
-    <link rel="stylesheet" href="/css/content-box.css">
-    <link rel="stylesheet" href="/css/components.css">
-    <link rel="stylesheet" href='/scripts/php/contact-form.css'>
-    <link rel="stylesheet" href="/css/animations.css">
-    <link rel="stylesheet" href='/scripts/flexslider/flexslider.css'>
-    <link rel="stylesheet" href='/scripts/magnific-popup.css'>
-    <link rel="icon" href="/images/favicon.png">
-    <link rel="stylesheet" href="/skin.css">
+    <script src="scripts/jquery.min.js "></script>
+    <link rel="stylesheet" href="scripts/bootstrap/css/bootstrap.css">
+    <script src="scripts/script.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/image-box.css">
+    <link rel="stylesheet" href="css/content-box.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href='scripts/php/contact-form.css'>
+    <link rel="stylesheet" href="css/animations.css">
+    <link rel="stylesheet" href='scripts/flexslider/flexslider.css'>
+    <link rel="stylesheet" href='scripts/magnific-popup.css'>
+    <link rel="icon" href="images/favicon.png">
+    <link rel="stylesheet" href="skin.css">
 </head>
 <body>
     <div id="preloader"></div>
@@ -43,8 +43,8 @@
                             <i class="fa fa-bars"></i>
                         </button>
                         <a class="navbar-brand" href="index.html">
-                            <img class="logo-default" src="/images/logo.png" alt="logo" />
-                            <img class="logo-retina" src="/images/logo-retina.png" alt="logo" />
+                            <img class="logo-default" src="images/logo.png" alt="logo" />
+                            <img class="logo-retina" src="images/logo-retina.png" alt="logo" />
                         </a>
                     </div>
                     <div class="collapse navbar-collapse">
@@ -59,13 +59,13 @@
             </div>
         </div>
     </header>
-    <div class="header-title ken-burn" data-parallax="scroll" data-position="top" data-natural-height="650" data-natural-width="1920" data-image-src="/images/bg-12.png">
+    <div class="header-title ken-burn" data-parallax="scroll" data-position="top" data-natural-height="650" data-natural-width="1920" data-image-src="images/bg-12.png">
         <div class="container">
             <div class="title-base">
                 <hr class="anima" />
                 <h1>Get Started</h1>
                 <p>
-                    A real person will contact you within 24 hours of filling out the form. 
+                    A real person will contact you within 24 hours of filling out the form.
                 </p>
             </div>
         </div>
@@ -75,7 +75,7 @@
         <div class="container content">
             <div class="row">
                 <div class="col-md-6 col-sm-12 text-left col-contact-form">
-                    <form action="" class="form-box form-ajax" method="post">
+                    <form action="" id="contact_form" class="form-box form-ajax" method="post">
                         <div class="row">
                             <div class="col-md-6">
                                 <input id="name" name="name" placeholder="Your Name" type="text" class="form-control form-value" required>
@@ -93,7 +93,7 @@
                             <div class="col-md-12">
                                 <textarea id="message" name="message" placeholder="Ask Us Your Question Here" class="form-control form-value" required></textarea>
                                 <hr class="space s" />
-                                <button class="btn-m btn" type="submit"><i class="im-mail-send"></i>Send message</button>
+                                <button id="submit_btn" class="btn-m btn" type="submit"><i class="im-mail-send"></i>Send message</button>
                             </div>
                         </div>
                         <div class="success-box">
@@ -128,7 +128,7 @@
             </div>
         </div>
     </div>
-    
+
     <i class="scroll-top scroll-top-mobile fa fa-sort-asc"></i>
     <footer class="footer-base footer-gray">
         <div class="content">
@@ -153,16 +153,17 @@
                     <!-- End Footer Text -->
             </div>
         </div>
-        <link rel="stylesheet" href="/scripts/iconsmind/line-icons.min.css">
-        <script async src="/scripts/bootstrap/js/bootstrap.min.js"></script>
-        <script type="text/javascript" src="/scripts/imagesloaded.min.js"></script>
-        <script type="text/javascript" src="/scripts/parallax.min.js"></script>
-        <script type="text/javascript" src='../scripts/flexslider/jquery.flexslider-min.js'></script>
-        <script type="text/javascript" src="/scripts/jquery.magnific-popup.min.js"></script>
-        <script type="text/javascript" async src='/scripts/isotope.min.js'></script>
-        <script src='/scripts/jquery.slimscroll.min.js'></script>
-        <script src='/scripts/jquery.flipster.min.js'></script>
-        <script src='/scripts/smooth.scroll.min.js'></script>
+        <link rel="stylesheet" href="scripts/iconsmind/line-icons.min.css">
+        <script async src="scripts/bootstrap/js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="scripts/imagesloaded.min.js"></script>
+        <script type="text/javascript" src="scripts/parallax.min.js"></script>
+        <script type="text/javascript" src='scripts/flexslider/jquery.flexslider-min.js'></script>
+        <script type="text/javascript" src="scripts/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript" async src='scripts/isotope.min.js'></script>
+        <script src='scripts/jquery.slimscroll.min.js'></script>
+        <script src='scripts/jquery.flipster.min.js'></script>
+        <script src='scripts/smooth.scroll.min.js'></script>
+        <script src='contact.js'></script>
     </footer>
 </body>
 </html>

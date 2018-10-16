@@ -7382,3 +7382,7 @@ ul.hubspot-cert > li {
       display: inline-block;
   }
 }
+
+section.section-bg-blue > div > div > div > p {
+  color: #2e2a2a;
+}

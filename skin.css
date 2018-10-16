@@ -513,7 +513,7 @@ footer {
 
     footer img {
         max-width: 40px;
-    } 
+    }
 
     footer .copy-row {
         padding: 10px 0;
@@ -1033,7 +1033,7 @@ body .flex-direction-nav a.flex-next:before {
     }
 
 textarea.form-control {
-    min-height: 105px; 
+    min-height: 167px; 
 }
 .form-control {
     border: 1px solid #eee;
@@ -1192,7 +1192,7 @@ div.adv-img-half-content p {
     transition: all 0.35s ease-out;
     -webkit-transition: all 0.35s ease-out;
 }
- 
+
 .nav.ms-minimal {
     margin-bottom: 15px;
 }

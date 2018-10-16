@@ -3338,7 +3338,7 @@ VERTICAL AND PROPORZIONAL ROW
     }
 
     [class*="boxed"].col-md-6:not(.no-margins) {
-        width: calc(50% - 30px);
+        width: calc(50% - 4px);
     }
 
     [class*="boxed"].col-md-7:not(.no-margins) {
@@ -3376,7 +3376,7 @@ VERTICAL AND PROPORZIONAL ROW
 }
 
 [class*="col-md-"].boxed, [class*="col-md-"].boxed-inverse {
-    margin: 0 15px;
+    margin: 0 2px;
 }
 
 .grid-item > .boxed-inverse, .grid-item > .boxed {

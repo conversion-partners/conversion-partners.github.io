@@ -5304,7 +5304,8 @@ SECTIONS
 }
 
 .section-bg-blue {
-    background-color: #d5ebf9;
+    _background-color: #d5ebf9;
+    background-color: #acdfff
 }
 
 .section-two-blocks {

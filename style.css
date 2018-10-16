@@ -42,6 +42,10 @@ body, .adv-img p, .caption-bottom p, .adv-circle .caption p, .advs-box p, .list-
     color: #fff !important;
 }
 
+.footer-gray {
+    background-color: #fbfbfb !important;
+}
+
 #preloader {
     position: fixed;
     top: 0;
@@ -1786,7 +1790,7 @@ footer {
     position: relative;
     z-index: 1;
     margin-top: 0 !important;
-    border-top: 1px solid #f5f5f5;
+    /*border-top: 1px solid #f5f5f5;*/
 }
 
     footer h4, footer h5, footer h6 {

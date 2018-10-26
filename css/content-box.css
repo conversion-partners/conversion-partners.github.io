@@ -1151,3 +1151,7 @@ html.iex .pricing-table-big {
     margin: 0;
     zoom: 0;
 }
+
+img.services-icon {
+    max-width: 100px;
+}

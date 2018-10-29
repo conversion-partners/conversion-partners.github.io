@@ -62,8 +62,6 @@
                     </div>
                     <div class="collapse navbar-collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="inbound-services.html">Inbound Services</a></li>
-                            <li><a href="web-services.html">Web Services</a></li>
                             <li><a href="integrations.html">Integrations</a></li>
                             <li class="btn-cta"><a class="btn-default btn" href="contact.html">Get Started</a></li>
                         </ul>
@@ -75,7 +73,7 @@
     <div class="section-empty text-center">
         <div class="container content">
             <div class="col-sm-12 col-md-8 col-center">
-                <p class="text-light text-m">21-day risk free garantee. Cancel any time. Fixed montly fee.</p>
+                <p class="text-light text-m">21-day money-back garantee. Cancel any time. Fixed montly fee.</p>
                 <hr class="space xs" />
 
                 <h1 class="text-xl">
@@ -193,22 +191,42 @@
     <div class="section-empty">
         <div class="container content text-center">
             <h2>Ready to get started?</h2>
-            <h2>21-day risk free guarantee. Cancel any time.</h2>
+            <h2>21-day money-back guarantee. Cancel any time. No questions asked.</h2>
             <hr class="space xl" />
             <div class="row">
                 <div class="col-md-6">
                     <div class="columns">
                       <ul class="price">
                         <li class="header white">Agencies</li>
-                        <li class="grey lighter">$<span class="pricevalue">695</span> /mo</li>
+                        <li class="grey lighter">$<span class="pricevalue">495</span> /mo</li>
                         <!-- <li class="grey">$ 9.99 / year</li> -->
                         <li class="white-label">White-Label Services</li>
-                        <li>21-day risk free guarantee</li>
+                        <li>21-day money-back guarantee</li>
                         <li>Unlimited task submissions</li>
-                        <li>3 active tasks at a time</li>
+                        <li>
+                            <select>
+                              <option value="495">1</option>
+                              <option value="795">3</option>
+                              <option value="1595">7</option>
+                              <option value="unlimited">Unlimited</option>
+                            </select> active tasks at a time
+                        </li>
                         <li>All HubSpot Products Supported</li>
                         <li>White label dashboard</li>
-                        <li class="grey"><a href="contact.html" class="btn btn-l btn-cta">Get Started</a></li>
+                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="E5FUL9W54KLZQ">
+                            <table>
+                            <tr><td><input type="hidden" name="on0" value="Tasks">Tasks</td></tr><tr><td><select name="os0">
+                                <option value="1 active task">1 active task $495.00 USD</option>
+                                <option value="3 active tasks">3 active tasks $795.00 USD</option>
+                                <option value="7 active tasks">7 active tasks $1,595.00 USD</option>
+                            </select> </td></tr>
+                            </table>
+                            <input type="hidden" name="currency_code" value="USD">
+                            <input type="image" src="https://www.paypalobjects.com/en_GB/TH/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+                        </form>
                       </ul>
                     </div>
                 </div>
@@ -217,10 +235,17 @@
                       <ul class="price">
                         <li class="header bg-blue">Users</li>
                         <!-- <li class="grey">$ 9.99 / year</li> -->
-                        <li class="grey lighter">$<span class="pricevalue">745</span> /mo</li>
-                        <li>21-day risk free guarantee</li>
+                        <li class="grey lighter">$<span class="pricevalue">595</span> /mo</li>
+                        <li>21-day money-back guarantee</li>
                         <li>Unlimited task submissions</li>
-                        <li>3 active tasks at a time</li>
+                        <li>
+                            <select>
+                              <option value="595">1</option>
+                              <option value="895">3</option>
+                              <option value="1695">7</option>
+                              <option value="unlimited">Unlimited</option>
+                            </select> active tasks at a time
+                        </li>
                         <li>All HubSpot Products Supported</li>
                         <li>SEO optimization</li>
                         <li>Design assist for templates</li>
@@ -354,6 +379,7 @@
         <script type="text/javascript" src="scripts/parallax.min.js"></script>
         <script type="text/javascript" src='scripts/flexslider/jquery.flexslider-min.js'></script>
         <script type="text/javascript" src="scripts/jquery.magnific-popup.min.js"></script>
+        <script type="text/javascript" src="scripts/jquery.nice-select.min.js"></script>
         <script type="text/javascript" async src='scripts/isotope.min.js'></script>
         <script src='scripts/jquery.slimscroll.min.js'></script>
         <script src='scripts/jquery.flipster.min.js'></script>

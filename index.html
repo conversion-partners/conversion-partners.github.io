@@ -198,13 +198,13 @@
                     <div class="columns">
                       <ul class="price">
                         <li class="header white">Agencies</li>
-                        <li class="grey lighter">$<span class="pricevalue">495</span> /mo</li>
+                        <li class="grey lighter">$<span class="pricevalue" id="agencypricevalue">495</span> /mo</li>
                         <!-- <li class="grey">$ 9.99 / year</li> -->
                         <li class="white-label">White-Label Services</li>
                         <li>21-day money-back guarantee</li>
                         <li>Unlimited task submissions</li>
                         <li>
-                            <select>
+                            <select id="agency-select">
                               <option value="495">1</option>
                               <option value="795">3</option>
                               <option value="1595">7</option>
@@ -213,11 +213,12 @@
                         </li>
                         <li>All HubSpot Products Supported</li>
                         <li>White label dashboard</li>
-                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                        <li>
+                        <form id="agency-form" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                             <input type="hidden" name="cmd" value="_s-xclick">
                             <input type="hidden" name="hosted_button_id" value="E5FUL9W54KLZQ">
-                            <table>
-                            <tr><td><input type="hidden" name="on0" value="Tasks">Tasks</td></tr><tr><td><select name="os0">
+                            <table id="agency" class="hidden">
+                            <tr><td><input type="hidden" name="on0" value="Tasks">Tasks</td></tr><tr><td><select id="new-agency-select" name="os0">
                                 <option value="1 active task">1 active task $495.00 USD</option>
                                 <option value="3 active tasks">3 active tasks $795.00 USD</option>
                                 <option value="7 active tasks">7 active tasks $1,595.00 USD</option>
@@ -227,6 +228,7 @@
                             <input type="image" src="https://www.paypalobjects.com/en_GB/TH/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
                             <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
                         </form>
+                        </li>
                       </ul>
                     </div>
                 </div>
@@ -235,11 +237,11 @@
                       <ul class="price">
                         <li class="header bg-blue">Users</li>
                         <!-- <li class="grey">$ 9.99 / year</li> -->
-                        <li class="grey lighter">$<span class="pricevalue">595</span> /mo</li>
+                        <li class="grey lighter">$<span class="pricevalue" id="userpricevalue">595</span> /mo</li>
                         <li>21-day money-back guarantee</li>
                         <li>Unlimited task submissions</li>
                         <li>
-                            <select>
+                            <select id="user-select">
                               <option value="595">1</option>
                               <option value="895">3</option>
                               <option value="1695">7</option>
@@ -249,7 +251,23 @@
                         <li>All HubSpot Products Supported</li>
                         <li>SEO optimization</li>
                         <li>Design assist for templates</li>
-                        <li class="grey"><a href="contact.html" class="btn btn-l btn-cta">Get Started</a></li>
+                        <!-- <li class="grey"><a href="contact.html" class="btn btn-l btn-cta">Get Started</a></li> -->
+                        <li>
+                        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                            <input type="hidden" name="cmd" value="_s-xclick">
+                            <input type="hidden" name="hosted_button_id" value="FY2QY75BQE6FL">
+                            <table id="user" class="hidden">
+                            <tr><td><input type="hidden" name="on0" value="User Tasks">User Tasks</td></tr><tr><td><select id="new-user-select" name="os0">
+                                <option value="1 active task">1 active task $595.00 USD</option>
+                                <option value="3 active tasks">3 active tasks $895.00 USD</option>
+                                <option value="7 active tasks">7 active tasks $1,695.00 USD</option>
+                            </select> </td></tr>
+                            </table>
+                            <input type="hidden" name="currency_code" value="USD">
+                            <input type="image" src="https://www.paypalobjects.com/en_GB/TH/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+                            <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+                        </form>
+                        </li>
                       </ul>
                     </div>
                 </div>
@@ -379,11 +397,11 @@
         <script type="text/javascript" src="scripts/parallax.min.js"></script>
         <script type="text/javascript" src='scripts/flexslider/jquery.flexslider-min.js'></script>
         <script type="text/javascript" src="scripts/jquery.magnific-popup.min.js"></script>
-        <script type="text/javascript" src="scripts/jquery.nice-select.min.js"></script>
         <script type="text/javascript" async src='scripts/isotope.min.js'></script>
         <script src='scripts/jquery.slimscroll.min.js'></script>
         <script src='scripts/jquery.flipster.min.js'></script>
         <script src='scripts/smooth.scroll.min.js'></script>
+        <script src='scripts/custom.js'></script>
     </footer>
 <!-- Start of HubSpot Embed Code -->
   <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5029802.js"></script>

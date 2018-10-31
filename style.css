@@ -5950,6 +5950,10 @@ dl dd {
     width: 100%;
 }
 
+img.img-blog {
+    margin: 20px 20px 20px 0;
+}
+
 .list-blog .screen-reader-text {
     display: none;
 }
@@ -7505,5 +7509,5 @@ iframe .hubspot-link__container {
 }
 
 #agency-select {
-    
+
 }

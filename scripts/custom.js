@@ -8,11 +8,12 @@
 		mapAgency["795"] = "3 active tasks";
 		mapAgency["1595"] = "7 active tasks";
 
-    	$("#agency-select").on("change", function() {
-    		console.log(this.value); // 495, 795
-    		$("#new-agency-select").val(mapAgency[this.value]);
-    		$("#agencypricevalue").html(this.value);
-    	});
+        $("#agency-select").children().on("click", function() {
+            console.log($(this).html());
+            $("#new-agency-select").val(mapAgency[this.className]);
+            $("#agencypricevalue").html(this.className);
+            $("#dropdown-agency-select .dropbtn").html($(this).html());
+        });
 
     	var mapUser = {};
 		// add a item
@@ -25,6 +26,17 @@
     		$("#new-user-select").val(mapUser[this.value]);
     		$("#userpricevalue").html(this.value);
     	});
+
+
+
+        $("#user-select").children().on("click", function() {
+            console.log($(this).html());
+            $("#new-user-select").val(mapUser[this.className]);
+            $("#userpricevalue").html(this.className);
+            $("#dropdown-user-select .dropbtn").html($(this).html());
+        });
+
+
 
     });
 })(jQuery); // End of use strict;
